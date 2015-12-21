@@ -21,7 +21,7 @@
     <lastmod>2015-10-06T00:00:00-04:00</lastmod>
   </url>
   <url>
-    <loc>https://jacobroy.quebec/https://jacobroy.quebec//series/2015/10/06/instameet-2015/</loc>
+    <loc>https://jacobroy.quebec/https://jacobroy.quebec//evenements/series/2015/10/06/instameet-2015/</loc>
     <lastmod>2015-10-06T00:00:00-04:00</lastmod>
   </url>
   <url>
@@ -37,7 +37,7 @@
     <lastmod>2015-08-19T00:00:00-04:00</lastmod>
   </url>
   <url>
-    <loc>https://jacobroy.quebec/https://jacobroy.quebec//series/2015/08/01/Tournoi-de-golf-2015/</loc>
+    <loc>https://jacobroy.quebec/https://jacobroy.quebec//evenements/series/2015/08/01/Tournoi-de-golf-2015/</loc>
     <lastmod>2015-08-01T00:00:00-04:00</lastmod>
   </url>
   <url>
@@ -93,7 +93,7 @@
     <lastmod>2015-06-16T00:00:00-04:00</lastmod>
   </url>
   <url>
-    <loc>https://jacobroy.quebec/https://jacobroy.quebec//series/2015/06/01/Pantouffe/</loc>
+    <loc>https://jacobroy.quebec/https://jacobroy.quebec//portraits/series/2015/06/01/Pantouffe/</loc>
     <lastmod>2015-06-01T00:00:00-04:00</lastmod>
   </url>
   <url>
@@ -748,7 +748,7 @@
     <loc>https://jacobroy.quebec/https://jacobroy.quebec//404.html</loc>
   </url>
   <url>
-    <loc>https://jacobroy.quebec/https://jacobroy.quebec//erreur/</loc>
+    <loc>https://jacobroy.quebec/https://jacobroy.quebec//evenements/grille/</loc>
   </url>
   <url>
     <loc>https://jacobroy.quebec/https://jacobroy.quebec//boutique/2013/</loc>
@@ -787,10 +787,10 @@
     <loc>https://jacobroy.quebec/https://jacobroy.quebec//boutique/urbain/</loc>
   </url>
   <url>
-    <loc>https://jacobroy.quebec/https://jacobroy.quebec//boutique/nature/</loc>
+    <loc>https://jacobroy.quebec/https://jacobroy.quebec//erreur/</loc>
   </url>
   <url>
-    <loc>https://jacobroy.quebec/https://jacobroy.quebec//evenements/grille/</loc>
+    <loc>https://jacobroy.quebec/https://jacobroy.quebec//boutique/nature/</loc>
   </url>
   <url>
     <loc>https://jacobroy.quebec/https://jacobroy.quebec//evenements/</loc>
@@ -829,9 +829,21 @@
     <loc>https://jacobroy.quebec/https://jacobroy.quebec//series/</loc>
   </url>
   <url>
-    <loc>https://jacobroy.quebec/https://jacobroy.quebec//test/grille/</loc>
+    <loc>https://jacobroy.quebec/https://jacobroy.quebec//test/evenements/</loc>
+  </url>
+  <url>
+    <loc>https://jacobroy.quebec/https://jacobroy.quebec//test/histoires-de-poche/</loc>
   </url>
   <url>
     <loc>https://jacobroy.quebec/https://jacobroy.quebec//test/</loc>
+  </url>
+  <url>
+    <loc>https://jacobroy.quebec/https://jacobroy.quebec//test/portraits/</loc>
+  </url>
+  <url>
+    <loc>https://jacobroy.quebec/https://jacobroy.quebec//test/reflexions/</loc>
+  </url>
+  <url>
+    <loc>https://jacobroy.quebec/https://jacobroy.quebec//test/series/</loc>
   </url>
 </urlset>
