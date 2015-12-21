@@ -98,10 +98,9 @@
 }
 .grille {
 
-  text-align: center;
 }
 .grille span {
-  text-align: left;
+
 }
 
 .post-title-grille {
@@ -125,6 +124,9 @@
   padding-top: 10px;
   margin-top: -12px;
   margin-bottom: 50px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /* list view button */
