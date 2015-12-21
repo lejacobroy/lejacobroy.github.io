@@ -38,6 +38,7 @@
   img {
     opacity: 0;
     transition: opacity .3s ease-in;
+    height:320px;
   }
 </style>
 
@@ -46,6 +47,7 @@
     $("img").unveil(1, function() {
       $(this).load(function() {
       this.style.opacity = 1;
+      this.style.height = auto;
       });
     });
   });
