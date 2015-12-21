@@ -96,9 +96,12 @@
   color:#505050;
 
 }
-.grille div img {
+.grille {
 
   text-align: center;
+}
+.grille span {
+  text-align: left;
 }
 
 .post-title-grille {
