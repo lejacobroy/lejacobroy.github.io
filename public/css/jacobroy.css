@@ -229,6 +229,7 @@
   text-decoration: none;
   list-style-type: none;
   width: 1000px;
+  height: 670px;
   background-repeat: no-repeat;
 }
 .portraits a, .histoires-de-poche a, .series a, .evenements a, .reflexions a, .qui a, .boutique a  {
@@ -298,8 +299,10 @@
 }
 
 .qui a {
+  float: left;
   height: 127px;
   width: 1000px;
+  margin-bottom: 25px;
   background-position: 0px -543px;
 }
 .qui a:hover {
