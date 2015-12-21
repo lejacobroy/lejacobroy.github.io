@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="fr">
 
-  <head>
+<head>
 <script type="text/javascript">
     var host = "jacobroy.quebec";
     if ((host == window.location.host) && (window.location.protocol != "https:"))
@@ -31,26 +31,32 @@
 
   <!-- RSS -->
   <link rel="alternate" type="application/atom+xml" title="Jacob Roy" href="https://jacobroy.quebec/atom.xml">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/unveil/1.3.0/jquery.unveil.min.js"></script>
-
-<style type="text/css">
-  img {
-    opacity: 0;
-    transition: opacity .3s ease-in;
-  }
-</style>
-
+<script src="https://jacobroy.quebec/public/js/jquery-2.1.4.min.js"></script>
 <script>
-  $(document).ready(function() {
-    $("img").unveil(1, function() {
-      $(this).load(function() {
-      this.style.opacity = 1;
-      });
-    });
-  });
+    function update( elem ) {
+    document.getElementById('prix').textContent = elem.value;
+    }
 </script>
+<script>
+$(document).ready(function() {
+  $.boutonMap = {
+    '55' : $('#bouton-1'),
+    '75' : $('#bouton-2'),
+    '120' : $('#bouton-3'),
+    '180' : $('#bouton-4')
+  }
+$.each($.boutonMap, function() { this.hide(); });
+$.boutonMap['55'].show();
+  ;
 
+  $('#format').change(function() {
+    // hide all
+    $.each($.boutonMap, function() { this.hide(); });
+    // show current
+    $.boutonMap[$(this).val()].show();
+  });
+});
+</script>
 
 <!-- Google Analytics -->
 
@@ -102,32 +108,6 @@
         </h3>
       </div>
 
-      <script src="https://jacobroy.quebec/public/js/jquery-2.1.4.min.js"></script>
-<script>
-    function update( elem ) {
-    document.getElementById('prix').textContent = elem.value;
-    }
-</script>
-<script>
-$(document).ready(function() {
-  $.boutonMap = {
-    '55' : $('#bouton-1'),
-    '75' : $('#bouton-2'),
-    '120' : $('#bouton-3'),
-    '180' : $('#bouton-4')
-  }
-$.each($.boutonMap, function() { this.hide(); });
-$.boutonMap['55'].show();
-  ;
-
-  $('#format').change(function() {
-    // hide all
-    $.each($.boutonMap, function() { this.hide(); });
-    // show current
-    $.boutonMap[$(this).val()].show();
-  });
-});
-</script>
 <div class="posts">
  <div class="post">
 
@@ -258,9 +238,7 @@ $.boutonMap['55'].show();
     </div>
   </div>
 </div>
-
-
-            <div class="footer">
+      <div class="footer">
         <p>
           &nbsp; &copy; <a href="mailto:contact@jacobroy.quebec">Jacob Roy</a>, 2015. Tous droits réservés.
           <div class="fb_button">
@@ -275,4 +253,3 @@ $.boutonMap['55'].show();
 
   </body>
 </html>
-
