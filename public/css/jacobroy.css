@@ -102,13 +102,17 @@
   text-decoration: none;
   font-size: 1.5rem;
   margin-bottom: .5rem;
-  font-weight: 400;
-  line-height: 1;
+  font-weight: 500;
+  line-height: 1.25;
 }
+.post-title-grille a {
+  color: #303030;
+  text-decoration: none;
+  }
 
 .grille-img {
-  padding-top: 10px;
-  padding-bottom: 30px;
+  padding-top: -10px;
+  padding-bottom: 40px;
 }
 
 /* list view button */
