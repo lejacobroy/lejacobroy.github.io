@@ -307,7 +307,8 @@
 }
 
 .news {
-  color: #505050;
+	padding-top: 30px;
+	color: #505050;
 }
 .post-news {
   width: 975px;

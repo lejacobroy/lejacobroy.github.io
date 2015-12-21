@@ -1,0 +1,3 @@
+#!bin/bash
+cd ~/GitHub/Jekyll_blog/_site/
+find . -type f -name '*.html' -exec sed -i '' 's/\<img\ src\=/\<img\ src\=\"https\:\/\/jacobroy\.quebec\/public\/css\/load\.png\"\ data\-src\=/g' {} +
