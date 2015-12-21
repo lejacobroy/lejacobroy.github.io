@@ -748,7 +748,7 @@
     <loc>https://jacobroy.quebec/https://jacobroy.quebec//404.html</loc>
   </url>
   <url>
-    <loc>https://jacobroy.quebec/https://jacobroy.quebec//boutique/nature/</loc>
+    <loc>https://jacobroy.quebec/https://jacobroy.quebec//erreur/</loc>
   </url>
   <url>
     <loc>https://jacobroy.quebec/https://jacobroy.quebec//boutique/2013/</loc>
@@ -787,7 +787,7 @@
     <loc>https://jacobroy.quebec/https://jacobroy.quebec//boutique/urbain/</loc>
   </url>
   <url>
-    <loc>https://jacobroy.quebec/https://jacobroy.quebec//erreur/</loc>
+    <loc>https://jacobroy.quebec/https://jacobroy.quebec//boutique/nature/</loc>
   </url>
   <url>
     <loc>https://jacobroy.quebec/https://jacobroy.quebec//evenements/grille/</loc>
@@ -827,6 +827,9 @@
   </url>
   <url>
     <loc>https://jacobroy.quebec/https://jacobroy.quebec//series/</loc>
+  </url>
+  <url>
+    <loc>https://jacobroy.quebec/https://jacobroy.quebec//test/grille/</loc>
   </url>
   <url>
     <loc>https://jacobroy.quebec/https://jacobroy.quebec//test/</loc>
