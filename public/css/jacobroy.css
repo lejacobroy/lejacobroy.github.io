@@ -114,6 +114,10 @@
   color: #303030;
   text-decoration: none;
   }
+  .post-title-grille a:hover {
+  color: #303030;
+  text-decoration: underline;
+  }
 .post-date-grille {
   display: block;
   margin-top: -5px;
