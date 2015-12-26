@@ -98,18 +98,18 @@
 }
 
 .post-title-grille {
-  color: #303030;
+  color: #505050;
   text-decoration: none;
   font-size: 1.5rem;
-  font-weight: 500;
+  font-weight: 400;
   line-height: 1.5;
 }
 .post-title-grille a {
-  color: #303030;
+  color: #505050;
   text-decoration: none;
   }
   .post-title-grille a:hover {
-  color: #303030;
+  color: #505050;
   text-decoration: underline;
   }
 .post-date-grille {
@@ -140,12 +140,6 @@
   padding: 0px;
   margin: 0px;
   clear: both;
-}
-#nav_spacer{
-  width: 100px;
-    width: 60px;
-  height: 30px;
-  display: inline-block;
 }
 
 
