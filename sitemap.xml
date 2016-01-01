@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://jacobroy.quebec/https://jacobroy.quebec//reflexions/2016/01/01/Resolutions/</loc>
+    <lastmod>2016-01-01T00:00:00-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://jacobroy.quebec/https://jacobroy.quebec//portraits/2015/12/31/ATTENTION-Design/</loc>
+    <lastmod>2015-12-31T00:00:00-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://jacobroy.quebec/https://jacobroy.quebec//portraits/2015/12/25/Les-Voisins/</loc>
+    <lastmod>2015-12-25T00:00:00-05:00</lastmod>
+  </url>
+  <url>
     <loc>https://jacobroy.quebec/https://jacobroy.quebec//evenements/2015/12/01/fraichement-montrealaises/</loc>
     <lastmod>2015-12-01T00:00:00-05:00</lastmod>
   </url>
@@ -15,6 +27,10 @@
   <url>
     <loc>https://jacobroy.quebec/https://jacobroy.quebec//series/2015/11/09/sans-gout/</loc>
     <lastmod>2015-11-09T00:00:00-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://jacobroy.quebec/https://jacobroy.quebec//series/2015/10/19/Maison-de-la-litterature/</loc>
+    <lastmod>2015-10-19T00:00:00-04:00</lastmod>
   </url>
   <url>
     <loc>https://jacobroy.quebec/https://jacobroy.quebec//portraits/2015/10/06/petite.peche/</loc>
@@ -1360,6 +1376,9 @@
       <loc>https://jacobroy.quebec/https://jacobroy.quebec//portraits/2015/10/06/petite.peche/</loc>
     </url>
     <url>
+      <loc>https://jacobroy.quebec/https://jacobroy.quebec//series/2015/10/19/Maison-de-la-litterature/</loc>
+    </url>
+    <url>
       <loc>https://jacobroy.quebec/https://jacobroy.quebec//series/2015/11/09/sans-gout/</loc>
     </url>
     <url>
@@ -1370,5 +1389,14 @@
     </url>
     <url>
       <loc>https://jacobroy.quebec/https://jacobroy.quebec//evenements/2015/12/01/fraichement-montrealaises/</loc>
+    </url>
+    <url>
+      <loc>https://jacobroy.quebec/https://jacobroy.quebec//portraits/2015/12/25/Les-Voisins/</loc>
+    </url>
+    <url>
+      <loc>https://jacobroy.quebec/https://jacobroy.quebec//portraits/2015/12/31/ATTENTION-Design/</loc>
+    </url>
+    <url>
+      <loc>https://jacobroy.quebec/https://jacobroy.quebec//reflexions/2016/01/01/Resolutions/</loc>
     </url>
 </urlset>
