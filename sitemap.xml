@@ -181,6 +181,22 @@
     <lastmod>2015-02-18T00:00:00-05:00</lastmod>
   </url>
   <url>
+    <loc>https://jacobroy.quebec/https://jacobroy.quebec//boutique/1986/01/10/tempete-urbaine-4/</loc>
+    <lastmod>1986-01-10T00:00:00-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://jacobroy.quebec/https://jacobroy.quebec//boutique/1986/01/10/tempete-urbaine-3/</loc>
+    <lastmod>1986-01-10T00:00:00-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://jacobroy.quebec/https://jacobroy.quebec//boutique/1986/01/10/tempete-urbaine-2/</loc>
+    <lastmod>1986-01-10T00:00:00-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://jacobroy.quebec/https://jacobroy.quebec//boutique/1986/01/10/tempete-urbaine-1/</loc>
+    <lastmod>1986-01-10T00:00:00-05:00</lastmod>
+  </url>
+  <url>
     <loc>https://jacobroy.quebec/https://jacobroy.quebec//boutique/1985/11/10/vague-abstraite/</loc>
     <lastmod>1985-11-10T00:00:00-05:00</lastmod>
   </url>
@@ -764,7 +780,10 @@
     <loc>https://jacobroy.quebec/https://jacobroy.quebec//404.html</loc>
   </url>
   <url>
-    <loc>https://jacobroy.quebec/https://jacobroy.quebec//boutique/</loc>
+    <loc>https://jacobroy.quebec/https://jacobroy.quebec//boutique/urbain/</loc>
+  </url>
+  <url>
+    <loc>https://jacobroy.quebec/https://jacobroy.quebec//boutique/2015/</loc>
   </url>
   <url>
     <loc>https://jacobroy.quebec/https://jacobroy.quebec//boutique/abstrait/</loc>
@@ -791,10 +810,10 @@
     <loc>https://jacobroy.quebec/https://jacobroy.quebec//boutique/test/</loc>
   </url>
   <url>
-    <loc>https://jacobroy.quebec/https://jacobroy.quebec//boutique/urbain/</loc>
+    <loc>https://jacobroy.quebec/https://jacobroy.quebec//boutique/2014/</loc>
   </url>
   <url>
-    <loc>https://jacobroy.quebec/https://jacobroy.quebec//boutique/2014/</loc>
+    <loc>https://jacobroy.quebec/https://jacobroy.quebec//boutique/</loc>
   </url>
   <url>
     <loc>https://jacobroy.quebec/https://jacobroy.quebec//erreur/</loc>
@@ -1263,6 +1282,18 @@
     </url>
     <url>
       <loc>https://jacobroy.quebec/https://jacobroy.quebec//boutique/1985/11/10/vague-abstraite/</loc>
+    </url>
+    <url>
+      <loc>https://jacobroy.quebec/https://jacobroy.quebec//boutique/1986/01/10/tempete-urbaine-1/</loc>
+    </url>
+    <url>
+      <loc>https://jacobroy.quebec/https://jacobroy.quebec//boutique/1986/01/10/tempete-urbaine-2/</loc>
+    </url>
+    <url>
+      <loc>https://jacobroy.quebec/https://jacobroy.quebec//boutique/1986/01/10/tempete-urbaine-3/</loc>
+    </url>
+    <url>
+      <loc>https://jacobroy.quebec/https://jacobroy.quebec//boutique/1986/01/10/tempete-urbaine-4/</loc>
     </url>
     <url>
       <loc>https://jacobroy.quebec/https://jacobroy.quebec//reflexions/2015/02/18/pourquoi/</loc>
