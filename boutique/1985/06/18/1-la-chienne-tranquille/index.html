@@ -63,10 +63,10 @@
 <script>
 $(document).ready(function() {
   $.boutonMap = {
-    '55' : $('#bouton-1'),
-    '75' : $('#bouton-2'),
-    '120' : $('#bouton-3'),
-    '180' : $('#bouton-4')
+    '70' : $('#bouton-1'),
+    '90' : $('#bouton-2'),
+    '150' : $('#bouton-3'),
+    '250' : $('#bouton-4')
   }
 $.each($.boutonMap, function() { this.hide(); });
 $.boutonMap['55'].show();
@@ -143,14 +143,14 @@ $.boutonMap['55'].show();
     <div class="infos">
       <form>
     Format : <select id="format" onchange="update(this)">
-          <option selected="selected" value="55">16" x 12"</option>
+          <option selected="selected" value="70">16" x 12"</option>
           <!--70$-->
-          <option value="75">24" x 16"</option>
-          <!--105$-->
-          <option value="120">36" x 24"</option>
-          <!--170$-->
-          <option value="180">48" x 30"</option>
-          <!--210$-->
+          <option value="90">24" x 16"</option>
+          <!--90$-->
+          <option value="150">36" x 24"</option>
+          <!--150$-->
+          <option value="250">48" x 36"</option>
+          <!--250$-->
         </select><span class="spacer">&nbsp;</span>
         </form>
 
@@ -162,17 +162,17 @@ $.boutonMap['55'].show();
             data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
             data-name="Jacob Roy &middot; Boutique"
             data-description='La Chienne Tranquille, 16" x 12"'
-            data-amount="5500"
+            data-amount="7000"
             data-zip-code="true"
             data-billingAddress="true"
             data-shippingAddress="true"
             data-locale="fr"
             data-currency="CAD"
-            data-label="55$ &middot; Acheter"
+            data-label="70$ &middot; Acheter"
             data-bitcoin="true"
             >
           </script>
-          <input name="amount" value="5500" type="hidden">
+          <input name="amount" value="7000" type="hidden">
           <input name="description" value='La Chienne Tranquille, 16" x 12", /boutique/1985/06/18/1-la-chienne-tranquille/' type="hidden">
           </span>
           </form>
@@ -185,17 +185,17 @@ $.boutonMap['55'].show();
             data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
             data-name="Jacob Roy &middot; Boutique"
             data-description='La Chienne Tranquille, 24" x 16"'
-            data-amount="7500"
+            data-amount="9000"
              data-zip-code="true"
             data-billingAddress="true"
             data-shippingAddress="true"
             data-locale="fr"
             data-currency="CAD"
-            data-label="75$ &middot; Acheter"
+            data-label="90$ &middot; Acheter"
             data-bitcoin="true"
             >
           </script>
-          <input name="amount" value="7500" type="hidden">
+          <input name="amount" value="9000" type="hidden">
           <input name="description" value='La Chienne Tranquille, 24" x 16", /boutique/1985/06/18/1-la-chienne-tranquille/' type="hidden">
           </span>
           </form>
@@ -208,17 +208,17 @@ $.boutonMap['55'].show();
             data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
             data-name="Jacob Roy &middot; Boutique"
             data-description='La Chienne Tranquille, 36" x 24"'
-            data-amount="12000"
+            data-amount="15000"
              data-zip-code="true"
             data-billingAddress="true"
             data-shippingAddress="true"
             data-locale="fr"
             data-currency="CAD"
-            data-label="120$ &middot; Acheter"
+            data-label="150$ &middot; Acheter"
             data-bitcoin="true"
             >
           </script>
-          <input name="amount" value="12000" type="hidden">
+          <input name="amount" value="15000" type="hidden">
           <input name="description" value='La Chienne Tranquille, 36" x 24", /boutique/1985/06/18/1-la-chienne-tranquille/' type="hidden">
           </span>
           </form>
@@ -231,17 +231,17 @@ $.boutonMap['55'].show();
             data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
             data-name="Jacob Roy &middot; Boutique"
             data-description='La Chienne Tranquille, 48" x 30"'
-            data-amount="18000"
+            data-amount="25000"
              data-zip-code="true"
             data-billingAddress="true"
             data-shippingAddress="true"
             data-locale="fr"
             data-currency="CAD"
-            data-label="180$ &middot; Acheter"
+            data-label="250$ &middot; Acheter"
             data-bitcoin="true"
             >
           </script>
-          <input name="amount" value="18000" type="hidden">
+          <input name="amount" value="25000" type="hidden">
           <input name="description" value='La Chienne Tranquille, 48" x 30", /boutique/1985/06/18/1-la-chienne-tranquille/' type="hidden">
           </span>
           </form>
