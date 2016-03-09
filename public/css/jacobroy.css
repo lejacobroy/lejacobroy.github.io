@@ -139,21 +139,14 @@
  top:7px;
  left:50px;
  font-size: 75%;
- font-weight: 300;
 }
 .nav_style ul li {
-  display:
-  inline-block;
+  display:inline-block;
   padding: 0px 10px;
 }
-.nav_style ul li .nav_selected {
+.nav_selected {
   color:#c0c0c0;
 }
-
-.masthead-title-test{
-  font-weight: 300;
-}
-
 
 
 #primary_nav_wrap {
