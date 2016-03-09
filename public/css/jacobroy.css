@@ -1,4 +1,8 @@
-
+p img {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 .store_img {
   margin-top: -30px;
   z-index: 99;
@@ -101,7 +105,7 @@
 .post-title-grille {
   color: #505050;
   text-decoration: none;
-  font-size: 80%
+  font-size: 90%;
   font-weight: 300;
   line-height: 1.5;
 }
