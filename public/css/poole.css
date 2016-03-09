@@ -309,6 +309,7 @@ tbody tr:nth-child(odd) th {
   padding-top:    1rem;
   padding-bottom: 1rem;
   margin-bottom: 3rem;
+  width: 1000px;
 }
 .masthead-title {
   margin-top: 0;
