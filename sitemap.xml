@@ -193,10 +193,6 @@
     <lastmod>1986-01-28T00:00:00-05:00</lastmod>
   </url>
   <url>
-    <loc>https://jacobroy.quebec/https://jacobroy.quebec//boutique/1986/01/10/tempete-urbaine-4/</loc>
-    <lastmod>1986-01-10T00:00:00-05:00</lastmod>
-  </url>
-  <url>
     <loc>https://jacobroy.quebec/https://jacobroy.quebec//boutique/1986/01/10/tempete-urbaine-3/</loc>
     <lastmod>1986-01-10T00:00:00-05:00</lastmod>
   </url>
@@ -206,6 +202,10 @@
   </url>
   <url>
     <loc>https://jacobroy.quebec/https://jacobroy.quebec//boutique/1986/01/10/tempete-urbaine-1/</loc>
+    <lastmod>1986-01-10T00:00:00-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://jacobroy.quebec/https://jacobroy.quebec//boutique/1986/01/10/soir-de-premiere-neige/</loc>
     <lastmod>1986-01-10T00:00:00-05:00</lastmod>
   </url>
   <url>
@@ -1296,6 +1296,9 @@
       <loc>https://jacobroy.quebec/https://jacobroy.quebec//boutique/1985/11/10/vague-abstraite/</loc>
     </url>
     <url>
+      <loc>https://jacobroy.quebec/https://jacobroy.quebec//boutique/1986/01/10/soir-de-premiere-neige/</loc>
+    </url>
+    <url>
       <loc>https://jacobroy.quebec/https://jacobroy.quebec//boutique/1986/01/10/tempete-urbaine-1/</loc>
     </url>
     <url>
@@ -1303,9 +1306,6 @@
     </url>
     <url>
       <loc>https://jacobroy.quebec/https://jacobroy.quebec//boutique/1986/01/10/tempete-urbaine-3/</loc>
-    </url>
-    <url>
-      <loc>https://jacobroy.quebec/https://jacobroy.quebec//boutique/1986/01/10/tempete-urbaine-4/</loc>
     </url>
     <url>
       <loc>https://jacobroy.quebec/https://jacobroy.quebec//boutique/1986/01/28/trajet-quotidien/</loc>
