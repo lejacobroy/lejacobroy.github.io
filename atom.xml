@@ -4,7 +4,7 @@
  <title>Jacob Roy</title>
  <link href="https://jacobroy.quebec/https://jacobroy.quebec/atom.xml" rel="self"/>
  <link href="https://jacobroy.quebec/https://jacobroy.quebec/"/>
- <updated>2016-03-23T17:30:26-04:00</updated>
+ <updated>2016-03-28T22:08:09-04:00</updated>
  <id>https://jacobroy.quebec/</id>
  <author>
    <name>Jacob Roy</name>
@@ -2165,6 +2165,15 @@ Maintenant à l&amp;#39;abandon, elle se tient droite, surveillant le cimetière
  </entry>
  
  <entry>
+   <title>Maison de la Litterature</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1985/10/13/Maison-de-la-litterature/"/>
+   <updated>1985-10-13T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1985/10/13/Maison-de-la-litterature</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/DSCF2614.jpg&quot; alt=&quot;maisondelalitterature&quot; title=&quot;Maison de la Litterature&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Les Tunnels</title>
    <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1985/10/06/les-tunnels/"/>
    <updated>1985-10-06T00:00:00-04:00</updated>
@@ -2606,6 +2615,15 @@ Maintenant à l&amp;#39;abandon, elle se tient droite, surveillant le cimetière
  </entry>
  
  <entry>
+   <title>L'explorateur</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1985/03/17/l-explorateur/"/>
+   <updated>1985-03-17T00:00:00-05:00</updated>
+   <id>https://jacobroy.quebec//boutique/1985/03/17/l-explorateur</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/DSCF8160.jpg&quot; alt=&quot;lexplorateur&quot; title=&quot;L&amp;#39;explorateur&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Petits poissons</title>
    <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1985/03/10/petits-poissons/"/>
    <updated>1985-03-10T00:00:00-05:00</updated>
@@ -2661,766 +2679,757 @@ Maintenant à l&amp;#39;abandon, elle se tient droite, surveillant le cimetière
  
  <entry>
    <title>Brighton, UK</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1984/10/19/brighton-uk/"/>
-   <updated>1984-10-19T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1984/10/19/brighton-uk</id>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1984/10/18/brighton-uk/"/>
+   <updated>1984-10-18T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1984/10/18/brighton-uk</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_7946.jpg&quot; alt=&quot;brighton&quot; title=&quot;Brighton, UK&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
-   <title>St-Pancras Train Station</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1984/10/17/st-pancras-train-station/"/>
-   <updated>1984-10-17T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1984/10/17/st-pancras-train-station</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_6776.jpg&quot; alt=&quot;stpancrastrainstation&quot; title=&quot;St-Pancras Train Station&quot;&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
    <title>Royal Naval College</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1984/10/17/royal-naval-college/"/>
-   <updated>1984-10-17T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1984/10/17/royal-naval-college</id>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1984/10/16/royal-naval-college/"/>
+   <updated>1984-10-16T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1984/10/16/royal-naval-college</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_7607.jpg&quot; alt=&quot;royalnavalcollege&quot; title=&quot;Royal Naval College&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Queen's House</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1984/10/17/queens-house/"/>
-   <updated>1984-10-17T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1984/10/17/queens-house</id>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1984/10/16/queens-house/"/>
+   <updated>1984-10-16T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1984/10/16/queens-house</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_7617.jpg&quot; alt=&quot;queenshouse&quot; title=&quot;Queen&amp;#39;s House&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Peter Harrison Planetarium</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1984/10/17/peter-harrison-planetarium/"/>
-   <updated>1984-10-17T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1984/10/17/peter-harrison-planetarium</id>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1984/10/16/peter-harrison-planetarium/"/>
+   <updated>1984-10-16T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1984/10/16/peter-harrison-planetarium</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_7682.jpg&quot; alt=&quot;peterharrisonplanetarium&quot; title=&quot;Peter Harrison Planetarium&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>London Eye</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1984/10/17/london-eye/"/>
-   <updated>1984-10-17T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1984/10/17/london-eye</id>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1984/10/16/london-eye/"/>
+   <updated>1984-10-16T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1984/10/16/london-eye</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_7513.jpg&quot; alt=&quot;londoneye&quot; title=&quot;London Eye&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
-   <title>Road Closed</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1984/10/17/1-road-closed/"/>
-   <updated>1984-10-17T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1984/10/17/1-road-closed</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_7106.jpg&quot; alt=&quot;roadclosed&quot; title=&quot;Road Closed&quot;&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Queen's House &#35;&#50;</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1984/10/17/1-queens-house-2/"/>
-   <updated>1984-10-17T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1984/10/17/1-queens-house-#2</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_7598.jpg&quot; alt=&quot;queenshouse2&quot; title=&quot;Queen&amp;#39;s House2&quot;&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
    <title>Plafond majestueux</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1984/10/16/plafond-majestueux/"/>
-   <updated>1984-10-16T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1984/10/16/plafond-majestueux</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_7399.jpg&quot; alt=&quot;plafondmajestueux&quot; title=&quot;Plafond majestueux&quot;&gt;&lt;/p&gt;
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1984/10/15/plafond-majestueux/"/>
+   <updated>1984-10-15T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1984/10/15/plafond-majestueux</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_7407.jpg&quot; alt=&quot;plafondmajestueux&quot; title=&quot;Plafond majestueux&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Plafond majestueux &#35;&#50;</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1984/10/16/plafond-majestueux-2/"/>
-   <updated>1984-10-16T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1984/10/16/plafond-majestueux-#2</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_7407.jpg&quot; alt=&quot;plafondmajestueux2&quot; title=&quot;Plafond majestueux #2&quot;&gt;&lt;/p&gt;
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1984/10/15/plafond-majestueux-2/"/>
+   <updated>1984-10-15T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1984/10/15/plafond-majestueux-#2</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_7399.jpg&quot; alt=&quot;plafondmajestueux2&quot; title=&quot;Plafond majestueux #2&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Hampton Court Gardens</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1984/10/16/hampton-court-gardens/"/>
-   <updated>1984-10-16T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1984/10/16/hampton-court-gardens</id>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1984/10/15/hampton-court-gardens/"/>
+   <updated>1984-10-15T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1984/10/15/hampton-court-gardens</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_7431.jpg&quot; alt=&quot;hamptoncourtgardens&quot; title=&quot;Hampton Court Gardens&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
+   <title>Westminster Abbey</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1984/10/14/Westminster-abbey/"/>
+   <updated>1984-10-14T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1984/10/14/Westminster-abbey</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_7225.jpg&quot; alt=&quot;westminsterabbey&quot; title=&quot;Westminster Abbey&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Millenium Bridge</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1984/10/13/Millenium-bridge/"/>
+   <updated>1984-10-13T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1984/10/13/Millenium-bridge</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_7050.jpg&quot; alt=&quot;milleniumbridge&quot; title=&quot;Millenium Bridge&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Roman Bath</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1984/10/15/roman-bath/"/>
-   <updated>1984-10-15T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1984/10/15/roman-bath</id>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1984/10/12/roman-bath/"/>
+   <updated>1984-10-12T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1984/10/12/roman-bath</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_6908.jpg&quot; alt=&quot;romanbath&quot; title=&quot;Roman Bath&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Les petits pieds</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1984/10/15/les-petits-pieds/"/>
-   <updated>1984-10-15T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1984/10/15/les-petits-pieds</id>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1984/10/12/les-petits-pieds/"/>
+   <updated>1984-10-12T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1984/10/12/les-petits-pieds</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_6996.jpg&quot; alt=&quot;lespetitspieds&quot; title=&quot;Les petits pieds&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
+   <title>St-Pancras Train Station</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1984/10/11/st-pancras-train-station/"/>
+   <updated>1984-10-11T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1984/10/11/st-pancras-train-station</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_6776.jpg&quot; alt=&quot;stpancrastrainstation&quot; title=&quot;St-Pancras Train Station&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Petit lapin</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1984/10/01/petit-lapin/"/>
+   <updated>1984-10-01T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1984/10/01/petit-lapin</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_6729.jpg&quot; alt=&quot;petitlapin&quot; title=&quot;Petit lapin&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Au Sommet du Mont St-Hilaire</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1984/09/22/sommet-du-mont-st-hilaire/"/>
-   <updated>1984-09-22T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1984/09/22/sommet-du-mont-st-hilaire</id>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1984/09/25/sommet-du-mont-st-hilaire/"/>
+   <updated>1984-09-25T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1984/09/25/sommet-du-mont-st-hilaire</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_6596.jpg&quot; alt=&quot;sthilaire&quot; title=&quot;Au Sommet du mont St-Hilaire&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Début d'Automne</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1984/09/22/debut-dautomne/"/>
-   <updated>1984-09-22T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1984/09/22/debut-dautomne</id>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1984/09/25/debut-dautomne/"/>
+   <updated>1984-09-25T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1984/09/25/debut-dautomne</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_6583.jpg&quot; alt=&quot;automne1&quot; title=&quot;Début d&amp;#39;automne&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
-   <title>Fougères</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1984/07/01/fougeres/"/>
-   <updated>1984-07-01T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1984/07/01/fougeres</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_2533-2.jpg&quot; alt=&quot;fougères&quot; title=&quot;Fougères&quot;&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Champ de Frelighsburg</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1984/07/01/champ-de-frelighsburg/"/>
-   <updated>1984-07-01T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1984/07/01/champ-de-frelighsburg</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_2462-2.jpg&quot; alt=&quot;frelighsburg&quot; title=&quot;Champ de Frelighsburg&quot;&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Champ de Frelighsburg &#35;&#51;</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1984/07/01/champ-de-frelighsburg-3/"/>
-   <updated>1984-07-01T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1984/07/01/champ-de-frelighsburg-#3</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_5579.jpg&quot; alt=&quot;frelighsburg3&quot; title=&quot;Champ de Frelighsburg #3&quot;&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Champ de Frelighsburg &#35;&#50;</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1984/07/01/champ-de-frelighsburg-2/"/>
-   <updated>1984-07-01T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1984/07/01/champ-de-frelighsburg-#2</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_5575.jpg&quot; alt=&quot;frelighsburg2&quot; title=&quot;Champ de Frelighsburg #2&quot;&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Petit lapin</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1984/05/10/petit-lapin/"/>
-   <updated>1984-05-10T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1984/05/10/petit-lapin</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_6729.jpg&quot; alt=&quot;petitlapin&quot; title=&quot;Petit lapin&quot;&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Petit lapin &#35;&#51;</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1984/05/10/petit-lapin-3/"/>
-   <updated>1984-05-10T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1984/05/10/petit-lapin-#3</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_6724.jpg&quot; alt=&quot;petitlapin3&quot; title=&quot;Petit lapin #3&quot;&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Petit lapin &#35;&#50;</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1984/05/10/petit-lapin-2/"/>
-   <updated>1984-05-10T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1984/05/10/petit-lapin-#2</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_6749.jpg&quot; alt=&quot;petitlapin2&quot; title=&quot;Petit lapin #2&quot;&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Brise foule</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1984/04/03/brise-foule/"/>
-   <updated>1984-04-03T00:00:00-05:00</updated>
-   <id>https://jacobroy.quebec//boutique/1984/04/03/brise-foule</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_4901.jpg&quot; alt=&quot;brisefoule&quot; title=&quot;Brise foule&quot;&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Champs enneigés</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1984/02/01/champs-enneiges/"/>
-   <updated>1984-02-01T00:00:00-05:00</updated>
-   <id>https://jacobroy.quebec//boutique/1984/02/01/champs-enneiges</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_0142.jpg&quot; alt=&quot;champsenneiges&quot; title=&quot;Champs enneigés&quot;&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>La tempête à Montréal</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1984/01/01/la-tempete-a-montreal/"/>
-   <updated>1984-01-01T00:00:00-05:00</updated>
-   <id>https://jacobroy.quebec//boutique/1984/01/01/la-tempete-a-montreal</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_4402-2.jpg&quot; alt=&quot;latempeteamontreal&quot; title=&quot;La Tempête à Montréal&quot;&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Les voisins</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1984/01/01/1-les-voisins/"/>
-   <updated>1984-01-01T00:00:00-05:00</updated>
-   <id>https://jacobroy.quebec//boutique/1984/01/01/1-les-voisins</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_4284-2.jpg&quot; alt=&quot;lesvoisins&quot; title=&quot;Les voisins&quot;&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>L'explorateur</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1984/01/01/1-l-explorateur/"/>
-   <updated>1984-01-01T00:00:00-05:00</updated>
-   <id>https://jacobroy.quebec//boutique/1984/01/01/1-l-explorateur</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/DSCF8160.jpg&quot; alt=&quot;lexplorateur&quot; title=&quot;L&amp;#39;explorateur&quot;&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Les feuilles croquantes</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1983/12/01/les-feuilles-croquantes/"/>
-   <updated>1983-12-01T00:00:00-05:00</updated>
-   <id>https://jacobroy.quebec//boutique/1983/12/01/les-feuilles-croquantes</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_3846.jpg&quot; alt=&quot;lesfeuillescroquantes&quot; title=&quot;Les feuilles croquantes&quot;&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Les feuilles croquantes &#35;&#51;</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1983/12/01/les-feuilles-croquantes-3/"/>
-   <updated>1983-12-01T00:00:00-05:00</updated>
-   <id>https://jacobroy.quebec//boutique/1983/12/01/les-feuilles-croquantes-#3</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_3812.jpg&quot; alt=&quot;lesfeuillescroquantes3&quot; title=&quot;Les feuilles croquantes #3&quot;&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Les feuilles croquantes &#35;&#50;</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1983/12/01/les-feuilles-croquantes-2/"/>
-   <updated>1983-12-01T00:00:00-05:00</updated>
-   <id>https://jacobroy.quebec//boutique/1983/12/01/les-feuilles-croquantes-#2</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_3807.jpg&quot; alt=&quot;lesfeuillescroquantes2&quot; title=&quot;Les feuilles croquantes #2&quot;&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Dans la lumière</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1983/12/01/dans-la-lumiere/"/>
-   <updated>1983-12-01T00:00:00-05:00</updated>
-   <id>https://jacobroy.quebec//boutique/1983/12/01/dans-la-lumiere</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_3822.jpg&quot; alt=&quot;danslalumiere&quot; title=&quot;Dans la lumière&quot;&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Vitre de givre</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1983/11/01/vitre-de-givre/"/>
-   <updated>1983-11-01T00:00:00-05:00</updated>
-   <id>https://jacobroy.quebec//boutique/1983/11/01/vitre-de-givre</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_3619.jpg&quot; alt=&quot;vitredegivre&quot; title=&quot;Vitre de givre&quot;&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Vitre de givre &#35;&#50;</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1983/11/01/vitre-de-givre-2/"/>
-   <updated>1983-11-01T00:00:00-05:00</updated>
-   <id>https://jacobroy.quebec//boutique/1983/11/01/vitre-de-givre-#2</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_3618.jpg&quot; alt=&quot;vitredegivre2&quot; title=&quot;Vitre de givre #2&quot;&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Les feuilles croquantes &#35;&#52;</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1983/10/02/les-feuilles-croquantes-4/"/>
-   <updated>1983-10-02T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1983/10/02/les-feuilles-croquantes-#4</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_3849.jpg&quot; alt=&quot;lesfeuillescroquantes4&quot; title=&quot;Les feuilles croquantes #4&quot;&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Soutien</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1983/10/01/soutien/"/>
-   <updated>1983-10-01T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1983/10/01/soutien</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_3772.jpg&quot; alt=&quot;soutien&quot; title=&quot;Soutien&quot;&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Le Pic</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1983/09/10/le-pic/"/>
-   <updated>1983-09-10T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1983/09/10/le-pic</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_3875.jpg&quot; alt=&quot;lepic&quot; title=&quot;Le Pic&quot;&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>L'eau du Fleuve</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1983/09/10/l-eau-du-fleuve/"/>
-   <updated>1983-09-10T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1983/09/10/l-eau-du-fleuve</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_3159.jpg&quot; alt=&quot;leaudufleuve&quot; title=&quot;L&amp;#39;eau du fleuve&quot;&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Lumières dans la nuit</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1983/09/03/lumieres-dans-la-nuit/"/>
-   <updated>1983-09-03T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1983/09/03/lumieres-dans-la-nuit</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_4031-2.jpg&quot; alt=&quot;lumieresdanslanuit&quot; title=&quot;Lumières dans la nuit&quot;&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Le Fleuve, De Matane</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1983/09/03/le-fleuve-de-matane/"/>
-   <updated>1983-09-03T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1983/09/03/le-fleuve-de-matane</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_3101.jpg&quot; alt=&quot;lefleuvedematane&quot; title=&quot;Le Fleuve, De Matane&quot;&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>La plage, au couché</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1983/09/02/la-plage-au-couche/"/>
-   <updated>1983-09-02T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1983/09/02/la-plage-au-couche</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_6023.jpg&quot; alt=&quot;laplageaucouche&quot; title=&quot;La plage, au couché&quot;&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>La plage, au couché &#35;&#50;</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1983/09/02/la-plage-au-couche-2/"/>
-   <updated>1983-09-02T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1983/09/02/la-plage-au-couche-#2</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_6024.jpg&quot; alt=&quot;laplageaucouche3&quot; title=&quot;La plage, au couché #2&quot;&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Le Fleuve, De Matane &#35;&#50;</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1983/09/01/le-fleuve-de-matane-2/"/>
-   <updated>1983-09-01T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1983/09/01/le-fleuve-de-matane-#2</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_3322.jpg&quot; alt=&quot;lefleuvedematane2&quot; title=&quot;Le Fleuve, De Matane #2&quot;&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>La voie ferrée</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1983/06/01/la-voie-ferree/"/>
-   <updated>1983-06-01T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1983/06/01/la-voie-ferree</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_1458.jpg&quot; alt=&quot;lavoieferree&quot; title=&quot;La voie ferrée&quot;&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Abandon</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1983/06/01/abandon/"/>
-   <updated>1983-06-01T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1983/06/01/abandon</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_6060-2.jpg&quot; alt=&quot;abandon&quot; title=&quot;Abandon&quot;&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
    <title>Morning Glory</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1983/05/01/morning-glory/"/>
-   <updated>1983-05-01T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1983/05/01/morning-glory</id>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1984/07/29/morning-glory/"/>
+   <updated>1984-07-29T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1984/07/29/morning-glory</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_5846.jpg&quot; alt=&quot;morningglory&quot; title=&quot;Morning Glory&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Morning Glory &#35;&#51;</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1983/05/01/morning-glory-3/"/>
-   <updated>1983-05-01T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1983/05/01/morning-glory-#3</id>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1984/07/29/morning-glory-3/"/>
+   <updated>1984-07-29T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1984/07/29/morning-glory-#3</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_5882.jpg&quot; alt=&quot;morningglory3&quot; title=&quot;Morning Glory #3&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Morning Glory &#35;&#50;</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1983/05/01/morning-glory-2/"/>
-   <updated>1983-05-01T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1983/05/01/morning-glory-#2</id>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1984/07/29/morning-glory-2/"/>
+   <updated>1984-07-29T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1984/07/29/morning-glory-#2</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_5876.jpg&quot; alt=&quot;morningglory2&quot; title=&quot;Morning Glory #2&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
-   <title>Ciel Urbain</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1983/03/01/ciel-urbain/"/>
-   <updated>1983-03-01T00:00:00-05:00</updated>
-   <id>https://jacobroy.quebec//boutique/1983/03/01/ciel-urbain</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_6212.jpg&quot; alt=&quot;cielurbain&quot; title=&quot;Ciel Urbain&quot;&gt;&lt;/p&gt;
+   <title>Champ de Frelighsburg &#35;&#51;</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1984/07/05/champ-de-frelighsburg-3/"/>
+   <updated>1984-07-05T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1984/07/05/champ-de-frelighsburg-#3</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_5579.jpg&quot; alt=&quot;frelighsburg3&quot; title=&quot;Champ de Frelighsburg #3&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Champ de Frelighsburg &#35;&#50;</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1984/07/05/champ-de-frelighsburg-2/"/>
+   <updated>1984-07-05T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1984/07/05/champ-de-frelighsburg-#2</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_5575.jpg&quot; alt=&quot;frelighsburg2&quot; title=&quot;Champ de Frelighsburg #2&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>La tempête à Montréal</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1983/12/15/la-tempete-a-montreal/"/>
+   <updated>1983-12-15T00:00:00-05:00</updated>
+   <id>https://jacobroy.quebec//boutique/1983/12/15/la-tempete-a-montreal</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_4402-2.jpg&quot; alt=&quot;latempeteamontreal&quot; title=&quot;La Tempête à Montréal&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Les voisins</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1983/12/14/les-voisins/"/>
+   <updated>1983-12-14T00:00:00-05:00</updated>
+   <id>https://jacobroy.quebec//boutique/1983/12/14/les-voisins</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_4284-2.jpg&quot; alt=&quot;lesvoisins&quot; title=&quot;Les voisins&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Cuba</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1983/08/16/Cuba/"/>
+   <updated>1983-08-16T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1983/08/16/Cuba</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_3694.jpg&quot; alt=&quot;cuba&quot; title=&quot;Cuba&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>La voie ferrée</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1983/05/19/la-voie-ferree/"/>
+   <updated>1983-05-19T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1983/05/19/la-voie-ferree</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_1458.jpg&quot; alt=&quot;lavoieferree&quot; title=&quot;La voie ferrée&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Le chien dans la neige</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1983/01/22/le-chien-dans-la-neige/"/>
-   <updated>1983-01-22T00:00:00-05:00</updated>
-   <id>https://jacobroy.quebec//boutique/1983/01/22/le-chien-dans-la-neige</id>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1982/12/30/le-chien-dans-la-neige/"/>
+   <updated>1982-12-30T00:00:00-05:00</updated>
+   <id>https://jacobroy.quebec//boutique/1982/12/30/le-chien-dans-la-neige</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_0124-2.jpg&quot; alt=&quot;lechiendanslaneige&quot; title=&quot;Le chien dans la neige&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
-   <title>Bourasques &#35;&#50;</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1983/01/22/bourasques-2/"/>
-   <updated>1983-01-22T00:00:00-05:00</updated>
-   <id>https://jacobroy.quebec//boutique/1983/01/22/bourasques-#2</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_5859-2.jpg&quot; alt=&quot;bourasques2&quot; title=&quot;Bourasques #2&quot;&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
    <title>Bourasques</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1983/01/21/bourasques/"/>
-   <updated>1983-01-21T00:00:00-05:00</updated>
-   <id>https://jacobroy.quebec//boutique/1983/01/21/bourasques</id>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1982/12/30/bourasques/"/>
+   <updated>1982-12-30T00:00:00-05:00</updated>
+   <id>https://jacobroy.quebec//boutique/1982/12/30/bourasques</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_0106-2.jpg&quot; alt=&quot;bourasques1&quot; title=&quot;Bourasques&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
-   <title>Rangées de pommiers</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1982/10/01/rangees-de-pommiers/"/>
-   <updated>1982-10-01T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1982/10/01/rangees-de-pommiers</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_8491.jpg&quot; alt=&quot;rangeesdepommiers&quot; title=&quot;Rangées de pommiers&quot;&gt;&lt;/p&gt;
+   <title>Abandon</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1982/10/27/abandon/"/>
+   <updated>1982-10-27T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1982/10/27/abandon</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_6060-2.jpg&quot; alt=&quot;abandon&quot; title=&quot;Abandon&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
-   <title>Dans le vent</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1982/10/01/dans-le-vent/"/>
-   <updated>1982-10-01T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1982/10/01/dans-le-vent</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_5834-2.jpg&quot; alt=&quot;danslevent&quot; title=&quot;Dans le vent&quot;&gt;&lt;/p&gt;
+   <title>La plage, au couché</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1982/10/25/la-plage-au-couche/"/>
+   <updated>1982-10-25T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1982/10/25/la-plage-au-couche</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_6023.jpg&quot; alt=&quot;laplageaucouche&quot; title=&quot;La plage, au couché&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>La plage, au couché &#35;&#50;</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1982/10/25/la-plage-au-couche-2/"/>
+   <updated>1982-10-25T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1982/10/25/la-plage-au-couche-#2</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_6024.jpg&quot; alt=&quot;laplageaucouche3&quot; title=&quot;La plage, au couché #2&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Patience</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1982/09/19/patience/"/>
+   <updated>1982-09-19T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1982/09/19/patience</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_4180.jpg&quot; alt=&quot;patience&quot; title=&quot;Patience&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Lumières dans la nuit</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1982/09/09/lumieres-dans-la-nuit/"/>
+   <updated>1982-09-09T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1982/09/09/lumieres-dans-la-nuit</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_4031-2.jpg&quot; alt=&quot;lumieresdanslanuit&quot; title=&quot;Lumières dans la nuit&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Soutien</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1982/09/06/soutien/"/>
+   <updated>1982-09-06T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1982/09/06/soutien</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_3772.jpg&quot; alt=&quot;soutien&quot; title=&quot;Soutien&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Le Pic</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1982/09/06/le-pic/"/>
+   <updated>1982-09-06T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1982/09/06/le-pic</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_3875.jpg&quot; alt=&quot;lepic&quot; title=&quot;Le Pic&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Le Fleuve, De Matane &#35;&#50;</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1982/08/23/le-fleuve-de-matane-2/"/>
+   <updated>1982-08-23T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1982/08/23/le-fleuve-de-matane-#2</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_3322.jpg&quot; alt=&quot;lefleuvedematane2&quot; title=&quot;Le Fleuve, De Matane #2&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Le Fleuve, De Matane</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1982/08/19/le-fleuve-de-matane/"/>
+   <updated>1982-08-19T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1982/08/19/le-fleuve-de-matane</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_3101.jpg&quot; alt=&quot;lefleuvedematane&quot; title=&quot;Le Fleuve, De Matane&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>L'eau du Fleuve</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1982/08/19/l-eau-du-fleuve/"/>
+   <updated>1982-08-19T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1982/08/19/l-eau-du-fleuve</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_3159.jpg&quot; alt=&quot;leaudufleuve&quot; title=&quot;L&amp;#39;eau du fleuve&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Fougères</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1982/08/06/fougeres/"/>
+   <updated>1982-08-06T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1982/08/06/fougeres</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_2533-2.jpg&quot; alt=&quot;fougères&quot; title=&quot;Fougères&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Champ de Frelighsburg</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1982/08/06/champ-de-frelighsburg/"/>
+   <updated>1982-08-06T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1982/08/06/champ-de-frelighsburg</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_2462-2.jpg&quot; alt=&quot;frelighsburg&quot; title=&quot;Champ de Frelighsburg&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Roche Bleue</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1982/05/06/roche-bleue/"/>
+   <updated>1982-05-06T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1982/05/06/roche-bleue</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_1315.jpg&quot; alt=&quot;rochebleue&quot; title=&quot;Roche Bleue&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Bord de Route</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1982/10/01/bord-de-route/"/>
-   <updated>1982-10-01T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1982/10/01/bord-de-route</id>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1981/12/04/bord-de-route/"/>
+   <updated>1981-12-04T00:00:00-05:00</updated>
+   <id>https://jacobroy.quebec//boutique/1981/12/04/bord-de-route</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_4017-2.jpg&quot; alt=&quot;bordderoute&quot; title=&quot;Bord de Route&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Bord de Route &#35;&#50;</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1982/10/01/bord-de-route-2/"/>
-   <updated>1982-10-01T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1982/10/01/bord-de-route-#2</id>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1981/12/04/bord-de-route-2/"/>
+   <updated>1981-12-04T00:00:00-05:00</updated>
+   <id>https://jacobroy.quebec//boutique/1981/12/04/bord-de-route-#2</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_4045-2.jpg&quot; alt=&quot;bordderoute2&quot; title=&quot;Bord de Route #2&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
-   <title>Arbres d'automne</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1982/10/01/arbres-d-automne/"/>
-   <updated>1982-10-01T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1982/10/01/arbres-d-automne</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_1158-2.jpg&quot; alt=&quot;arbresdautomne&quot; title=&quot;Arbres d&amp;#39;automne&quot;&gt;&lt;/p&gt;
+   <title>Les feuilles croquantes</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1981/11/05/les-feuilles-croquantes/"/>
+   <updated>1981-11-05T00:00:00-05:00</updated>
+   <id>https://jacobroy.quebec//boutique/1981/11/05/les-feuilles-croquantes</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_3846.jpg&quot; alt=&quot;lesfeuillescroquantes&quot; title=&quot;Les feuilles croquantes&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
-   <title>Angles</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1982/10/01/angles/"/>
-   <updated>1982-10-01T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1982/10/01/angles</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_4333.jpg&quot; alt=&quot;angles&quot; title=&quot;Angles&quot;&gt;&lt;/p&gt;
+   <title>Les feuilles croquantes &#35;&#51;</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1981/11/05/les-feuilles-croquantes-3/"/>
+   <updated>1981-11-05T00:00:00-05:00</updated>
+   <id>https://jacobroy.quebec//boutique/1981/11/05/les-feuilles-croquantes-#3</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_3812.jpg&quot; alt=&quot;lesfeuillescroquantes3&quot; title=&quot;Les feuilles croquantes #3&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
-   <title>Silos</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1982/09/01/silos/"/>
-   <updated>1982-09-01T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1982/09/01/silos</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_6108-2.jpg&quot; alt=&quot;silos&quot; title=&quot;Silos&quot;&gt;&lt;/p&gt;
+   <title>Les feuilles croquantes &#35;&#50;</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1981/11/05/les-feuilles-croquantes-2/"/>
+   <updated>1981-11-05T00:00:00-05:00</updated>
+   <id>https://jacobroy.quebec//boutique/1981/11/05/les-feuilles-croquantes-#2</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_3807.jpg&quot; alt=&quot;lesfeuillescroquantes2&quot; title=&quot;Les feuilles croquantes #2&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
-   <title>Silhouettes urbaines</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1982/09/01/silhouettes-urbaines/"/>
-   <updated>1982-09-01T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1982/09/01/silhouettes-urbaines</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_0878-2.jpg&quot; alt=&quot;silhouetteurbaines&quot; title=&quot;Silhouettes urbaines&quot;&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Roche Bleue</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1982/09/01/roche-bleue/"/>
-   <updated>1982-09-01T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1982/09/01/roche-bleue</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_1315.jpg&quot; alt=&quot;rochebleue&quot; title=&quot;Roche Bleue&quot;&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Lumières d'une journée</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1982/09/01/lumieres-d-une-journee/"/>
-   <updated>1982-09-01T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1982/09/01/lumieres-d-une-journee</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_4376.jpg&quot; alt=&quot;lumieresdunejournee&quot; title=&quot;Lumières d&amp;#39;une journée&quot;&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Gouttelettes</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1982/09/01/gouttelettes/"/>
-   <updated>1982-09-01T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1982/09/01/gouttelettes</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_3097.jpg&quot; alt=&quot;Gouttelettes&quot; title=&quot;Gouttelettes&quot;&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Gouttelettes &#35;&#50;</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1982/09/01/gouttelettes-2/"/>
-   <updated>1982-09-01T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1982/09/01/gouttelettes-#2</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_7505.jpg&quot; alt=&quot;Gouttelettes&quot; title=&quot;Gouttelettes #2&quot;&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Marguerites</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1982/08/10/marguerites/"/>
-   <updated>1982-08-10T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1982/08/10/marguerites</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_6900.jpg&quot; alt=&quot;marguerites&quot; title=&quot;Marguerites&quot;&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>L'ouverture</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1982/08/10/l-ouverture/"/>
-   <updated>1982-08-10T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1982/08/10/l-ouverture</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_6878-2.jpg&quot; alt=&quot;louverture&quot; title=&quot;L&amp;#39;ouverture&quot;&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Cosmos</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1982/08/03/cosmos/"/>
-   <updated>1982-08-03T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1982/08/03/cosmos</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_6887.jpg&quot; alt=&quot;cosmos&quot; title=&quot;Cosmos&quot;&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Ciel En Feu &#35;&#50;</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1982/08/02/ciel-en-feu-2/"/>
-   <updated>1982-08-02T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1982/08/02/ciel-en-feu-#2</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_3454.jpg&quot; alt=&quot;cielenfeu2&quot; title=&quot;Ciel En Feu #2&quot;&gt;&lt;/p&gt;
+   <title>Dans la lumière</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1981/11/05/dans-la-lumiere/"/>
+   <updated>1981-11-05T00:00:00-05:00</updated>
+   <id>https://jacobroy.quebec//boutique/1981/11/05/dans-la-lumiere</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_3822.jpg&quot; alt=&quot;danslalumiere&quot; title=&quot;Dans la lumière&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Ciel En Feu</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1982/08/01/ciel-en-feu/"/>
-   <updated>1982-08-01T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1982/08/01/ciel-en-feu</id>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1981/10/07/ciel-en-feu/"/>
+   <updated>1981-10-07T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1981/10/07/ciel-en-feu</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_3458.jpg&quot; alt=&quot;cielenfeu&quot; title=&quot;Ciel En Feu&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
+   <title>Ciel En Feu &#35;&#50;</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1981/10/07/ciel-en-feu-2/"/>
+   <updated>1981-10-07T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1981/10/07/ciel-en-feu-#2</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_3454.jpg&quot; alt=&quot;cielenfeu2&quot; title=&quot;Ciel En Feu #2&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Gouttelettes</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1981/08/31/gouttelettes/"/>
+   <updated>1981-08-31T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1981/08/31/gouttelettes</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_3097.jpg&quot; alt=&quot;Gouttelettes&quot; title=&quot;Gouttelettes&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Tendue vers le ciel</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1982/07/02/tendue-vers-le-ciel/"/>
-   <updated>1982-07-02T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1982/07/02/tendue-vers-le-ciel</id>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1981/08/30/tendue-vers-le-ciel/"/>
+   <updated>1981-08-30T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1981/08/30/tendue-vers-le-ciel</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_3044.jpg&quot; alt=&quot;tendueversleciel&quot; title=&quot;Tendue vers le ciel&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
-   <title>Splash!</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1982/07/02/splash/"/>
-   <updated>1982-07-02T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1982/07/02/splash</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_1669-2.jpg&quot; alt=&quot;splash&quot; title=&quot;Splash!&quot;&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Le maître du feu</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1982/07/02/le-maitre-du-feu/"/>
-   <updated>1982-07-02T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1982/07/02/le-maitre-du-feu</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_1100.jpg&quot; alt=&quot;lemaitredufeu&quot; title=&quot;Le maître du feu&quot;&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
    <title>Vers La Plage</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1982/07/01/vers-la-plage/"/>
-   <updated>1982-07-01T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1982/07/01/vers-la-plage</id>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1981/08/05/vers-la-plage/"/>
+   <updated>1981-08-05T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1981/08/05/vers-la-plage</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_1273-2.jpg&quot; alt=&quot;verslaplage&quot; title=&quot;Vers La Plage&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Ocean Atlantique</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1982/07/01/ocean-atlantique/"/>
-   <updated>1982-07-01T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1982/07/01/ocean-atlantique</id>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1981/08/05/ocean-atlantique/"/>
+   <updated>1981-08-05T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1981/08/05/ocean-atlantique</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_1943-2.jpg&quot; alt=&quot;oceanatlantique&quot; title=&quot;Ocean Atlantique&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
-   <title>Spikes</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1982/06/01/spikes/"/>
-   <updated>1982-06-01T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1982/06/01/spikes</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_7650-2.jpg&quot; alt=&quot;spikes&quot; title=&quot;Spikes&quot;&gt;&lt;/p&gt;
+   <title>Aquinnah Cliffs</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1981/08/05/aquinnah-cliffs/"/>
+   <updated>1981-08-05T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1981/08/05/aquinnah-cliffs</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_1167.jpg&quot; alt=&quot;aquinnahcliffs&quot; title=&quot;Aquinnah Cliffs&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
-   <title>Just A Scratch</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1982/06/01/just-a-scratch/"/>
-   <updated>1982-06-01T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1982/06/01/just-a-scratch</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_1167-2.jpg&quot; alt=&quot;justascratch&quot; title=&quot;Just A Scratch&quot;&gt;&lt;/p&gt;
+   <title>Dali</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1981/08/04/Dali/"/>
+   <updated>1981-08-04T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1981/08/04/Dali</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_0859.jpg&quot; alt=&quot;dali&quot; title=&quot;Dali&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
-   <title>Écorce</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1982/06/01/ecorce/"/>
-   <updated>1982-06-01T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1982/06/01/ecorce</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_5429.jpg&quot; alt=&quot;ecorce&quot; title=&quot;Écorce&quot;&gt;&lt;/p&gt;
+   <title>Dali &#35;&#51;</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1981/08/04/Dali-3/"/>
+   <updated>1981-08-04T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1981/08/04/Dali-#3</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_0946-2.jpg&quot; alt=&quot;dali3&quot; title=&quot;Dali #3&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
-   <title>Automne</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1982/05/10/automne/"/>
-   <updated>1982-05-10T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1982/05/10/automne</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_1224.jpg&quot; alt=&quot;automne&quot; title=&quot;Automne&quot;&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Automne &#35;&#50;</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1982/05/10/automne-2/"/>
-   <updated>1982-05-10T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1982/05/10/automne-#2</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_1247.jpg&quot; alt=&quot;automne2&quot; title=&quot;Automne #2&quot;&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Lumières de ville</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1982/05/01/lumieres-de-ville/"/>
-   <updated>1982-05-01T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1982/05/01/lumieres-de-ville</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_4597.jpg&quot; alt=&quot;lumieresdeville&quot; title=&quot;Lumières de ville&quot;&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Lumières de ville &#35;&#50;</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1982/05/01/lumieres-de-ville-2/"/>
-   <updated>1982-05-01T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1982/05/01/lumieres-de-ville-#2</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_4539.jpg&quot; alt=&quot;lumieresdeville2&quot; title=&quot;Lumières de ville #2&quot;&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Face à face</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1982/05/01/face-a-face/"/>
-   <updated>1982-05-01T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1982/05/01/face-a-face</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_0248-2.jpg&quot; alt=&quot;faceaface&quot; title=&quot;Face à face&quot;&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Face à face &#35;&#50;</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1982/05/01/face-a-face-2/"/>
-   <updated>1982-05-01T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//boutique/1982/05/01/face-a-face-#2</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_0247.jpg&quot; alt=&quot;faceaface2&quot; title=&quot;Face à face2&quot;&gt;&lt;/p&gt;
+   <title>Dali &#35;&#50;</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1981/08/04/Dali-2/"/>
+   <updated>1981-08-04T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1981/08/04/Dali-#2</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_0945-1-2.jpg&quot; alt=&quot;dali2&quot; title=&quot;Dali #2&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>New York City Taxi</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1982/04/10/new-york-city-taxi/"/>
-   <updated>1982-04-10T00:00:00-05:00</updated>
-   <id>https://jacobroy.quebec//boutique/1982/04/10/new-york-city-taxi</id>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1981/04/24/new-york-city-taxi/"/>
+   <updated>1981-04-24T00:00:00-05:00</updated>
+   <id>https://jacobroy.quebec//boutique/1981/04/24/new-york-city-taxi</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_1290-2.jpg&quot; alt=&quot;newyorkcitytaxi&quot; title=&quot;New York City Taxi&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>New York City</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1982/04/10/1-new-york-city/"/>
-   <updated>1982-04-10T00:00:00-05:00</updated>
-   <id>https://jacobroy.quebec//boutique/1982/04/10/1-new-york-city</id>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1981/04/24/1-new-york-city/"/>
+   <updated>1981-04-24T00:00:00-05:00</updated>
+   <id>https://jacobroy.quebec//boutique/1981/04/24/1-new-york-city</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_0895.jpg&quot; alt=&quot;newyorkcity&quot; title=&quot;New York City&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>New York City Chrysler Building</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1982/04/10/1-new-york-city-chrysler-building/"/>
-   <updated>1982-04-10T00:00:00-05:00</updated>
-   <id>https://jacobroy.quebec//boutique/1982/04/10/1-new-york-city-chrysler-building</id>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1981/04/24/1-new-york-city-chrysler-building/"/>
+   <updated>1981-04-24T00:00:00-05:00</updated>
+   <id>https://jacobroy.quebec//boutique/1981/04/24/1-new-york-city-chrysler-building</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_1048-2.jpg&quot; alt=&quot;newyorkcitycb&quot; title=&quot;New York City Chrysler Building&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Ciel Urbain</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1981/02/19/ciel-urbain/"/>
+   <updated>1981-02-19T00:00:00-05:00</updated>
+   <id>https://jacobroy.quebec//boutique/1981/02/19/ciel-urbain</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_6212.jpg&quot; alt=&quot;cielurbain&quot; title=&quot;Ciel Urbain&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Lumières d'une journée</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1980/12/17/lumieres-d-une-journee/"/>
+   <updated>1980-12-17T00:00:00-05:00</updated>
+   <id>https://jacobroy.quebec//boutique/1980/12/17/lumieres-d-une-journee</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_4376.jpg&quot; alt=&quot;lumieresdunejournee&quot; title=&quot;Lumières d&amp;#39;une journée&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Vitre de givre</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1980/11/11/vitre-de-givre/"/>
+   <updated>1980-11-11T00:00:00-05:00</updated>
+   <id>https://jacobroy.quebec//boutique/1980/11/11/vitre-de-givre</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_3619.jpg&quot; alt=&quot;vitredegivre&quot; title=&quot;Vitre de givre&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Vitre de givre &#35;&#50;</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1980/11/11/vitre-de-givre-2/"/>
+   <updated>1980-11-11T00:00:00-05:00</updated>
+   <id>https://jacobroy.quebec//boutique/1980/11/11/vitre-de-givre-#2</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_3618.jpg&quot; alt=&quot;vitredegivre2&quot; title=&quot;Vitre de givre #2&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Automne</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1980/10/01/automne/"/>
+   <updated>1980-10-01T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1980/10/01/automne</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_1224.jpg&quot; alt=&quot;automne&quot; title=&quot;Automne&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Automne &#35;&#50;</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1980/10/01/automne-2/"/>
+   <updated>1980-10-01T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1980/10/01/automne-#2</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_1247.jpg&quot; alt=&quot;automne2&quot; title=&quot;Automne #2&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Just A Scratch</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1980/09/29/just-a-scratch/"/>
+   <updated>1980-09-29T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1980/09/29/just-a-scratch</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_1167-2.jpg&quot; alt=&quot;justascratch&quot; title=&quot;Just A Scratch&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Arbres d'automne</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1980/09/29/arbres-d-automne/"/>
+   <updated>1980-09-29T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1980/09/29/arbres-d-automne</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_1158-2.jpg&quot; alt=&quot;arbresdautomne&quot; title=&quot;Arbres d&amp;#39;automne&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Silhouettes urbaines</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1980/09/11/silhouettes-urbaines/"/>
+   <updated>1980-09-11T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1980/09/11/silhouettes-urbaines</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_0878-2.jpg&quot; alt=&quot;silhouetteurbaines&quot; title=&quot;Silhouettes urbaines&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Face à face</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1980/08/19/face-a-face/"/>
+   <updated>1980-08-19T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1980/08/19/face-a-face</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_0248-2.jpg&quot; alt=&quot;faceaface&quot; title=&quot;Face à face&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Face à face &#35;&#50;</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1980/08/19/face-a-face-2/"/>
+   <updated>1980-08-19T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1980/08/19/face-a-face-#2</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_0247.jpg&quot; alt=&quot;faceaface2&quot; title=&quot;Face à face2&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Splash!</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1980/08/05/splash/"/>
+   <updated>1980-08-05T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1980/08/05/splash</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_1669-2.jpg&quot; alt=&quot;splash&quot; title=&quot;Splash!&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Chaleur d'été</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1980/07/26/chaleur-d-ete/"/>
+   <updated>1980-07-26T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1980/07/26/chaleur-d-ete</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_9121.jpg&quot; alt=&quot;chleurdete&quot; title=&quot;Chaleur d&amp;#39;été&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Spikes</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1980/06/12/spikes/"/>
+   <updated>1980-06-12T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1980/06/12/spikes</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_7650-2.jpg&quot; alt=&quot;spikes&quot; title=&quot;Spikes&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Gouttelettes &#35;&#50;</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1980/06/01/gouttelettes-2/"/>
+   <updated>1980-06-01T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1980/06/01/gouttelettes-#2</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_7505.jpg&quot; alt=&quot;Gouttelettes&quot; title=&quot;Gouttelettes #2&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Marguerites</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1980/05/22/marguerites/"/>
+   <updated>1980-05-22T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1980/05/22/marguerites</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_6900.jpg&quot; alt=&quot;marguerites&quot; title=&quot;Marguerites&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>L'ouverture</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1980/05/22/l-ouverture/"/>
+   <updated>1980-05-22T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1980/05/22/l-ouverture</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_6878-2.jpg&quot; alt=&quot;louverture&quot; title=&quot;L&amp;#39;ouverture&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Cosmos</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1980/05/22/cosmos/"/>
+   <updated>1980-05-22T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1980/05/22/cosmos</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_6887.jpg&quot; alt=&quot;cosmos&quot; title=&quot;Cosmos&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Silos</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1980/05/12/silos/"/>
+   <updated>1980-05-12T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1980/05/12/silos</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_6108-2.jpg&quot; alt=&quot;silos&quot; title=&quot;Silos&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Bourasques &#35;&#50;</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1980/05/09/bourasques-2/"/>
+   <updated>1980-05-09T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1980/05/09/bourasques-#2</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_5859-2.jpg&quot; alt=&quot;bourasques2&quot; title=&quot;Bourasques #2&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Dans le vent</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1980/05/04/dans-le-vent/"/>
+   <updated>1980-05-04T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1980/05/04/dans-le-vent</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_5834-2.jpg&quot; alt=&quot;danslevent&quot; title=&quot;Dans le vent&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Écorce</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1980/04/11/ecorce/"/>
+   <updated>1980-04-11T00:00:00-05:00</updated>
+   <id>https://jacobroy.quebec//boutique/1980/04/11/ecorce</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_5429.jpg&quot; alt=&quot;ecorce&quot; title=&quot;Écorce&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Lumières de ville</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1980/03/05/lumieres-de-ville/"/>
+   <updated>1980-03-05T00:00:00-05:00</updated>
+   <id>https://jacobroy.quebec//boutique/1980/03/05/lumieres-de-ville</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_4597.jpg&quot; alt=&quot;lumieresdeville&quot; title=&quot;Lumières de ville&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Lumières de ville &#35;&#50;</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1980/03/05/lumieres-de-ville-2/"/>
+   <updated>1980-03-05T00:00:00-05:00</updated>
+   <id>https://jacobroy.quebec//boutique/1980/03/05/lumieres-de-ville-#2</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_4539.jpg&quot; alt=&quot;lumieresdeville2&quot; title=&quot;Lumières de ville #2&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Angles</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1980/03/05/angles/"/>
+   <updated>1980-03-05T00:00:00-05:00</updated>
+   <id>https://jacobroy.quebec//boutique/1980/03/05/angles</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_4333.jpg&quot; alt=&quot;angles&quot; title=&quot;Angles&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
