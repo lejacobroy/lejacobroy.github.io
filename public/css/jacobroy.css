@@ -260,7 +260,7 @@
   bottom:0px;
   width: 1000px;
   overflow: hidden;
-  z-index: 100;
+  z-index: 900;
   height:50px;
   background: white;
   display: table-cell;
