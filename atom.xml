@@ -4,7 +4,7 @@
  <title>Jacob Roy</title>
  <link href="https://jacobroy.quebec/https://jacobroy.quebec/atom.xml" rel="self"/>
  <link href="https://jacobroy.quebec/https://jacobroy.quebec/"/>
- <updated>2016-03-31T22:29:19-04:00</updated>
+ <updated>2016-04-20T13:42:34-04:00</updated>
  <id>https://jacobroy.quebec/</id>
  <author>
    <name>Jacob Roy</name>
@@ -13,35 +13,78 @@
 
  
  <entry>
-   <title>Lightroom</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//reflexions/2016/03/08/Lightroom/"/>
-   <updated>2016-03-08T00:00:00-05:00</updated>
-   <id>https://jacobroy.quebec//reflexions/2016/03/08/Lightroom</id>
-   <content type="html">&lt;p&gt;D’un côté plus technique, cet article va traiter de l’optimisation qui peut être faite au processus de classification et de traitement des photos dans Adobe Lightroom 6.&lt;/p&gt;
+   <title>Miss Relaxe</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//portraits/2016/04/16/Miss-relaxe/"/>
+   <updated>2016-04-16T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//portraits/2016/04/16/Miss-relaxe</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.labrancolidesign.com&quot;&gt;La Brancoli Design&lt;/a&gt; est une entreprise, et une passion, familiale de design d&amp;#39;intérieurs. &lt;/p&gt;
 
-&lt;p&gt;Le point le plus important à comprendre de cet article est qu’il faut absolument avoir un seul catalogue. Auparavant, plus le catalogue devenait volumineux, plus Lightroom était lent. J’avais donc pris la mauvaise habitude de créer deux ou trois catalogues par années. À cause de cela, si je cherche une photo prise en 2012, je dois chercher quelques jours dans mes archives!
-Tout assembler nos photos en un seul catalogue est un investissement pour l’avenir, d&amp;#39;autant plus que Lightroom n&amp;#39;est plus ralentit par la taille du catalogue.&lt;/p&gt;
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-6&quot;&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/labrancolidesign/DSCF0036.jpg&quot;&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-6&quot;&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/labrancolidesign/DSCF0217jpg&quot;&quot; /&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
 
-&lt;p&gt;Lors de l’importation des fichiers, portez une attention à l’action (Copy as DNG, Copy, Move, Add) ainsi qu’à la destination. Il est recommandé de s&amp;#39;organiser pour que le catalogue “.lrcat” soit sur un disque SSD et les photos sur un disque plus volumineux, qu’automatiquement Lightroom va trier par date :
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/lightroom/import.gif&quot; alt=&quot;import1&quot; title=&quot;Importation&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/labrancolidesign/DSCF0050.jpg&quot; alt=&quot;labrancoli1&quot; title=&quot;La Brancoli Design 1&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;Tout de suite après l’importation, les photos seront dans &lt;em&gt;Previous Import&lt;/em&gt;. De là, vous pouvez commencer à les éditer, mais faites attention, cette collection sera vidée à la fermeture de Lightroom. Je vous recommande donc de déplacer les photos dans &lt;em&gt;Quick Collection&lt;/em&gt; où vous pouvez y faire un tri rapide grâce à la touche “B” ou en rejeter avec “X” et les effacer par la suite. Je ne recommande pas la création d’une nouvelle collection par importation, car cela fragmente la classification (au même titre que tenir plusieurs catalogues) :
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/lightroom/qc.gif&quot; alt=&quot;qc1&quot; title=&quot;Quick Collection&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Jeune entrepreneure dynamique, Sophia est designer d&amp;#39;intérieur et fondatrice principale de la brancoli design. Ses origines multiculturelles lui permettent d&amp;#39;apporter une toute nouvelle vision au design d&amp;#39;ici. Elle est spontanée et n&amp;#39;est jamais à court d&amp;#39;idées pour imaginer et proposer, car en un seul coup d&amp;#39;oeil, sa tête se remplit d&amp;#39;idées. Ce qui lui permet d&amp;#39;avancer, c&amp;#39;est l&amp;#39;idée de créer.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;Votre catalogue va bientôt se remplir de dizaines de milliers de photos, il est donc primordial de commencer la classification tout de suite après l’importation. Ajoutez-y des mots-clés (sur une ou plusieurs photos), et &lt;em&gt;flaggez&lt;/em&gt; &amp;quot;P&amp;quot; les images qui passeront à l’édition :
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/lightroom/meta.gif&quot; alt=&quot;meta1&quot; title=&quot;Metadata&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/labrancolidesign/DSCF0076.jpg&quot; alt=&quot;labrancoli2&quot; title=&quot;La Brancoli Design 2&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/labrancolidesign/DSCF0095.jpg&quot; alt=&quot;labrancoli3&quot; title=&quot;La Brancoli Design 3&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;Dans le mode &lt;em&gt;Develop&lt;/em&gt;, vous pouvez faire de très fortes modifications, tout comme Camera Raw le permet. De plus, vous pouvez éditer la photo dans Photoshop si vous sentez le besoin. Une fois l’édition des photos faites, mettez-y une cote (de 1 à 5 étoiles). La cote étant très subjective, trouvez-vous un système qui vous convient bien. Certains apprécient le système &lt;em&gt;ABC&lt;/em&gt;, A étant 5, B étant 3 et C étant 1, ce qui vous laisse 4 et 2 pour départagé certains cas. Personnellement, j’utilise le système &lt;em&gt;345&lt;/em&gt;, où 3 est une belle photo, 4 elle est dans mes meilleures et 5 peut gagner des prix, les photos valant 1 et 2 ont été rejetées plus tôt. 
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/lightroom/edit.gif&quot; alt=&quot;edit1&quot; title=&quot;Develop&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Isabelle suit la passion familiale pour le design tout en poursuivant sa vie professionnelle en droit, comme avocate. Débordante d&amp;#39;énergie et organisée, elle s&amp;#39;implique depuis toujours dans divers projets et celui-ci lui tient particulièrement à coeur. Pour sa mère Valentina et sa soeur Sophia, elle était indispensable pour la gestion globale de l&amp;#39;entreprise familiale.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;Lightroom créé une vraie base de donnée de vos photos et vous permet de faire des tris simples (un mot clé) ou conditionnels (un tel mot clé, &lt;em&gt;flagged&lt;/em&gt;, prise en 2014).
-Grâce à cette base de données, vous n’avez plus à garder des dossiers disparates dans votre ordinateur!
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/lightroom/search.gif&quot; alt=&quot;search1&quot; title=&quot;Recherche&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/labrancolidesign/DSCF0023.jpg&quot; alt=&quot;labrancoli4&quot; title=&quot;La Brancoli Design 4&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/labrancolidesign/DSCF0168.jpg&quot; alt=&quot;labrancoli5&quot; title=&quot;La Brancoli Design 5&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;Une fois vos photos choisies, vous pouvez les exporter. Par défaut, Lightroom offre plusieurs modes d’exportation, mais la vraie puissance réside dans le fait que vous pouvez en créer vous-même : un pour les pleines grandeurs, un pour Instagram, un pour votre blogue, etc.
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/lightroom/export.gif&quot; alt=&quot;export1&quot; title=&quot;Exportation&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Originaire de Santiago au Chili, Valentina est publiciste de formation. Elle a débuté sa carrière professionnelle en design, en Amérique du Sud et en Europe, en travaillant pendant plusieurs années dans le mobilier et la décoration haut de gamme. Après plusieurs années dans le domaine de la traduction et de l&amp;#39;éducation au Québec, elle revient à ses sources et surtout, à sa passion.&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>La Brancoli Design</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//portraits/2016/04/05/la-brancoli-design/"/>
+   <updated>2016-04-05T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//portraits/2016/04/05/la-brancoli-design</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.labrancolidesign.com&quot;&gt;La Brancoli Design&lt;/a&gt; est une entreprise, et une passion, familiale de design d&amp;#39;intérieurs. &lt;/p&gt;
 
-&lt;p&gt;Lightroom vous permet de classifier, éditer et exporter vos photos rapidement et de façon très professionnelle. C’est, pour moi, un outil indispensable et je vous invite à l’explorer en profondeur par vous-même!&lt;/p&gt;
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-6&quot;&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/labrancolidesign/DSCF0036.jpg&quot;&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-6&quot;&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/labrancolidesign/DSCF0217jpg&quot;&quot; /&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/labrancolidesign/DSCF0050.jpg&quot; alt=&quot;labrancoli1&quot; title=&quot;La Brancoli Design 1&quot;&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Jeune entrepreneure dynamique, Sophia est designer d&amp;#39;intérieur et fondatrice principale de la brancoli design. Ses origines multiculturelles lui permettent d&amp;#39;apporter une toute nouvelle vision au design d&amp;#39;ici. Elle est spontanée et n&amp;#39;est jamais à court d&amp;#39;idées pour imaginer et proposer, car en un seul coup d&amp;#39;oeil, sa tête se remplit d&amp;#39;idées. Ce qui lui permet d&amp;#39;avancer, c&amp;#39;est l&amp;#39;idée de créer.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/labrancolidesign/DSCF0076.jpg&quot; alt=&quot;labrancoli2&quot; title=&quot;La Brancoli Design 2&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/labrancolidesign/DSCF0095.jpg&quot; alt=&quot;labrancoli3&quot; title=&quot;La Brancoli Design 3&quot;&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Isabelle suit la passion familiale pour le design tout en poursuivant sa vie professionnelle en droit, comme avocate. Débordante d&amp;#39;énergie et organisée, elle s&amp;#39;implique depuis toujours dans divers projets et celui-ci lui tient particulièrement à coeur. Pour sa mère Valentina et sa soeur Sophia, elle était indispensable pour la gestion globale de l&amp;#39;entreprise familiale.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/labrancolidesign/DSCF0023.jpg&quot; alt=&quot;labrancoli4&quot; title=&quot;La Brancoli Design 4&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/labrancolidesign/DSCF0168.jpg&quot; alt=&quot;labrancoli5&quot; title=&quot;La Brancoli Design 5&quot;&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Originaire de Santiago au Chili, Valentina est publiciste de formation. Elle a débuté sa carrière professionnelle en design, en Amérique du Sud et en Europe, en travaillant pendant plusieurs années dans le mobilier et la décoration haut de gamme. Après plusieurs années dans le domaine de la traduction et de l&amp;#39;éducation au Québec, elle revient à ses sources et surtout, à sa passion.&lt;/p&gt;
+&lt;/blockquote&gt;
 </content>
  </entry>
  
@@ -106,35 +149,6 @@ Grâce à cette base de données, vous n’avez plus à garder des dossiers disp
  </entry>
  
  <entry>
-   <title>Résolutions</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//reflexions/2016/01/01/Resolutions/"/>
-   <updated>2016-01-01T00:00:00-05:00</updated>
-   <id>https://jacobroy.quebec//reflexions/2016/01/01/Resolutions</id>
-   <content type="html">&lt;p&gt;C&amp;#39;est le début d&amp;#39;année, la première neige. C&amp;#39;est le temps parfait pour prendre un recul sur l&amp;#39;année passée, trouver des points à améliorer et se fixer des buts pour 2016.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/premiere_neige/DSCF4011.jpg&quot; alt=&quot;resolution1&quot; title=&quot;Résolution 1&quot;&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Cette année encore, je veux laisser plus de place à mes projets photo. Préparez votre tête à mes réflexions ;)&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/premiere_neige/DSCF3997.jpg&quot; alt=&quot;resolution2&quot; title=&quot;Résolution 2&quot;&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;M&amp;#39;inspirant souvent des thèmes de mes lectures, je vais me réserver plus de temps à la lecture et à l&amp;#39;écriture.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/premiere_neige/DSCF3995.jpg&quot; alt=&quot;resolution3&quot; title=&quot;Résolution 3&quot;&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;La musique prenant de plus en plus de place dans ma vie, je prévois dépoussiérer ma guitare!&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Et vous, quels sont vos résolutions pour 2016?&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
    <title>ATTENTION design+</title>
    <link href="https://jacobroy.quebec/https://jacobroy.quebec//portraits/2015/12/31/ATTENTION-Design/"/>
    <updated>2015-12-31T00:00:00-05:00</updated>
@@ -180,9 +194,9 @@ Grâce à cette base de données, vous n’avez plus à garder des dossiers disp
  
  <entry>
    <title>Fraichement Montréalaises</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//evenements/2015/12/01/fraichement-montrealaises/"/>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//portraits/2015/12/01/fraichement-montrealaises/"/>
    <updated>2015-12-01T00:00:00-05:00</updated>
-   <id>https://jacobroy.quebec//evenements/2015/12/01/fraichement-montrealaises</id>
+   <id>https://jacobroy.quebec//portraits/2015/12/01/fraichement-montrealaises</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.fraichementmontrealaises.com&quot;&gt;Fraichement Montréalaises&lt;/a&gt;, c&amp;#39;est deux étudiantes qui raffolent de la mode et de tout ce qui est &lt;em&gt;trendy&lt;/em&gt; sur leur passage. Elles sont toutes les deux nouvellement montréalaises, émerveillées par les petits cafés et les boutiques se trouvant dans tous les coins de la ville. Leur blogue est leur façon de nous partager ces petites merveilles et de nous informer des tendances de l’heure et plus encore.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/fraichementmontrealaises/DSCF3357.jpg&quot; alt=&quot;fr-mtl-1&quot; title=&quot;Fraichement Montréalaises 1&quot;&gt;
@@ -241,6 +255,65 @@ Grâce à cette base de données, vous n’avez plus à garder des dossiers disp
 
 &lt;blockquote&gt;
 &lt;p&gt;Décontractées pour profiter de la saison!&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Test</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//test/2015/11/10/test/"/>
+   <updated>2015-11-10T00:00:00-05:00</updated>
+   <id>https://jacobroy.quebec//test/2015/11/10/test</id>
+   <content type="html">&lt;p&gt;Battre le soleil. Arriver dehors avant lui. Être présent à son réveil. Sentir ses rayons chaleureux. Prendre conscience de son mouvement rapide. Constater sa position éphémère.&lt;/p&gt;
+
+&lt;p&gt;Tant de choses que l&amp;#39;on rate dû à la routine sociétale.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/selevertot/DSCF3233.jpg&quot; alt=&quot;selevertot1&quot; title=&quot;Se Lever Tôt 1&quot;&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Languissant, le soleil pénètre tendrement par les fenêtres&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/selevertot/DSCF3236.jpg&quot; alt=&quot;selevertot2&quot; title=&quot;Se Lever Tôt 2&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/selevertot/DSCF3244.jpg&quot; alt=&quot;selevertot3&quot; title=&quot;Se Lever Tôt 3&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/selevertot/DSCF3253.jpg&quot; alt=&quot;selevertot4&quot; title=&quot;Se Lever Tôt 4&quot;&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Tout en bordant la forêt d&amp;#39;un halo orange, ses rayons chauffent le champ plein de givre.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/selevertot/DSCF3260.jpg&quot; alt=&quot;selevertot5&quot; title=&quot;Se Lever Tôt 5&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/selevertot/DSCF3269.jpg&quot; alt=&quot;selevertot6&quot; title=&quot;Se Lever Tôt 6&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/selevertot/DSCF3272.jpg&quot; alt=&quot;selevertot7&quot; title=&quot;Se Lever Tôt 7&quot;&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Le clame et la pureté du matin nous font apprécier ses couleurs, nous donne le gout d&amp;#39;explorer encore plus.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/selevertot/DSCF3275.jpg&quot; alt=&quot;selevertot8&quot; title=&quot;Se Lever Tôt 8&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/selevertot/DSCF3280.jpg&quot; alt=&quot;selevertot9&quot; title=&quot;Se Lever Tôt 9&quot;&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Do people, when they&amp;#39;re older&lt;/p&gt;
+
+&lt;p&gt;See places on the map get smaller&lt;/p&gt;
+
+&lt;p&gt;And promises of happiness stalled?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/selevertot/DSCF3296.jpg&quot; alt=&quot;selevertot10&quot; title=&quot;Se Lever Tôt 10&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/selevertot/DSCF3297.jpg&quot; alt=&quot;selevertot11&quot; title=&quot;Se Lever Tôt 11&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/selevertot/DSCF3298.jpg&quot; alt=&quot;selevertot12&quot; title=&quot;Se Lever Tôt 12&quot;&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Le matin révèle parfois son côté rude, sa beauté rebelle.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/selevertot/DSCF3306.jpg&quot; alt=&quot;selevertot13&quot; title=&quot;Se Lever Tôt 13&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/selevertot/DSCF3308.jpg&quot; alt=&quot;selevertot14&quot; title=&quot;Se Lever Tôt 14&quot;&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Si on l&amp;#39;écoute attentivement, son silence en dit beaucoup.&lt;/p&gt;
 &lt;/blockquote&gt;
 </content>
  </entry>
@@ -336,44 +409,44 @@ Grâce à cette base de données, vous n’avez plus à garder des dossiers disp
 
 &lt;p&gt;Maintenant fort de réflexions, il faut que je remarque l’évidence.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/sansgout/1.jpg&quot; alt=&quot;sansgout1&quot; title=&quot;Sans goût 1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/sansgout/DSCF3114.jpg&quot; alt=&quot;sansgout1&quot; title=&quot;Sans goût 1&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;La maison est empreinte d’une douceur chaotique. Tout est calme, et presque accueillant, mais rien n’est bien réfléchi.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/sansgout/2.jpg&quot; alt=&quot;sansgout2&quot; title=&quot;Sans goût 2&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/sansgout/DSCF3148.jpg&quot; alt=&quot;sansgout2&quot; title=&quot;Sans goût 2&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Les bibelots, les plantes simples, les couleurs pâles. Tout est là pour plaire bêtement, sans cohésion.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/sansgout/3-1.jpg&quot; alt=&quot;sansgout3-1&quot; title=&quot;Sans goût 3-1&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/sansgout/3-2.jpg&quot; alt=&quot;sansgout3-2&quot; title=&quot;Sans goût 3-2&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/sansgout/3-3.jpg&quot; alt=&quot;sansgout3-3&quot; title=&quot;Sans goût 3-3&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/sansgout/DSCF3109.jpg&quot; alt=&quot;sansgout3-1&quot; title=&quot;Sans goût 3-1&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/sansgout/DSCF3110.jpg&quot; alt=&quot;sansgout3-2&quot; title=&quot;Sans goût 3-2&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/sansgout/DSCF3113.jpg&quot; alt=&quot;sansgout3-3&quot; title=&quot;Sans goût 3-3&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Un voile de nonchalance bordélique est appliqué systématiquement à tous les objets qui occupent le sanctuaire.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/sansgout/5-1.jpg&quot; alt=&quot;sansgout5-1&quot; title=&quot;Sans goût 5-1&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/sansgout/5-2.jpg&quot; alt=&quot;sansgout5-2&quot; title=&quot;Sans goût 5-2&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/sansgout/DSCF3150.jpg&quot; alt=&quot;sansgout5-1&quot; title=&quot;Sans goût 5-1&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/sansgout/DSCF3162.jpg&quot; alt=&quot;sansgout5-2&quot; title=&quot;Sans goût 5-2&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Le stéréotype fade règne en maître dans ce monde du premier regard.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/sansgout/6-1.jpg&quot; alt=&quot;sansgout6-1&quot; title=&quot;Sans goût 6-1&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/sansgout/6-2.jpg&quot; alt=&quot;sansgout6-2&quot; title=&quot;Sans goût 6-2&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/sansgout/6-3.jpg&quot; alt=&quot;sansgout6-3&quot; title=&quot;Sans goût 6-3&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/sansgout/DSCF3120.jpg&quot; alt=&quot;sansgout6-1&quot; title=&quot;Sans goût 6-1&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/sansgout/DSCF3118.jpg&quot; alt=&quot;sansgout6-2&quot; title=&quot;Sans goût 6-2&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/sansgout/DSCF3125.jpg&quot; alt=&quot;sansgout6-3&quot; title=&quot;Sans goût 6-3&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Chaque choix a été fait en fonction d’un attrait particulier, sans regarder le tout.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/sansgout/4-1.jpg&quot; alt=&quot;sansgout4-1&quot; title=&quot;Sans goût 4-1&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/sansgout/4-2.jpg&quot; alt=&quot;sansgout4-2&quot; title=&quot;Sans goût 4-2&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/sansgout/4-3.jpg&quot; alt=&quot;sansgout4-3&quot; title=&quot;Sans goût 4-3&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/sansgout/DSCF3116.jpg&quot; alt=&quot;sansgout4-1&quot; title=&quot;Sans goût 4-1&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/sansgout/DSCF3172.jpg&quot; alt=&quot;sansgout4-2&quot; title=&quot;Sans goût 4-2&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/sansgout/DSCF3176.jpg&quot; alt=&quot;sansgout4-3&quot; title=&quot;Sans goût 4-3&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Dans des amoncellements épars, les possessions insipides nous regardent, sans trop savoir comment réagir. Perdues dans la masse, des semblables se font acheter. Vive l’oisiveté.&lt;/p&gt;
@@ -388,7 +461,7 @@ Grâce à cette base de données, vous n’avez plus à garder des dossiers disp
    <id>https://jacobroy.quebec//series/2015/10/19/Maison-de-la-litterature</id>
    <content type="html">&lt;p&gt;La &lt;a href=&quot;http://www.maisondelalitterature.qc.ca&quot;&gt;Maison de la Littérature&lt;/a&gt; offre un concept unique au Québec : un heureux mélange d&amp;#39;une bibliothèque publique, une exposition permanente sur la littérature québécoise, des studios de création ainsi qu&amp;#39;une résidence d&amp;#39;écrivains.&lt;/p&gt;
 
-&lt;p&gt;Située dans la première Église de style néogothique à Québec, la Maison offre une architecture intérieure épatante, tant par la pureté de son blanc que par les grands espaces ouverts. Laissant énormément de place à notre imagination.&lt;/p&gt;
+&lt;p&gt;Située dans la première Église de style néogothique à Québec, la Maison offre une architecture intérieure épatante, tant par la pureté de son blanc que par les grands espaces ouverts, laissant énormément de place à notre imagination.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/maisondelalitterature/DSCF2614.jpg&quot; alt=&quot;maison1&quot; title=&quot;Maison De La Littérature 1&quot;&gt;
 &lt;img src=&quot;https://jacobroy.quebec/public/photos/maisondelalitterature/DSCF2615.jpg&quot; alt=&quot;maison2&quot; title=&quot;Maison De La Littérature 2&quot;&gt;
@@ -485,35 +558,35 @@ Grâce à cette base de données, vous n’avez plus à garder des dossiers disp
 
 &lt;p&gt;Même si ce morceau du patrimoine montréalais a connu des jours plus joyeux, il n&amp;#39;est pas moins beau à visiter.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/silono5/silo-1.jpg&quot; alt=&quot;Silo1&quot; title=&quot;Silo 1&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/silono5/silo-11.jpg&quot; alt=&quot;Silo11&quot; title=&quot;Silo 11&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/silono5/silo-12.jpg&quot; alt=&quot;Silo12&quot; title=&quot;Silo 12&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/silono5/silo-14.jpg&quot; alt=&quot;Silo14&quot; title=&quot;Silo 14&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/silono5/DSCF2044.jpg&quot; alt=&quot;Silo1&quot; title=&quot;Silo 1&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/silono5/DSCF2051.jpg&quot; alt=&quot;Silo11&quot; title=&quot;Silo 11&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/silono5/DSCF2055.jpg&quot; alt=&quot;Silo12&quot; title=&quot;Silo 12&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/silono5/DSCF2049.jpg&quot; alt=&quot;Silo14&quot; title=&quot;Silo 14&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Son âge trahit par les graffitis et les fenêtres brisées, le site garde tout de même son charme distinct.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/silono5/silo-2.jpg&quot; alt=&quot;Silo2&quot; title=&quot;Silo 2&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/silono5/silo-3.jpg&quot; alt=&quot;Silo3&quot; title=&quot;Silo 3&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/silono5/silo-35.jpg&quot; alt=&quot;Silo35&quot; title=&quot;Silo 35&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/silono5/silo-37.jpg&quot; alt=&quot;Silo37&quot; title=&quot;Silo 37&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/silono5/silo-36.jpg&quot; alt=&quot;Silo36&quot; title=&quot;Silo 36&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/silono5/silo-39.jpg&quot; alt=&quot;Silo39&quot; title=&quot;Silo 39&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/silono5/DSCF2048.jpg&quot; alt=&quot;Silo2&quot; title=&quot;Silo 2&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/silono5/DSCF2050.jpg&quot; alt=&quot;Silo3&quot; title=&quot;Silo 3&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/silono5/DSCF2062.jpg&quot; alt=&quot;Silo35&quot; title=&quot;Silo 35&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/silono5/DSCF2060.jpg&quot; alt=&quot;Silo37&quot; title=&quot;Silo 37&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/silono5/DSCF2057.jpg&quot; alt=&quot;Silo36&quot; title=&quot;Silo 36&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/silono5/DSCF2056.jpg&quot; alt=&quot;Silo39&quot; title=&quot;Silo 39&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Entouré d&amp;#39;une clôture surmontée de fils barbelés, le Silo No 5 n&amp;#39;invite pas les visiteurs.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/silono5/silo-4.jpg&quot; alt=&quot;Silo4&quot; title=&quot;Silo 4&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/silono5/DSCF2052.jpg&quot; alt=&quot;Silo4&quot; title=&quot;Silo 4&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Le complexe industriel était autrefois utilisé pour entreposer et redistribuer du grain, principalement par train.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/silono5/silo-5.jpg&quot; alt=&quot;Silo5&quot; title=&quot;Silo 5&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/silono5/silo-6.jpg&quot; alt=&quot;Silo6&quot; title=&quot;Silo 6&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/silono5/silo-13.jpg&quot; alt=&quot;Silo13&quot; title=&quot;Silo 13&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/silono5/DSCF2073.jpg&quot; alt=&quot;Silo5&quot; title=&quot;Silo 5&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/silono5/DSCF2084.jpg&quot; alt=&quot;Silo6&quot; title=&quot;Silo 6&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/silono5/DSCF2058.jpg&quot; alt=&quot;Silo13&quot; title=&quot;Silo 13&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Il est maintenant squatté par les sans-abris, qui laissent leurs traces.&lt;/p&gt;
@@ -530,13 +603,13 @@ Grâce à cette base de données, vous n’avez plus à garder des dossiers disp
 
 &lt;p&gt;Cette série de photos éveille l&amp;#39;esprit sur ces endroits délaissés par les municipalités, sans projets d&amp;#39;embellissement ou de démolition. Ces monuments communautaires sont laissés là, comme des déchets.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/cite/cite-1.jpg&quot; alt=&quot;cite1&quot; title=&quot;Déchets de Cité 1&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/cite/cite-2.jpg&quot; alt=&quot;cite2&quot; title=&quot;Déchets de Cité 2&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/cite/cite-3.jpg&quot; alt=&quot;cite3&quot; title=&quot;Déchets de Cité 3&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/cite/cite-4.jpg&quot; alt=&quot;cite4&quot; title=&quot;Déchets de Cité 4&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/cite/cite-5.jpg&quot; alt=&quot;cite5&quot; title=&quot;Déchets de Cité 5&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/cite/cite-6.jpg&quot; alt=&quot;cite6&quot; title=&quot;Déchets de Cité 6&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/cite/cite-7.jpg&quot; alt=&quot;cite7&quot; title=&quot;Déchets de Cité 7&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/cite/IMG_2580.jpg&quot; alt=&quot;cite1&quot; title=&quot;Déchets de Cité 1&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/cite/LOQJ0130.jpg&quot; alt=&quot;cite2&quot; title=&quot;Déchets de Cité 2&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/cite/LUIA5410.jpg&quot; alt=&quot;cite3&quot; title=&quot;Déchets de Cité 3&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/cite/FYHE9174.jpg&quot; alt=&quot;cite4&quot; title=&quot;Déchets de Cité 4&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/cite/UUUA3044.jpg&quot; alt=&quot;cite5&quot; title=&quot;Déchets de Cité 5&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/cite/UHSY8535.jpg&quot; alt=&quot;cite6&quot; title=&quot;Déchets de Cité 6&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/cite/SUAB6327.jpg&quot; alt=&quot;cite7&quot; title=&quot;Déchets de Cité 7&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -547,9 +620,9 @@ Grâce à cette base de données, vous n’avez plus à garder des dossiers disp
    <id>https://jacobroy.quebec//reflexions/2015/08/19/La-bete</id>
    <content type="html">&lt;p&gt;Nouveau projet pour mon ami et moi, le reconditionnement d&amp;#39;une BMW 328i de 1999. C&amp;#39;est l&amp;#39;occasion d&amp;#39;en apprendre sur un domaine fascinant qui à toujours attiré notre curiosité, mais que nous n&amp;#39;avons pas poussé, faute de temps. C&amp;#39;est aussi un petit &lt;em&gt;treat yo&amp;#39; self&lt;/em&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/328i/bmw-1.jpg&quot; alt=&quot;bete1&quot; title=&quot;La bête 1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/328i/DSCF1866.jpg&quot; alt=&quot;bete1&quot; title=&quot;La bête 1&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/328i/bmw-2.jpg&quot; alt=&quot;bete2&quot; title=&quot;La bête 2&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/328i/DSCF1934.jpg&quot; alt=&quot;bete2&quot; title=&quot;La bête 2&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -560,35 +633,35 @@ Grâce à cette base de données, vous n’avez plus à garder des dossiers disp
    <id>https://jacobroy.quebec//evenements/2015/08/01/Tournoi-de-golf-2015</id>
    <content type="html">&lt;p&gt;Chaque année, nous nous rassemblons toute la famille, y compris les «étranges», pour participer à une journée de Golf amicale. C&amp;#39;est une belle occasion de se tenir au courant, et un beau moment pour avoir une petite compétition familiale.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/golf_2015/golf-1.jpg&quot; alt=&quot;Golf1&quot; title=&quot;Golf 1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/golf_2015/DSCF1726.jpg&quot; alt=&quot;Golf1&quot; title=&quot;Golf 1&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Cette année, la journée était organisée au &lt;a href=&quot;http://golfrivesud.com&quot;&gt;Club de Golf Rive-Sud&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/golf_2015/golf-3.jpg&quot; alt=&quot;Golf3&quot; title=&quot;Golf 3&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/golf_2015/golf-6.jpg&quot; alt=&quot;Golf6&quot; title=&quot;Golf 6&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/golf_2015/DSCF1737.jpg&quot; alt=&quot;Golf3&quot; title=&quot;Golf 3&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/golf_2015/DSCF1756.jpg&quot; alt=&quot;Golf6&quot; title=&quot;Golf 6&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Attendant les dernières équipes, nous profitons de la température et comptons nos points.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/golf_2015/golf-2.jpg&quot; alt=&quot;Golf2&quot; title=&quot;Golf 2&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/golf_2015/golf-4.jpg&quot; alt=&quot;Golf4&quot; title=&quot;Golf 4&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/golf_2015/golf-5.jpg&quot; alt=&quot;Golf5&quot; title=&quot;Golf 5&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/golf_2015/golf-7.jpg&quot; alt=&quot;Golf7&quot; title=&quot;Golf 7&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/golf_2015/DSCF1736.jpg&quot; alt=&quot;Golf2&quot; title=&quot;Golf 2&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/golf_2015/DSCF1749.jpg&quot; alt=&quot;Golf4&quot; title=&quot;Golf 4&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/golf_2015/DSCF1754.jpg&quot; alt=&quot;Golf5&quot; title=&quot;Golf 5&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/golf_2015/DSCF1758.jpg&quot; alt=&quot;Golf7&quot; title=&quot;Golf 7&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Avec la fin des parties vient la célébration et beaucoup de rires! &lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/golf_2015/golf-9.jpg&quot; alt=&quot;Golf9&quot; title=&quot;Golf 9&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/golf_2015/DSCF1798.jpg&quot; alt=&quot;Golf9&quot; title=&quot;Golf 9&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;34 personnes pour le souper, ça fait une longue table!&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/golf_2015/golf-8.jpg&quot; alt=&quot;Golf8&quot; title=&quot;Golf 8&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/golf_2015/DSCF1763.jpg&quot; alt=&quot;Golf8&quot; title=&quot;Golf 8&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Merci aux organisateurs de cette édition 2015!&lt;/p&gt;
@@ -615,7 +688,7 @@ Grâce à cette base de données, vous n’avez plus à garder des dossiers disp
 &lt;p&gt;Sauf l&amp;#39;artiste, et même encore.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/tableau/tab-1.jpg&quot; alt=&quot;tableau1&quot; title=&quot;Tableau 1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/tableau/DSCF1723.jpg&quot; alt=&quot;tableau1&quot; title=&quot;Tableau 1&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;«On ne peut peindre un trou», Jacob Roy, 2015.&lt;/p&gt;
@@ -635,71 +708,71 @@ Grâce à cette base de données, vous n’avez plus à garder des dossiers disp
 &lt;p&gt;La construction du stade olympique ne fut pas sans polémiques, au contraire. Évalué à un coût de 300 millions de dollars, il coutera finalement un milliard de dollars, principalement à cause des retards et des innovations techniques voulues. Conçu par l’architecte français Roger Taillibert, spécialiste dans l’utilisation des voiles de béton, sa construction commença le 28 avril 1973 et s&amp;#39;acheva la veille de l’ouverture des Jeux Olympiques, le 16 juillet 1976.
 &lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/olympiques/stade-2.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/olympiques/DSCF1664.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/olympiques/stade-3.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/olympiques/DSCF1665.jpg&quot; /&gt;
     &lt;/div&gt;
 &lt;/div&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/olympiques/stade-4.jpg&quot; alt=&quot;Stade-4&quot; title=&quot;Stade 4&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/olympiques/stade-8.jpg&quot; alt=&quot;Stade-8&quot; title=&quot;Stade 8&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/olympiques/stade-20.jpg&quot; alt=&quot;Stade-20&quot; title=&quot;Stade 20&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/olympiques/stade-18.jpg&quot; alt=&quot;Stade-18&quot; title=&quot;Stade 18&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/olympiques/stade-22.jpg&quot; alt=&quot;Stade-22&quot; title=&quot;Stade 22&quot;&gt;&lt;/p&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/olympiques/DSCF1671.jpg&quot; alt=&quot;Stade-4&quot; title=&quot;Stade 4&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/olympiques/DSCF1678.jpg&quot; alt=&quot;Stade-8&quot; title=&quot;Stade 8&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/olympiques/DSCF1703.jpg&quot; alt=&quot;Stade-20&quot; title=&quot;Stade 20&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/olympiques/DSCF1699.jpg&quot; alt=&quot;Stade-18&quot; title=&quot;Stade 18&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/olympiques/DSCF1711.jpg&quot; alt=&quot;Stade-22&quot; title=&quot;Stade 22&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Tout en découvrant l&amp;#39;endroit, j&amp;#39;ai photographier le Stade dans des angles qui trahissait son âge, et qui  démontrait la beauté intrinsèque de son architecture et de ses matériaux.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/olympiques/stade-24.jpg&quot; alt=&quot;Stade-24&quot; title=&quot;Stade 24&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/olympiques/stade-9.jpg&quot; alt=&quot;Stade-9&quot; title=&quot;Stade 9&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/olympiques/stade-10.jpg&quot; alt=&quot;Stade-10&quot; title=&quot;Stade 10&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/olympiques/stade-16.jpg&quot; alt=&quot;Stade-16&quot; title=&quot;Stade 16&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/olympiques/stade-17.jpg&quot; alt=&quot;Stade-17&quot; title=&quot;Stade 17&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/olympiques/DSCF1718.jpg&quot; alt=&quot;Stade-24&quot; title=&quot;Stade 24&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/olympiques/DSCF1679.jpg&quot; alt=&quot;Stade-9&quot; title=&quot;Stade 9&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/olympiques/DSCF1684.jpg&quot; alt=&quot;Stade-10&quot; title=&quot;Stade 10&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/olympiques/DSCF1692-Edit.jpg&quot; alt=&quot;Stade-16&quot; title=&quot;Stade 16&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/olympiques/DSCF1694-Edit.jpg&quot; alt=&quot;Stade-17&quot; title=&quot;Stade 17&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Maintenant devenu un symbole de la ville de Montréal, je le capture dans ses airs fier et noble.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;L’île Notre-Dame est une île artificielle érigée en 1965 pour l’Expo 67, avec la terre excavée pour construire le métro de Montréal. Presque tous les vestiges de l’Expo 67 ont été démolis pour permettre la construction du Bassin Olympique, le plus grand bassin artificiel pour l’aviron en Amérique du Nord. Une grande partie de l’île accueille maintenant le Grand Prix de Formule 1 du Canada, et ce depuis 1978.
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/olympiques/ile-11.jpg&quot; alt=&quot;ile-11&quot; title=&quot;Ile 11&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/olympiques/DSCF0584.jpg&quot; alt=&quot;ile-11&quot; title=&quot;Ile 11&quot;&gt;
 &lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/olympiques/ile-9.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/olympiques/DSCF0578.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/olympiques/ile-10.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/olympiques/DSCF0581.jpg&quot; /&gt;
     &lt;/div&gt;
 &lt;/div&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/olympiques/ile-8.jpg&quot; alt=&quot;ile-8&quot; title=&quot;Ile 8&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/olympiques/ile-7.jpg&quot; alt=&quot;ile-7&quot; title=&quot;Ile 7&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/olympiques/ile-6.jpg&quot; alt=&quot;ile-6&quot; title=&quot;Ile 6&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/olympiques/ile-3.jpg&quot; alt=&quot;ile-3&quot; title=&quot;Ile 3&quot;&gt;&lt;/p&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/olympiques/DSCF0577.jpg&quot; alt=&quot;ile-8&quot; title=&quot;Ile 8&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/olympiques/DSCF0575.jpg&quot; alt=&quot;ile-7&quot; title=&quot;Ile 7&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/olympiques/DSCF0572.jpg&quot; alt=&quot;ile-6&quot; title=&quot;Ile 6&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/olympiques/DSCF0566.jpg&quot; alt=&quot;ile-3&quot; title=&quot;Ile 3&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Laissé à l&amp;#39;abandon pendant plusieurs années, le site se désagrège et disparaît sous la rouille.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/olympiques/ile-5.jpg&quot; alt=&quot;ile-5&quot; title=&quot;Ile 5&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/olympiques/ile-4.jpg&quot; alt=&quot;ile-4&quot; title=&quot;Ile 4&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/olympiques/DSCF0570.jpg&quot; alt=&quot;ile-5&quot; title=&quot;Ile 5&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/olympiques/DSCF0567.jpg&quot; alt=&quot;ile-4&quot; title=&quot;Ile 4&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;Il est façile de reconnaitre le style architectural de ces années, englobant les reliefs par lignes et les angles simples.&lt;/p&gt;
+&lt;p&gt;Il est facile de reconnaitre le style architectural de ces années, englobant les reliefs par lignes et les angles simples.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/olympiques/ile-1.jpg&quot; alt=&quot;ile-1&quot; title=&quot;Ile 1&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/olympiques/ile-2.jpg&quot; alt=&quot;ile-2&quot; title=&quot;Ile 2&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/olympiques/DSCF0562.jpg&quot; alt=&quot;ile-1&quot; title=&quot;Ile 1&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/olympiques/DSCF0565.jpg&quot; alt=&quot;ile-2&quot; title=&quot;Ile 2&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Bien que contruits plusieurs années plus tard, la biosphère et le circuit Gilles Vilneuve font maintenant partie du décor de l&amp;#39;ile.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Le Village Olympique, où la majorité des athlètes étaient hébergés, fut lui aussi conçu par Roger Taillibert. Couramment appelé « la pyramide », cet immeuble est composé de deux tours en forme d’escaliers se croisant à leur sommet. Coutant près de 80 millions de dollars, il a été, depuis, converti en immeubles à logements et en bureau administratifs.&lt;br&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/olympiques/village-1.jpg&quot; alt=&quot;village-1&quot; title=&quot;Village 1&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/olympiques/village-6.jpg&quot; alt=&quot;village-6&quot; title=&quot;Village 6&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/olympiques/village-2.jpg&quot; alt=&quot;village-2&quot; title=&quot;Village 2&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/olympiques/village-3.jpg&quot; alt=&quot;village-3&quot; title=&quot;Village 3&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/olympiques/village-5.jpg&quot; alt=&quot;village-5&quot; title=&quot;Village 5&quot;&gt;&lt;/p&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/olympiques/DSCF0376.jpg&quot; alt=&quot;village-1&quot; title=&quot;Village 1&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/olympiques/DSCF0406.jpg&quot; alt=&quot;village-6&quot; title=&quot;Village 6&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/olympiques/DSCF0386.jpg&quot; alt=&quot;village-2&quot; title=&quot;Village 2&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/olympiques/DSCF0388.jpg&quot; alt=&quot;village-3&quot; title=&quot;Village 3&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/olympiques/DSCF0404.jpg&quot; alt=&quot;village-5&quot; title=&quot;Village 5&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Comprenant les mêmes lignes directrices que le reste des installations Olympiques, ce joyau architectural possède tout de même son caractère distinctif.&lt;/p&gt;
@@ -716,22 +789,22 @@ Grâce à cette base de données, vous n’avez plus à garder des dossiers disp
 
 &lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/art-1.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/IMG_6765-2.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/art-2.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/IMG_6769-2.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/art-3.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/IMG_6770-2.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/art-4.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/IMG_6776-2.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/art-6.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/IMG_6806-2.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/art-5.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/IMG_6790-2.jpg&quot; /&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 
@@ -741,98 +814,98 @@ Grâce à cette base de données, vous n’avez plus à garder des dossiers disp
 &lt;p&gt;Dès l’arrivé, nous sommes confrontés à une architecture, à des décors, à des formes, à des situations que nous ne sommes pas habitués.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/art-7.jpg&quot; alt=&quot;Art-7&quot; title=&quot;Art 7&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/IMG_6863-2.jpg&quot; alt=&quot;Art-7&quot; title=&quot;Art 7&quot;&gt;&lt;/p&gt;
 
 &lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/art-8.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/IMG_6898-2.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/art-34.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/IMG_7755.jpg&quot; /&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/art-9.jpg&quot; alt=&quot;Art-9&quot; title=&quot;Art 9&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/IMG_6908-2.jpg&quot; alt=&quot;Art-9&quot; title=&quot;Art 9&quot;&gt;&lt;/p&gt;
 
 &lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/art-10.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/IMG_6949.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/art-11.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/IMG_6965.jpg&quot; /&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/art-33.jpg&quot; alt=&quot;Art 33&quot; title=&quot;Art 33&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/IMG_7750.jpg&quot; alt=&quot;Art 33&quot; title=&quot;Art 33&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Des détails délicats de la Renaissance en passant par les formes simples mais combien efficaces de l’Empire Romain, Londres et ses environs sont une source inépuisable d’étonnement artistique.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/art-12.jpg&quot; alt=&quot;art-12&quot; title=&quot;art-12&quot;&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/IMG_7036.jpg&quot; alt=&quot;art-12&quot; title=&quot;art-12&quot;&gt;
 &lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/art-14.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/IMG_7106.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/art-16.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/IMG_7176.jpg&quot; /&gt;
     &lt;/div&gt;
 &lt;/div&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/art-13.jpg&quot; alt=&quot;art-13&quot; title=&quot;art-13&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/art-15.jpg&quot; alt=&quot;art-15&quot; title=&quot;art-15&quot;&gt;&lt;/p&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/IMG_7053.jpg&quot; alt=&quot;art-13&quot; title=&quot;art-13&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/IMG_7136.jpg&quot; alt=&quot;art-15&quot; title=&quot;art-15&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Se côtoient facilement et fréquemment la vieille et la nouvelle ville, sans que personne ne se pose de questions.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/art-17.jpg&quot; alt=&quot;art-17&quot; title=&quot;art-17&quot;&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/IMG_7050.jpg&quot; alt=&quot;art-17&quot; title=&quot;art-17&quot;&gt;
 &lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/art-18.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/IMG_7301.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/art-19.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/IMG_7310.jpg&quot; /&gt;
     &lt;/div&gt;
 &lt;/div&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/art-25.jpg&quot; alt=&quot;art-25&quot; title=&quot;art-25&quot;&gt;&lt;/p&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/IMG_7871.jpg&quot; alt=&quot;art-25&quot; title=&quot;art-25&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Les scènes simples et courantes semblent soudainement prendre vie lorsque nous sortons de notre zone de confort.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/art-23.jpg&quot; alt=&quot;art-23&quot; title=&quot;art-23&quot;&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/IMG_7785.jpg&quot; alt=&quot;art-23&quot; title=&quot;art-23&quot;&gt;
 &lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/art-22.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/IMG_7717.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/art-24.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/IMG_7789.jpg&quot; /&gt;
     &lt;/div&gt;
 &lt;/div&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/art-21.jpg&quot; alt=&quot;art-21&quot; title=&quot;art-21&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/IMG_7513.jpg&quot; alt=&quot;art-21&quot; title=&quot;art-21&quot;&gt;
 &lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/art-26.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/IMG_7946.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/art-28.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/IMG_8054.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/art-27.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/IMG_7988.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/art-29.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/IMG_8181.jpg&quot; /&gt;
     &lt;/div&gt;
 &lt;/div&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/art-30.jpg&quot; alt=&quot;art-30&quot; title=&quot;art-30&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/art-20.jpg&quot; alt=&quot;art-20&quot; title=&quot;art-20&quot;&gt;&lt;/p&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/IMG_8202.jpg&quot; alt=&quot;art-30&quot; title=&quot;art-30&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/IMG_7330.jpg&quot; alt=&quot;art-20&quot; title=&quot;art-20&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Se retirer du groupe. Prendre du recul. Tracer son chemin. S’émerveiller sans distraction.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/art-31.jpg&quot; alt=&quot;art-31&quot; title=&quot;art-31&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/art-32.jpg&quot; alt=&quot;art-32&quot; title=&quot;art-32&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/IMG_8210.jpg&quot; alt=&quot;art-31&quot; title=&quot;art-31&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/london/Artsy/IMG_8212.jpg&quot; alt=&quot;art-32&quot; title=&quot;art-32&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;De l&amp;#39;arrivée jusqu’&amp;#39;au départ, tout était teinté d&amp;#39;une subtile beauté artistique, d&amp;#39;un petit quelque chose qui faisait réfléchir.&lt;/p&gt;
@@ -849,26 +922,26 @@ Grâce à cette base de données, vous n’avez plus à garder des dossiers disp
 
 &lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/chateaux-1.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/IMG_7215.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/chateaux-4.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/IMG_7322.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/chateaux-9.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/IMG_7057.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/chateaux-2.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/IMG_7225.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/chateaux-5.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/IMG_7812.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/chateaux-7.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/IMG_6977.jpg&quot; /&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/chateaux-6.jpg&quot; alt=&quot;Chateaux-6&quot; title=&quot;Chateaux 6&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/IMG_7617.jpg&quot; alt=&quot;Chateaux-6&quot; title=&quot;Chateaux 6&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Londres et ses environs, c&amp;#39;est rempli de châteaux, de vieilles architectures, de monuments gigantesques. Dans ces temps anciens, la décoration et la démonstration d&amp;#39;opulence étaient de mise, ce qui explique les formes répétitives et les minutieux détails.&lt;/p&gt;
@@ -876,65 +949,65 @@ Grâce à cette base de données, vous n’avez plus à garder des dossiers disp
 
 &lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/escaliers-2.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/IMG_7412.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/escaliers-3.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/IMG_7423.jpg&quot; /&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/escaliers-1.jpg&quot; alt=&quot;Escaliers-1&quot; title=&quot;Escaliers-1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/IMG_7292.jpg&quot; alt=&quot;Escaliers-1&quot; title=&quot;Escaliers-1&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Qui dit châteaux somptueux dits généralement escaliers grandioses...&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/bal-3.jpg&quot; alt=&quot;Bal-3&quot; title=&quot;Bal 3&quot;&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/IMG_6996.jpg&quot; alt=&quot;Bal-3&quot; title=&quot;Bal 3&quot;&gt;
 &lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/bal-1.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/IMG_7001.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/bal-2.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/IMG_7002.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/bal-4.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/IMG_7009.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/bal-5.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/IMG_7010.jpg&quot; /&gt;
     &lt;/div&gt;
 &lt;/div&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/bal-6.jpg&quot; alt=&quot;Bal-6&quot; title=&quot;Bal 6&quot;&gt;&lt;/p&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/IMG_7013.jpg&quot; alt=&quot;Bal-6&quot; title=&quot;Bal 6&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Les salles de bal sont un autre endroit où la symétrie est à son plus fort. Dans l&amp;#39;ancienne ville romaine de Bath, j&amp;#39;ai pu visiter le musée de la mode et y découvrir ces immenses salles vides, mais rempli de charme et d&amp;#39;histoires.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/plafonds-6.jpg&quot; alt=&quot;plafonds-6&quot; title=&quot;Plafonds 6&quot;&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/IMG_7399.jpg&quot; alt=&quot;plafonds-6&quot; title=&quot;Plafonds 6&quot;&gt;
 &lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/plafonds-2.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/IMG_7260.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/plafonds-12.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/IMG_7738.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/plafonds-3.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/IMG_7263.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/plafonds-9.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/IMG_7410.jpg&quot; /&gt;
     &lt;/div&gt;
 &lt;/div&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/plafonds-4.jpg&quot; alt=&quot;plafonds-4&quot; title=&quot;Plafonds 4&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/IMG_7325.jpg&quot; alt=&quot;plafonds-4&quot; title=&quot;Plafonds 4&quot;&gt;
 &lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/plafonds-5.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/IMG_7396.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/plafonds-10.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/IMG_7720.jpg&quot; /&gt;
     &lt;/div&gt;
 &lt;/div&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/plafonds-8.jpg&quot; alt=&quot;plafonds-8&quot; title=&quot;Plafonds 8&quot;&gt;&lt;/p&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/IMG_7407.jpg&quot; alt=&quot;plafonds-8&quot; title=&quot;Plafonds 8&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Très vite, j&amp;#39;ai trouvé mon penchant pour les plafonds. Il n&amp;#39;était pas rare de me surprendre à les fixer inlassablement et à y déceler les variations subtiles. Parmi tous les joyaux, les papiers peints, les trésors d&amp;#39;un autre temps, le plafond de ces temples attirait toujours beaucoup plus mon regard.&lt;/p&gt;
@@ -942,32 +1015,24 @@ Grâce à cette base de données, vous n’avez plus à garder des dossiers disp
 
 &lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/lumiere-1.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/IMG_7227.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/lumiere-2.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/IMG_7369.jpg&quot; /&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/lumiere-3.jpg&quot; alt=&quot;lumiere-3&quot; title=&quot;Lumière 3&quot;&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/IMG_7425.jpg&quot; alt=&quot;lumiere-3&quot; title=&quot;Lumière 3&quot;&gt;
 &lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/lumiere-5.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/IMG_7431.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/lumiere-6.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/IMG_7470.jpg&quot; /&gt;
     &lt;/div&gt;
 &lt;/div&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/lumiere-4.jpg&quot; alt=&quot;lumiere-4&quot; title=&quot;Lumière 4&quot;&gt;
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/lumiere-7.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/lumiere-8.jpg&quot; /&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/lumiere-9.jpg&quot; alt=&quot;lumiere-9&quot; title=&quot;Lumière 9&quot;&gt;&lt;/p&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/IMG_7607.jpg&quot; alt=&quot;lumiere-4&quot; title=&quot;Lumière 4&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/london/equilibrium/IMG_7682.jpg&quot; alt=&quot;lumiere-9&quot; title=&quot;Lumière 9&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;La symétrie joue énormément sur la lumière, créant des jeux superbes et transmettant de fortes émotions. Ajoutant du caractère à une scène, ou accentuant un moment fort, le mariage de ces deux beautés en est un heureux.&lt;/p&gt;
@@ -981,21 +1046,21 @@ Grâce à cette base de données, vous n’avez plus à garder des dossiers disp
    <updated>2015-07-13T00:00:00-04:00</updated>
    <id>https://jacobroy.quebec//series/2015/07/13/roulotte</id>
    <content type="html">&lt;p&gt;Dans la chaleur lourde du début d&amp;#39;été nous avons commencé notre grand projet, retaper la roulotte, en faire notre repère.
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/roulotte/roulotte-1.jpg&quot; alt=&quot;Roulotte1&quot; title=&quot;Roulotte 1&quot;&gt;&lt;/p&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/roulotte/DSCF1261.jpg&quot; alt=&quot;Roulotte1&quot; title=&quot;Roulotte 1&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/roulotte/roulotte-2.jpg&quot; alt=&quot;Roulotte2&quot; title=&quot;Roulotte 2&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/roulotte/DSCF1292.jpg&quot; alt=&quot;Roulotte2&quot; title=&quot;Roulotte 2&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Nous avons tous rêvé d&amp;#39;avoir une cabane dans les arbres, un endroit secret, une grotte de pirate. Le confort a pris le dessus et nous avons choisi cette roulotte qui avait besoin d&amp;#39;amour.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/roulotte/roulotte-3.jpg&quot; alt=&quot;Roulotte3&quot; title=&quot;Roulotte 3&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/roulotte/DSCF1253.jpg&quot; alt=&quot;Roulotte3&quot; title=&quot;Roulotte 3&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;L&amp;#39;extérieur, il fallait le nettoyer. Le toit fuyait, ce qui n&amp;#39;est pas souhaitable dans une clairière. Examinons maintenant l&amp;#39;intérieur...&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/roulotte/roulotte-4.jpg&quot; alt=&quot;Roulotte4&quot; title=&quot;Roulotte 4&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/roulotte/DSCF1127.jpg&quot; alt=&quot;Roulotte4&quot; title=&quot;Roulotte 4&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Un bon ménage était nécessaire. Une fois le balai passé, le four ainsi que l&amp;#39;évier enlevés, la table nettoyée, l&amp;#39;espace était enfin vivable et confortable.&lt;/p&gt;
@@ -1003,37 +1068,26 @@ Grâce à cette base de données, vous n’avez plus à garder des dossiers disp
 
 &lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/roulotte/roulotte-5.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/roulotte/DSCF1215.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/roulotte/roulotte-6.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/roulotte/DSCF1227.jpg&quot; /&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/roulotte/roulotte-7.jpg&quot; alt=&quot;Roulotte7&quot; title=&quot;Roulotte 7&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/roulotte/DSCF1201.jpg&quot; alt=&quot;Roulotte7&quot; title=&quot;Roulotte 7&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Fières du résultat, nous passons une bonne partie de la nuit à nous poursuivre dans le champ, comme des enfants.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/roulotte/roulotte-8.jpg&quot; alt=&quot;Roulotte8&quot; title=&quot;Roulotte 8&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/roulotte/DSCF1262.jpg&quot; alt=&quot;Roulotte8&quot; title=&quot;Roulotte 8&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/roulotte/roulotte-9.jpg&quot; alt=&quot;Roulotte9&quot; title=&quot;Roulotte 9&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/roulotte/DSCF1272.jpg&quot; alt=&quot;Roulotte9&quot; title=&quot;Roulotte 9&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Comme si la forêt était aussi fière que nous de notre accomplissement, elle nous récompensa, le lendemain matin, avec un magnifique spectacle de pluie et de vent.&lt;/p&gt;
 &lt;/blockquote&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Auberge Lac-Brome</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//evenements/2015/07/13/auberge-lac-brome/"/>
-   <updated>2015-07-13T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//evenements/2015/07/13/auberge-lac-brome</id>
-   <content type="html">&lt;p&gt;Participant à une fête organisé à l&amp;#39;&lt;a href=&quot;http://www.aubergelacbrome.com/fr&quot;&gt;Auberge Lac-Brome&lt;/a&gt;, j&amp;#39;en ai profité pour enregistrer un petit timelapse et y capturer le &lt;em&gt;feel&lt;/em&gt; de la soirée.&lt;/p&gt;
-
-&lt;iframe src=&quot;https://player.vimeo.com/video/133299870&quot; width=&quot;1000&quot; height=&quot;562&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </content>
  </entry>
  
@@ -1044,21 +1098,21 @@ Grâce à cette base de données, vous n’avez plus à garder des dossiers disp
    <id>https://jacobroy.quebec//series/2015/07/08/lumiere</id>
    <content type="html">&lt;p&gt;La lumière, c&amp;#39;est mon élément. J&amp;#39;adore jouer avec ses angles, capturer ses moments. Il faut apprendre à jouer avec elle, apprendre à la connaître. &lt;em&gt;Montrer sa beauté&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/lightplay/lumiere-1.jpg&quot; alt=&quot;lumiere1&quot; title=&quot;lumiere 1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/lightplay/DSCF0478.jpg&quot; alt=&quot;lumiere1&quot; title=&quot;lumiere 1&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/lightplay/lumiere-2.jpg&quot; alt=&quot;lumiere2&quot; title=&quot;lumiere 2&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/lightplay/DSCF0464.jpg&quot; alt=&quot;lumiere2&quot; title=&quot;lumiere 2&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Qu&amp;#39;elle soit douce et légère,&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/lightplay/lumiere-3.jpg&quot; alt=&quot;lumiere3&quot; title=&quot;lumiere 3&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/lightplay/DSCF0480.jpg&quot; alt=&quot;lumiere3&quot; title=&quot;lumiere 3&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Ou bien lourde et dure,&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/lightplay/lumiere-4.jpg&quot; alt=&quot;lumiere4&quot; title=&quot;lumiere 4&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/lightplay/DSCF0488.jpg&quot; alt=&quot;lumiere4&quot; title=&quot;lumiere 4&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Je m&amp;#39;y baigne, tous les jours.&lt;/p&gt;
@@ -1066,50 +1120,24 @@ Grâce à cette base de données, vous n’avez plus à garder des dossiers disp
 
 &lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/lightplay/lumiere-6.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/lightplay/IMG_1935.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/lightplay/lumiere-5.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/lightplay/IMG_1861.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/lightplay/lumiere-7.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/lightplay/IMG_1943.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/lightplay/lumiere-8.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/lightplay/IMG_1944.jpg&quot; /&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/lightplay/lumiere-9.jpg&quot; alt=&quot;lumiere9&quot; title=&quot;lumiere 9&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/lightplay/IMG_1945.jpg&quot; alt=&quot;lumiere9&quot; title=&quot;lumiere 9&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;La lumière est certainement la cause de la vie moderne, et elle est certainement devenue une oeuvre d&amp;#39;art constamment en mouvement.&lt;/p&gt;
 &lt;/blockquote&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Nouvelle Page</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//reflexions/2015/07/07/nouvelle-page/"/>
-   <updated>2015-07-07T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//reflexions/2015/07/07/nouvelle-page</id>
-   <content type="html">&lt;p&gt;C&amp;#39;est le tournant d&amp;#39;une nouvelle page, encore une fois, pour moi. Malgré tout le bonheur que la Fuji X100T m&amp;#39;a apporté, je l&amp;#39;ai délaissée pour sa soeur, la Fuji X-E2.
-La X100T m&amp;#39;a permis de prendre du recul, me concentrer sur ce que j&amp;#39;aimais et au final, pousser plus loin mon talent. Elle a fait son travail, et il est temps que je pousse tout ça un peu plus loin.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/nouvellepage/np-1.jpg&quot; alt=&quot;Nouvellepage-1&quot; title=&quot;Fuji X-E2&quot;&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Fuji X-E2 et Fujinon 14mm F/2.8, ainsi que la Fujinon 35mm F/1.4&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;C&amp;#39;est aussi le temps d&amp;#39;améliorer mes cartes d&amp;#39;affaires, comprenant maintenant plus de photos en façades et un dos repensé, plus épuré. C&amp;#39;est &lt;em&gt;kaizen&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/nouvellepage/np-2.jpg&quot; alt=&quot;Nouvellepage-2&quot; title=&quot;Cartes&quot;&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Merci à &lt;a href=&quot;http://moo.com&quot;&gt;Moo&lt;/a&gt; pour leur service et leurs produits sans failles.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;De plus, je me suis finalement soumis à la tentation, et j&amp;#39;ai lancé une page &lt;a href=&quot;http://facebook.com/JacobRoyPhotograhe&quot;&gt;Facebook&lt;/a&gt;, où vous pouvez suivre mes réalisations. Partagez en grand nombre!&lt;/p&gt;
 </content>
  </entry>
  
@@ -1121,13 +1149,13 @@ La X100T m&amp;#39;a permis de prendre du recul, me concentrer sur ce que j&amp;
    <content type="html">&lt;p&gt;Londres, la ville inoubliable. Pendant dix jours d&amp;#39;automne, nous sommes partis, après avoir planifié le voyage depuis six mois.
 &lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/depart-1.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/IMG_1047.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/depart-3.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/IMG_0975.jpg&quot; /&gt;
     &lt;/div&gt;
 &lt;/div&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/depart-2.jpg&quot; alt=&quot;Depart3&quot; title=&quot;Départ 3&quot;&gt;&lt;/p&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/IMG_1046.jpg&quot; alt=&quot;Depart3&quot; title=&quot;Départ 3&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;C&amp;#39;est le départ. Nerveux, nous surfons sur l&amp;#39;adrénaline. La tête remplie d&amp;#39;idées et de projets, les sept heures du vol furent les plus longues du voyage.&lt;/p&gt;
@@ -1135,10 +1163,10 @@ La X100T m&amp;#39;a permis de prendre du recul, me concentrer sur ce que j&amp;
 
 &lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/heathrow-1.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/IMG_0943.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/heathrow-2.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/IMG_0941.jpg&quot; /&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 
@@ -1150,32 +1178,32 @@ La X100T m&amp;#39;a permis de prendre du recul, me concentrer sur ce que j&amp;
 
 &lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/london-6.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/IMG_0942.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/london-10.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/IMG_0945.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/london-11.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/IMG_0944.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/london-12.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/IMG_0753.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/london-14.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/IMG_0737.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/london-16.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/IMG_1042.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/london-17.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/IMG_1043.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/london-18.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/IMG_1044.jpg&quot; /&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/london-13.jpg&quot; alt=&quot;Londres13&quot; title=&quot;Londres 13&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/IMG_0836.jpg&quot; alt=&quot;Londres13&quot; title=&quot;Londres 13&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Le Clink78, notre hôte pour la longue semaine. Le pouls urbain est très rapide. Les rues adjacentes sont vraiment charmantes et donnent le gout d&amp;#39;y habiter... &lt;/p&gt;
@@ -1183,38 +1211,38 @@ La X100T m&amp;#39;a permis de prendre du recul, me concentrer sur ce que j&amp;
 
 &lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/architecture-2.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/IMG_1022.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/architecture-1.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/IMG_1025.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/architecture-3.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/IMG_1026.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/architecture-4.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/IMG_1027.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/architecture-5.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/IMG_0813.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/architecture-6.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/IMG_0815.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/architecture-8.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/IMG_1006.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/architecture-9.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/IMG_0644.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/architecture-10.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/IMG_1020.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/architecture-12.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/IMG_0563.jpg&quot; /&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/architecture-11.jpg&quot; alt=&quot;Architecture11&quot; title=&quot;Architecture 11&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/IMG_0993.jpg&quot; alt=&quot;Architecture11&quot; title=&quot;Architecture 11&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Londres, c&amp;#39;est aussi son architecture. Des châteaux aux immeubles à bureaux, tout y est beau. J&amp;#39;y ai découvert mon faible pour la symétrie ainsi que le noir et blanc.&lt;/p&gt;
@@ -1222,16 +1250,16 @@ La X100T m&amp;#39;a permis de prendre du recul, me concentrer sur ce que j&amp;
 
 &lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/hampton-2.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/IMG_1014.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/hampton-6.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/IMG_1009.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/hampton-7.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/IMG_1008.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/hampton-8.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/IMG_0733.jpg&quot; /&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 
@@ -1243,38 +1271,38 @@ La X100T m&amp;#39;a permis de prendre du recul, me concentrer sur ce que j&amp;
 
 &lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/bath-11.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/IMG_0532.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/bath-1.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/IMG_0740.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/bath-2.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/IMG_0837.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/bath-3.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/IMG_0739.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/bath-5.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/IMG_1034.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/bath-6.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/IMG_1035.jpg&quot; /&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/bath-4.jpg&quot; alt=&quot;Bath4&quot; title=&quot;Bath 4&quot;&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/IMG_0658.jpg&quot; alt=&quot;Bath4&quot; title=&quot;Bath 4&quot;&gt;
 &lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/bath-7.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/IMG_1036.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/bath-8.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/IMG_1037.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/bath-10.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/IMG_1040.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/bath-9.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/IMG_1039.jpg&quot; /&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 &amp;nbsp;&lt;/p&gt;
@@ -1285,28 +1313,28 @@ La X100T m&amp;#39;a permis de prendre du recul, me concentrer sur ce que j&amp;
 
 &lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/brighton-2.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/IMG_0827.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/brighton-7.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/IMG_0847.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/brighton-1.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/IMG_0972.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/brighton-6.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/IMG_0927.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/brighton-5.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/IMG_0924.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/brighton-4.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/IMG_0926.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/brighton-9.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/IMG_0974.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/brighton-8.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/IMG_0973.jpg&quot; /&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 
@@ -1318,22 +1346,22 @@ La X100T m&amp;#39;a permis de prendre du recul, me concentrer sur ce que j&amp;
 
 &lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/pont-1.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/IMG_0814.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/pont-2.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/IMG_0995.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/partir-5.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/IMG_1023.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/train-1.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/IMG_1005.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/partir-1.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/IMG_0965.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/partir-2.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/london_poche/IMG_0966.jpg&quot; /&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 
@@ -1358,30 +1386,32 @@ La X100T m&amp;#39;a permis de prendre du recul, me concentrer sur ce que j&amp;
 
 &lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/finissantes_2015/fin-1.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/finissantes_2015/DSCF0517.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/finissantes_2015/fin-2.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/finissantes_2015/DSCF0525.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/finissantes_2015/fin-3.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/finissantes_2015/DSCF0550.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/finissantes_2015/fin-4.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/finissantes_2015/DSCF0605.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/finissantes_2015/fin-5.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/finissantes_2015/DSCF0853.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/finissantes_2015/fin-6.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/finissantes_2015/DSCF0891.jpg&quot; /&gt;
     &lt;/div&gt;
 &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/finissantes_2015/fin-7.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/finissantes_2015/DSCF0907.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/finissantes_2015/fin-8.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/finissantes_2015/DSCF0914.jpg&quot; /&gt;
     &lt;/div&gt;
 &lt;/div&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Une journée vraiment inoubliable!&lt;/p&gt;
@@ -1396,7 +1426,7 @@ La X100T m&amp;#39;a permis de prendre du recul, me concentrer sur ce que j&amp;
    <id>https://jacobroy.quebec//series/2015/06/18/l'expedition</id>
    <content type="html">&lt;p&gt;Pour mes vingt ans, j&amp;#39;ai décidé de profiter du moment. Partir avec mes vieux amis, marcher en forêt, découvrir la nature. Sans attachement ni limite de temps, nous avons pris le large, traînant dans nos bagages seulement notre goût de vivre et notre détermination à découvrir.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/20ans/explo-1.jpg&quot; alt=&quot;Exploration1&quot; title=&quot;L&amp;#39;exploration 1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/20ans/DSCF0122.jpg&quot; alt=&quot;Exploration1&quot; title=&quot;L&amp;#39;exploration 1&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Nous étions en quête de quelque chose de différent, de quelque chose qui nous élèverait.&lt;/p&gt;
@@ -1404,14 +1434,14 @@ La X100T m&amp;#39;a permis de prendre du recul, me concentrer sur ce que j&amp;
 
 &lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/20ans/explo-2.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/20ans/DSCF0215.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/20ans/explo-3.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/20ans/DSCF0214.jpg&quot; /&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/20ans/explo-4.jpg&quot; alt=&quot;Exploration4&quot; title=&quot;L&amp;#39;exploration 4&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/20ans/DSCF0190.jpg&quot; alt=&quot;Exploration4&quot; title=&quot;L&amp;#39;exploration 4&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Sous l&amp;#39;ombre des arbres, assis sur les roches, nous étions à notre recherche. Nous vieillissons si vite.&lt;/p&gt;
@@ -1419,26 +1449,26 @@ La X100T m&amp;#39;a permis de prendre du recul, me concentrer sur ce que j&amp;
 
 &lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/20ans/explo-5.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/20ans/DSCF0276.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/20ans/explo-6.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/20ans/DSCF0338.jpg&quot; /&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/20ans/explo-7.jpg&quot; alt=&quot;Exploration7&quot; title=&quot;L&amp;#39;exploration 7&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/20ans/DSCF0244.jpg&quot; alt=&quot;Exploration7&quot; title=&quot;L&amp;#39;exploration 7&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;La route était longue, le chemin boueux. Nous dûmes abandonner notre navire, mais la vue à elle seule valait l&amp;#39;effort.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/20ans/explo-8.jpg&quot; alt=&quot;Exploration8&quot; title=&quot;L&amp;#39;exploration 8&quot;&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/20ans/DSCF0296.jpg&quot; alt=&quot;Exploration8&quot; title=&quot;L&amp;#39;exploration 8&quot;&gt;
 &lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/20ans/explo-9.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/20ans/DSCF0291.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/20ans/explo-10.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/20ans/DSCF0320.jpg&quot; /&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 &amp;nbsp;&lt;/p&gt;
@@ -1447,20 +1477,20 @@ La X100T m&amp;#39;a permis de prendre du recul, me concentrer sur ce que j&amp;
 &lt;p&gt;Par ce que nous nous laissons aller, que nous réfléchissons sur nous-mêmes, l&amp;#39;exploration est un bon moment pour des portraits qui nous reflètent.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/20ans/explo-11.jpg&quot; alt=&quot;Exploration11&quot; title=&quot;L&amp;#39;exploration 11&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/20ans/explo-12.jpg&quot; alt=&quot;Exploration12&quot; title=&quot;L&amp;#39;exploration 12&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/20ans/DSCF0290.jpg&quot; alt=&quot;Exploration11&quot; title=&quot;L&amp;#39;exploration 11&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/20ans/DSCF0310.jpg&quot; alt=&quot;Exploration12&quot; title=&quot;L&amp;#39;exploration 12&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Peut-être sommes-nous comme la nature, qui renait de ses cendres. Il est vrai que nous sortons grandis des dures épreuves de la vie.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/20ans/explo-13.jpg&quot; alt=&quot;Exploration13&quot; title=&quot;L&amp;#39;exploration 13&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/20ans/DSCF0351.jpg&quot; alt=&quot;Exploration13&quot; title=&quot;L&amp;#39;exploration 13&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Malgré la lumière tentatrice, nous rebroussons chemin. Avons-nous grandi? Avons-nous vieilli?&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/20ans/explo-14.jpg&quot; alt=&quot;Exploration14&quot; title=&quot;L&amp;#39;exploration 14&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/20ans/DSCF0261.jpg&quot; alt=&quot;Exploration14&quot; title=&quot;L&amp;#39;exploration 14&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;En y pensant bien, ce que l&amp;#39;on cherche se cache peut-être à l&amp;#39;endroit ou nous nous en doutons le moins. Connaissons-nous déjà ce que nous sommes venus trouver?&lt;/p&gt;
@@ -1475,25 +1505,25 @@ La X100T m&amp;#39;a permis de prendre du recul, me concentrer sur ce que j&amp;
    <id>https://jacobroy.quebec//series/2015/06/17/petitspoissons</id>
    <content type="html">&lt;p&gt;Imitant les techniques de pêche ancestrales, des centaines de personnes se rassemblent chaque hiver dans des petites cabanes de bois pour y pêcher de mignons poissons.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/petitspoissonsdeschenaux/ppc-1.jpg&quot; alt=&quot;PetitsPoissons1&quot; title=&quot;Petits Poissons 1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/petitspoissonsdeschenaux/DSCF1746.jpg&quot; alt=&quot;PetitsPoissons1&quot; title=&quot;Petits Poissons 1&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Cordées serrées, les cabanes munies d&amp;#39;un poêle garantissent une pêche confortable.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/petitspoissonsdeschenaux/ppc-2.jpg&quot; alt=&quot;PetitsPoissons2&quot; title=&quot;Petits Poissons 2&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/petitspoissonsdeschenaux/DSCF1821.jpg&quot; alt=&quot;PetitsPoissons2&quot; title=&quot;Petits Poissons 2&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Quand les lignes frémissent, nous tirons! Les poissons n&amp;#39;apprécient pas...&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/petitspoissonsdeschenaux/ppc-3.jpg&quot; alt=&quot;PetitsPoissons3&quot; title=&quot;Petits Poissons 3&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/petitspoissonsdeschenaux/DSCF1860.jpg&quot; alt=&quot;PetitsPoissons3&quot; title=&quot;Petits Poissons 3&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Entassés dans un saut, ils se calment rapidement.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/petitspoissonsdeschenaux/ppc-4.jpg&quot; alt=&quot;PetitsPoissons4&quot; title=&quot;Petits Poissons 4&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/petitspoissonsdeschenaux/DSCF1901.jpg&quot; alt=&quot;PetitsPoissons4&quot; title=&quot;Petits Poissons 4&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;La tête coupée ou non, ils sont tous empilés à l&amp;#39;extérieur pour une meilleure conservation.&lt;/p&gt;
@@ -1514,22 +1544,22 @@ La X100T m&amp;#39;a permis de prendre du recul, me concentrer sur ce que j&amp;
 
 &lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/boysbandpictures/bbp-6.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/boysbandpictures/IMG_1942.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/boysbandpictures/bbp-2.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/boysbandpictures/IMG_1940.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/boysbandpictures/bbp-3.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/boysbandpictures/IMG_1938.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/boysbandpictures/bbp-7.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/boysbandpictures/IMG_1939.jpg&quot; /&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/boysbandpictures/bbp-4.jpg&quot; alt=&quot;bbp4&quot; title=&quot;Boys Band Pictures 4&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/boysbandpictures/DSCF8152.jpg&quot; alt=&quot;bbp4&quot; title=&quot;Boys Band Pictures 4&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/boysbandpictures/bbp-5.jpg&quot; alt=&quot;bbp5&quot; title=&quot;Boys Band Pictures 5&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/boysbandpictures/IMG_8749.jpg&quot; alt=&quot;bbp5&quot; title=&quot;Boys Band Pictures 5&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -1538,37 +1568,37 @@ La X100T m&amp;#39;a permis de prendre du recul, me concentrer sur ce que j&amp;
    <link href="https://jacobroy.quebec/https://jacobroy.quebec//portraits/2015/06/01/Pantouffe/"/>
    <updated>2015-06-01T00:00:00-04:00</updated>
    <id>https://jacobroy.quebec//portraits/2015/06/01/Pantouffe</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/pantouffe/pantouffe-1.jpg&quot; alt=&quot;Pantouffe1&quot; title=&quot;Pantouffe1&quot;&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/pantouffe/DSCF0763.jpg&quot; alt=&quot;Pantouffe1&quot; title=&quot;Pantouffe1&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Malgré la température, ils partent à l&amp;#39;aventure.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/pantouffe/pantouffe-2.jpg&quot; alt=&quot;Pantouffe2&quot; title=&quot;Pantouffe2&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/pantouffe/DSCF0796.jpg&quot; alt=&quot;Pantouffe2&quot; title=&quot;Pantouffe2&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Guidant son maitre à travers les champs verts, &lt;em&gt;Pantouffe&lt;/em&gt; profite du moment.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/pantouffe/pantouffe-3.jpg&quot; alt=&quot;Pantouffe3&quot; title=&quot;Pantouffe3&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/pantouffe/DSCF0851.jpg&quot; alt=&quot;Pantouffe3&quot; title=&quot;Pantouffe3&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Une simple branche suffit à éveiller l&amp;#39;esprit vif et curieux de l&amp;#39;animal.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/pantouffe/pantouffe-4.jpg&quot; alt=&quot;Pantouffe4&quot; title=&quot;Pantouffe4&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/pantouffe/DSCF0882.jpg&quot; alt=&quot;Pantouffe4&quot; title=&quot;Pantouffe4&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Les jeux s&amp;#39;en suivent, malgré la brume constante. Tout est simple et joyeux.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/pantouffe/pantouffe-5.jpg&quot; alt=&quot;Pantouffe5&quot; title=&quot;Pantouffe5&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/pantouffe/DSCF0910.jpg&quot; alt=&quot;Pantouffe5&quot; title=&quot;Pantouffe5&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Suivant son maitre à travers les forêts grises, &lt;em&gt;Pantoufle&lt;/em&gt; profite du moment.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/pantouffe/pantouffe-6.jpg&quot; alt=&quot;Pantouffe6&quot; title=&quot;Pantouffe6&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/pantouffe/DSCF0925.jpg&quot; alt=&quot;Pantouffe6&quot; title=&quot;Pantouffe6&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Peu importe les conditions météorologiques, explorer le domaine avec son maitre sont ses moments favoris.&lt;/p&gt;
@@ -1589,22 +1619,22 @@ La X100T m&amp;#39;a permis de prendre du recul, me concentrer sur ce que j&amp;
 
 &lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/lafenetre/fen-1.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/lafenetre/IMG_1928.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/lafenetre/fen-2.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/lafenetre/IMG_1933.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/lafenetre/fen-3.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/lafenetre/IMG_1937.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/lafenetre/fen-6.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/lafenetre/IMG_1934.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/lafenetre/fen-5.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/lafenetre/IMG_1936.jpg&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/public/photos/lafenetre/fen-4.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/public/photos/lafenetre/IMG_1827.jpg&quot; /&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 </content>
@@ -1617,25 +1647,25 @@ La X100T m&amp;#39;a permis de prendre du recul, me concentrer sur ce que j&amp;
    <id>https://jacobroy.quebec//series/2015/05/07/Errance</id>
    <content type="html">&lt;p&gt;L&amp;#39;errance est un processus très créatif; marcher sans but précis, laisser notre inconscient décider pour nous et suivre &lt;em&gt;le vent&lt;/em&gt;. Est-ce vraiment sans arrière-pensées que nous décidons de notre chemin?&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/errance/errance-1.jpg&quot; alt=&quot;Errance1&quot; title=&quot;Errance1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/errance/DSCF0473.jpg&quot; alt=&quot;Errance1&quot; title=&quot;Errance1&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Peut-être cherchons-nous quelque chose de précis, au fond.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/errance/errance-2.jpg&quot; alt=&quot;Errance2&quot; title=&quot;Errance2&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/errance/DSCF0541.jpg&quot; alt=&quot;Errance2&quot; title=&quot;Errance2&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Un endroit, un état, où nous nous sentons &lt;strong&gt;à notre place&lt;/strong&gt;, accueillis. Peut-être un endroit vide de distraction, pour être seul quelque temps.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/errance/errance-3.jpg&quot; alt=&quot;Errance3&quot; title=&quot;Errance3&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/errance/DSCF0524.jpg&quot; alt=&quot;Errance3&quot; title=&quot;Errance3&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Nous portons alors un regard très différent sur les objets du quotidien. Sans jugement, passivement, nous laissons entrer les émotions en nous.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/errance/errance-4.jpg&quot; alt=&quot;Errance4&quot; title=&quot;Errance4&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/errance/DSCF0501.jpg&quot; alt=&quot;Errance4&quot; title=&quot;Errance4&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Errer, c&amp;#39;est découvrir, c&amp;#39;est vivre au présent, c&amp;#39;est trouver le bonheur sans le chercher.&lt;/p&gt;
@@ -1650,13 +1680,13 @@ La X100T m&amp;#39;a permis de prendre du recul, me concentrer sur ce que j&amp;
    <id>https://jacobroy.quebec//portraits/2015/05/01/la-mere-artiste</id>
    <content type="html">&lt;p&gt;Ma mère, l&amp;#39;artiste, mon inspiration dans bien des projets.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/souls/mere1.jpg&quot; alt=&quot;mere1&quot; title=&quot;La mère artiste 1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/souls/DSCF1662.jpg&quot; alt=&quot;mere1&quot; title=&quot;La mère artiste 1&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/souls/mere3.jpg&quot; alt=&quot;mere3&quot; title=&quot;La mère artiste 3&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/souls/IMG_2462-2.jpg&quot; alt=&quot;mere3&quot; title=&quot;La mère artiste 3&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/souls/mere4.jpg&quot; alt=&quot;mere4&quot; title=&quot;La mère artiste 4&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/souls/IMG_2547-2.jpg&quot; alt=&quot;mere4&quot; title=&quot;La mère artiste 4&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/souls/mere4.jpg&quot; alt=&quot;mere5&quot; title=&quot;La mère artiste 5&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/souls/DSCF4042.jpg&quot; alt=&quot;mere5&quot; title=&quot;La mère artiste 5&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -1667,13 +1697,13 @@ La X100T m&amp;#39;a permis de prendre du recul, me concentrer sur ce que j&amp;
    <id>https://jacobroy.quebec//portraits/2015/04/30/peres</id>
    <content type="html">&lt;p&gt;Début de la série sur les pères, et ce qu&amp;#39;ils sacrifient avec plaisir pour le bien de leurs enfants.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/souls/peres1.jpg&quot; alt=&quot;peres1&quot; title=&quot;Les Pères 1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/souls/IMG_8739.jpg&quot; alt=&quot;peres1&quot; title=&quot;Les Pères 1&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/souls/peres4.jpg&quot; alt=&quot;peres4&quot; title=&quot;Les Pères 4&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/souls/DSCF2302.jpg&quot; alt=&quot;peres4&quot; title=&quot;Les Pères 4&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/souls/peres2.jpg&quot; alt=&quot;peres2&quot; title=&quot;Les Pères 2&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/souls/IMG_5640.jpg&quot; alt=&quot;peres2&quot; title=&quot;Les Pères 2&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/souls/peres3.jpg&quot; alt=&quot;peres3&quot; title=&quot;Les Pères 3&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/souls/IMG_4446-2.jpg&quot; alt=&quot;peres3&quot; title=&quot;Les Pères 3&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -1684,11 +1714,11 @@ La X100T m&amp;#39;a permis de prendre du recul, me concentrer sur ce que j&amp;
    <id>https://jacobroy.quebec//reflexions/2015/04/26/vivre-bien</id>
    <content type="html">&lt;p&gt;Il y a tant d&amp;#39;ambitieux et si peu de grandes ambitions,&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/vivrebien/vivrebien-1.jpg&quot; alt=&quot;vivrebien1&quot; title=&quot;Vivre Bien 1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/vivrebien/DSCF0364.jpg&quot; alt=&quot;vivrebien1&quot; title=&quot;Vivre Bien 1&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;Nous passons notre temps à chercher l&amp;#39;or, à boucher les trous dans nos poches, à être plus haut que le prochain, à être &lt;em&gt;quelqu&amp;#39;un&lt;/em&gt;. Nous ne pensons qu&amp;#39;aux biens que nous n&amp;#39;avons pas, nous sommes en dépendance de consommation.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/vivrebien/vivrebien-2.jpg&quot; alt=&quot;vivrebien2&quot; title=&quot;Vivre Bien 2&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/vivrebien/DSCF0403.jpg&quot; alt=&quot;vivrebien2&quot; title=&quot;Vivre Bien 2&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Tous veulent acquérir sans cesse des biens, de la réputation, du pouvoir; peu envisagent en grand toutes ces choses.&lt;/p&gt;
@@ -1698,19 +1728,19 @@ La X100T m&amp;#39;a permis de prendre du recul, me concentrer sur ce que j&amp;
 
 &lt;p&gt;Il faut s&amp;#39;y concentrer, n&amp;#39;emmètre qu&amp;#39;un seul but et y parvenir. &lt;em&gt;Se sacrifier&lt;/em&gt;. Oublier la souffrance quotidienne et s&amp;#39;éloigner du désir.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/vivrebien/vivrebien-3.jpg&quot; alt=&quot;vivrebien3&quot; title=&quot;Vivre Bien 3&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/vivrebien/DSCF0373.jpg&quot; alt=&quot;vivrebien3&quot; title=&quot;Vivre Bien 3&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Il est rare que le même esprit n’y embrasse point plusieurs objets à la fois. […] Comme il ne peut les biens connaître tous, il se satisfait aisément de notions imparfaites.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/vivrebien/vivrebien-4.jpg&quot; alt=&quot;vivrebien4&quot; title=&quot;Vivre Bien 4&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/vivrebien/DSCF0380.jpg&quot; alt=&quot;vivrebien4&quot; title=&quot;Vivre Bien 4&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;Or, je veux connaître. &lt;/p&gt;
 
 &lt;p&gt;Je veux bien connaître, et connaître le bien.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/vivrebien/vivrebien-5.jpg&quot; alt=&quot;vivrebien5&quot; title=&quot;Vivre Bien 5&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/vivrebien/DSCF0423.jpg&quot; alt=&quot;vivrebien5&quot; title=&quot;Vivre Bien 5&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Faire le mieux possible, et non le plus vite ni au meilleur marché. &lt;/p&gt;
@@ -1727,31 +1757,31 @@ La X100T m&amp;#39;a permis de prendre du recul, me concentrer sur ce que j&amp;
    <link href="https://jacobroy.quebec/https://jacobroy.quebec//evenements/2015/04/02/manifnationale/"/>
    <updated>2015-04-02T00:00:00-04:00</updated>
    <id>https://jacobroy.quebec//evenements/2015/04/02/manifnationale</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/manifnationale/mn-1.jpg&quot; alt=&quot;manifnationale1&quot; title=&quot;Maif Nationale 1&quot;&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/manifnationale/DSCF0222.jpg&quot; alt=&quot;manifnationale1&quot; title=&quot;Maif Nationale 1&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;On avance! On avance! On recule pas!&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/manifnationale/mn-2.jpg&quot; alt=&quot;manifnationale2&quot; title=&quot;Maif Nationale 2&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/manifnationale/DSCF0226.jpg&quot; alt=&quot;manifnationale2&quot; title=&quot;Maif Nationale 2&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;C&amp;#39;est quoi le message qu&amp;#39;on donne aux jeunes? Travail, consomme et ferme ta gueule!&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/manifnationale/mn-3.jpg&quot; alt=&quot;manifnationale3&quot; title=&quot;Maif Nationale 3&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/manifnationale/DSCF0235.jpg&quot; alt=&quot;manifnationale3&quot; title=&quot;Maif Nationale 3&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;À qui la rue? À nous la rue!&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/manifnationale/mn-4.jpg&quot; alt=&quot;manifnationale4&quot; title=&quot;Maif Nationale 4&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/manifnationale/IMG_8784.jpg&quot; alt=&quot;manifnationale4&quot; title=&quot;Maif Nationale 4&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Crions, plus fort, pour que personne ne nous ignore!&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/manifnationale/mn-5.jpg&quot; alt=&quot;manifnationale5&quot; title=&quot;Maif Nationale 5&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/manifnationale/DSCF0308.jpg&quot; alt=&quot;manifnationale5&quot; title=&quot;Maif Nationale 5&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Le peuple uni jamais ne sera vaincu!&lt;/p&gt;
@@ -1766,13 +1796,13 @@ La X100T m&amp;#39;a permis de prendre du recul, me concentrer sur ce que j&amp;
    <id>https://jacobroy.quebec//evenements/2015/04/01/expodesign</id>
    <content type="html">&lt;p&gt;L&amp;#39;Expo Design 29.015, c&amp;#39;est 29 finissants en design d&amp;#39;intérieur du CÉGEP de Saint-Jean-sur-Richelieu qui présentent leur projet final, l&amp;#39;embellissement de leur café étudiant.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/expodesign2915/ed-1.jpg&quot; alt=&quot;expodesign2915-1&quot; title=&quot;Expo Design 1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/expodesign2915/DSCF0199.jpg&quot; alt=&quot;expodesign2915-1&quot; title=&quot;Expo Design 1&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/expodesign2915/ed-2.jpg&quot; alt=&quot;expodesign2915-2&quot; title=&quot;Expo Design 2&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/expodesign2915/DSCF0182.jpg&quot; alt=&quot;expodesign2915-2&quot; title=&quot;Expo Design 2&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/expodesign2915/ed-3.jpg&quot; alt=&quot;expodesign2915-3&quot; title=&quot;Expo Design 3&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/expodesign2915/DSCF0204.jpg&quot; alt=&quot;expodesign2915-3&quot; title=&quot;Expo Design 3&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/expodesign2915/ed-4.jpg&quot; alt=&quot;expodesign2915-4&quot; title=&quot;Expo Design 4&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/expodesign2915/DSCF0135.jpg&quot; alt=&quot;expodesign2915-4&quot; title=&quot;Expo Design 4&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -1791,25 +1821,25 @@ La X100T m&amp;#39;a permis de prendre du recul, me concentrer sur ce que j&amp;
 &lt;p&gt;Apprécier le moment.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/quebec2015/qc-1.jpg&quot; alt=&quot;Quebec1&quot; title=&quot;Quebec1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/quebec2015/DSCF1516.jpg&quot; alt=&quot;Quebec1&quot; title=&quot;Quebec1&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Le soleil se lève en même temps que la brume du fleuve envahit la ville, créant une atmosphère irréelle. La semaine s&amp;#39;annonce bien.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/quebec2015/qc-2.jpg&quot; alt=&quot;Quebec2&quot; title=&quot;Quebec2&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/quebec2015/DSCF1372.jpg&quot; alt=&quot;Quebec2&quot; title=&quot;Quebec2&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Bien que peu profonde, cette photo résume bien Le Vieux Québec, le mariage de la vieille architecture et du nouveau qui attire l’oeil.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/quebec2015/qc-3.jpg&quot; alt=&quot;Quebec3&quot; title=&quot;Quebec3&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/quebec2015/DSCF1572.jpg&quot; alt=&quot;Quebec3&quot; title=&quot;Quebec3&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;inspiré par les photos de Raymon Vishniac, j&amp;#39;explore les coins non touristiques, un peu délaissés.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/quebec2015/qc-4.jpg&quot; alt=&quot;Quebec4&quot; title=&quot;Quebec4&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/quebec2015/DSCF1531.jpg&quot; alt=&quot;Quebec4&quot; title=&quot;Quebec4&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Un dernier regard nostalgique vers la capitale qui se réveille, sans nous cette fois.&lt;/p&gt;
@@ -1832,25 +1862,25 @@ La X100T m&amp;#39;a permis de prendre du recul, me concentrer sur ce que j&amp;
 &lt;p&gt;Je pris la montagne d&amp;#39;assaut.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/sutton/sutton-1.jpg&quot; alt=&quot;Sutton1&quot; title=&quot;Sutton1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/sutton/DSCF1669.jpg&quot; alt=&quot;Sutton1&quot; title=&quot;Sutton1&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Voyant seulement deux sièges en avant, la journée s&amp;#39;annonçait pour être une des plus belles de la saison.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/sutton/sutton-2.jpg&quot; alt=&quot;Sutton2&quot; title=&quot;Sutton2&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/sutton/DSCF1675.jpg&quot; alt=&quot;Sutton2&quot; title=&quot;Sutton2&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Au sommet, la tempête ne ralentissait pas la cadence. Et nous non plus. &lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/sutton/sutton-3.jpg&quot; alt=&quot;Sutton3&quot; title=&quot;Sutton3&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/sutton/DSCF1683.jpg&quot; alt=&quot;Sutton3&quot; title=&quot;Sutton3&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;En bordure de piste, entre deux arbres, nous pouvions apercevoir le découpage flou des skieurs et planchistes qui dévalaient les pentes blanches. &lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/sutton/sutton-4.jpg&quot; alt=&quot;Sutton4&quot; title=&quot;Sutton4&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/sutton/DSCF1695.jpg&quot; alt=&quot;Sutton4&quot; title=&quot;Sutton4&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Dernière photo de la journée, j&amp;#39;étais posté, attendant le moment parfait, attendant le passage d&amp;#39;un sujet.&lt;/p&gt;
@@ -1860,22 +1890,22 @@ La X100T m&amp;#39;a permis de prendre du recul, me concentrer sur ce que j&amp;
  
  <entry>
    <title>Devoir 1, La Composition</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//series/2015/03/24/devoir1/"/>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//reflexions/2015/03/24/devoir1/"/>
    <updated>2015-03-24T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec//series/2015/03/24/devoir1</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/devoir1/devoir1-1.jpg&quot; alt=&quot;composition1&quot; title=&quot;Composition 1&quot;&gt;&lt;/p&gt;
+   <id>https://jacobroy.quebec//reflexions/2015/03/24/devoir1</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/devoir1/DSCF1181.jpg&quot; alt=&quot;composition1&quot; title=&quot;Composition 1&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Le contraste élevé entre la neige blanche et les murs d&amp;#39;école amènent l&amp;#39;oeil vers le centre de la photo, pendant que les couleurs vibrantes du jeu de balles capturent l&amp;#39;attention. Les angles pointus créent une tension visuelle, relâchée seulement par la douceur du sujet, ajoutant de l&amp;#39;impact à la scène.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/devoir1/devoir1-2.jpg&quot; alt=&quot;composition2&quot; title=&quot;Composition 2&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/devoir1/DSCF1187.jpg&quot; alt=&quot;composition2&quot; title=&quot;Composition 2&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Utilisant les roches pointues et contrastées pour briser la monotonie du pont, un chemin se crée, en conjonction avec les arbres, qui amènent l&amp;#39;oeil vers l&amp;#39;entrée du pont, ce qui balance la scène.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/devoir1/devoir1-3.jpg&quot; alt=&quot;composition3&quot; title=&quot;Composition 3&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/devoir1/DSCF1202.jpg&quot; alt=&quot;composition3&quot; title=&quot;Composition 3&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;La rangée de lumières et d&amp;#39;espaces de stationnement attire inconditionnellement l&amp;#39;attention vers l&amp;#39;horizon, le centre de la photo. La ligne brisée des piliers crée une tension visuelle, balancée par leur rondeur. Le contraste entre les zones sous-exposées et surexposées ajoute de la &lt;em&gt;negative space&lt;/em&gt;, tout en retenant assez de détail à percevoir.&lt;/p&gt;
@@ -1889,9 +1919,9 @@ La X100T m&amp;#39;a permis de prendre du recul, me concentrer sur ce que j&amp;
    <updated>2015-03-18T00:00:00-04:00</updated>
    <id>https://jacobroy.quebec//portraits/2015/03/18/William-Gagne</id>
    <content type="html">&lt;p&gt;Éternel explorateur et photographe, William Gagné est présentement aux États-Unis, où il vit et documente son expérience extraordinaire. Suivez le sur &lt;a href=&quot;https://www.behance.net/WilliamGagne&quot;&gt;Behance&lt;/a&gt; et découvrez son regard sur l&amp;#39;âme et la nature.
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/souls/william1.jpg&quot; alt=&quot;william1&quot; title=&quot;William Gagné 1&quot;&gt;&lt;/p&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/williamgagne/DSCF8146.jpg&quot; alt=&quot;william1&quot; title=&quot;William Gagné 1&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/souls/william2.jpg&quot; alt=&quot;william2&quot; title=&quot;William Gagné 2&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/williamgagne/DSCF8160.jpg&quot; alt=&quot;william2&quot; title=&quot;William Gagné 2&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -1901,15 +1931,15 @@ La X100T m&amp;#39;a permis de prendre du recul, me concentrer sur ce que j&amp;
    <updated>2015-03-17T00:00:00-04:00</updated>
    <id>https://jacobroy.quebec//portraits/2015/03/17/David</id>
    <content type="html">&lt;p&gt;Étudiant en photographie, David Nadeau explore profondément plusieurs concepts poignants axés sur l&amp;#39;être humain. Voyez ses oeuvres sur &lt;a href=&quot;https://www.behance.net/DavidsNadeau&quot;&gt;Behance&lt;/a&gt;.
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/souls/david1.jpg&quot; alt=&quot;david1&quot; title=&quot;David Nadeau 1&quot;&gt;&lt;/p&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/davidnadeau/DSCF8027.jpg&quot; alt=&quot;david1&quot; title=&quot;David Nadeau 1&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/souls/david2.jpg&quot; alt=&quot;david2&quot; title=&quot;David Nadeau 2&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/davidnadeau/DSCF8069.jpg&quot; alt=&quot;david2&quot; title=&quot;David Nadeau 2&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/souls/david3.jpg&quot; alt=&quot;david3&quot; title=&quot;David Nadeau 3&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/davidnadeau/DSCF0362.jpg&quot; alt=&quot;david3&quot; title=&quot;David Nadeau 3&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/souls/david4.jpg&quot; alt=&quot;david4&quot; title=&quot;David Nadeau 4&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/davidnadeau/DSCF0353.jpg&quot; alt=&quot;david4&quot; title=&quot;David Nadeau 4&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/souls/DSCF3250.jpg&quot; alt=&quot;david5&quot; title=&quot;David Nadeau 5&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/davidnadeau/DSCF3250.jpg&quot; alt=&quot;david5&quot; title=&quot;David Nadeau 5&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -1918,11 +1948,11 @@ La X100T m&amp;#39;a permis de prendre du recul, me concentrer sur ce que j&amp;
    <link href="https://jacobroy.quebec/https://jacobroy.quebec//evenements/2015/03/05/zero-degre-surf/"/>
    <updated>2015-03-05T00:00:00-05:00</updated>
    <id>https://jacobroy.quebec//evenements/2015/03/05/zero-degre-surf</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/zerodegresurf/zds-1.jpg&quot; alt=&quot;zerodegresurf1&quot; title=&quot;Zero Degre Surf 1&quot;&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/zerodegresurf/DSCF2009.jpg&quot; alt=&quot;zerodegresurf1&quot; title=&quot;Zero Degre Surf 1&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;Premier contrat officiel, &lt;a href=&quot;https://www.facebook.com/zerodegresurf&quot;&gt;Zero Degre Surf&lt;/a&gt; est une jeune compagnie qui conçoit des machines permettant de faire du &lt;em&gt;snowboard&lt;/em&gt; sur le sol, et même nous tirer pour des sauts. Comprenant une corde de 300 ou de 600 pieds, le système dispose d&amp;#39;une versatilité hors du commun.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/zerodegresurf/zds-2.jpg&quot; alt=&quot;zerodegresurf2&quot; title=&quot;Zero Degre Surf 2&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/zerodegresurf/IMG_8592.jpg&quot; alt=&quot;zerodegresurf2&quot; title=&quot;Zero Degre Surf 2&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -1945,37 +1975,37 @@ La X100T m&amp;#39;a permis de prendre du recul, me concentrer sur ce que j&amp;
 
 &lt;p&gt;Quelque part pendant l&amp;#39;été 2014, j&amp;#39;ai passé, avec quelques amis, un &lt;em&gt;weekend&lt;/em&gt; dans une grange. Durant les longues journées chaudes et humides du mois d&amp;#39;août, cette vieille grange de bois nous procurait ombre et fraicheur. En apprivoisant ses aspérités, nous avons su découvrir sa grande profondeur qui se révélait par les rayons tamisés du soleil passant au travers de ses planches. C&amp;#39;était maintenant, et à tout jamais, notre cachette à rêves. &lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/thebarn/thebarn-1.jpg&quot; alt=&quot;TheBarn1&quot; title=&quot;The Barn1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/thebarn/IMG_4844.jpg&quot; alt=&quot;TheBarn1&quot; title=&quot;The Barn1&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Suivant les chemins sinueux sous un ciel dégagé, nous arrivions lentement à notre repère.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/thebarn/thebarn-2.jpg&quot; alt=&quot;TheBarn2&quot; title=&quot;The Barn2&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/thebarn/IMG_4954.jpg&quot; alt=&quot;TheBarn2&quot; title=&quot;The Barn2&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Entourée de champs fraîchement coupés et d&amp;#39;autres arrivées à point, la grange était enveloppée d&amp;#39;un parfum chaud, plein de vie.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/thebarn/thebarn-3.jpg&quot; alt=&quot;TheBarn3&quot; title=&quot;The Barn3&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/thebarn/IMG_4881.jpg&quot; alt=&quot;TheBarn3&quot; title=&quot;The Barn3&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Un rassurant vacarme naturel nous emplissait les oreilles, nous forçait à l&amp;#39;écouter, à en prendre conscience.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/thebarn/thebarn-4.jpg&quot; alt=&quot;TheBarn4&quot; title=&quot;The Barn4&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/thebarn/IMG_4888.jpg&quot; alt=&quot;TheBarn4&quot; title=&quot;The Barn4&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Arrivées près de la destination, notre envie d&amp;#39;entrer était de plus en plus pressante. Le vent chaud d&amp;#39;été soufflant sur notre visage, les champs de plus en plus haut nous arrêtaient dans notre course.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/thebarn/thebarn-5.jpg&quot; alt=&quot;TheBarn5&quot; title=&quot;The Barn5&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/thebarn/IMG_4916.jpg&quot; alt=&quot;TheBarn5&quot; title=&quot;The Barn5&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Au deuxième étage, nous étions accueillis par cette lumière, des plus propices à l&amp;#39;imagination. Un bureau et une chaise, favorablement placée, nous invitaient à l&amp;#39;écriture de nos pensées.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/thebarn/thebarn-6.jpg&quot; alt=&quot;TheBarn6&quot; title=&quot;The Barn6&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/thebarn/IMG_4912.jpg&quot; alt=&quot;TheBarn6&quot; title=&quot;The Barn6&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Du fond de la pièce, la scène nous coupait le souffle. La lumière, lourde de poussière, nous frappait sans vergogne. Le bois rugueux, pêle-mêle, exacerbait notre envie de découverte.&lt;/p&gt;
@@ -2001,17 +2031,14 @@ La X100T m&amp;#39;a permis de prendre du recul, me concentrer sur ce que j&amp;
 
 &lt;p&gt;Le meilleur appareil, le meilleur équipement est celui qui étend notre créativité, qui nous permet de prévoir, de planifier et de recréer ce qu&amp;#39;on imagine. Celui qui nous fait sentir chez soi.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/retrospective/retrospective2.jpg&quot; alt=&quot;retrospective2&quot; title=&quot;Rétrospective2&quot;&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/retrospective/IMG_1290-2.jpg&quot; alt=&quot;retrospective2&quot; title=&quot;Rétrospective2&quot;&gt;
 J&amp;#39;ai commencé mon aventure dans le monde de la photographie avec une simple &lt;a href=&quot;http://www.kenrockwell.com/canon/rebel-xsi.htm&quot;&gt;Canon Rebel XSI&lt;/a&gt; et une &lt;a href=&quot;http://www.kenrockwell.com/canon/lenses/18-55mm-is.htm&quot;&gt;18-55mm&lt;/a&gt;. C&amp;#39;était bien, c&amp;#39;était naturel, intuitif. Une continuation de mon esprit. Pas la meilleure qualité, mais l&amp;#39;expérience y était.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/retrospective/retrospective3.jpg&quot; alt=&quot;retrospective3&quot; title=&quot;Rétrospective3&quot;&gt;
-Je me suis ensuite équipé d&amp;#39;une &lt;a href=&quot;http://www.kenrockwell.com/canon/60d.htm&quot;&gt;Canon 60D&lt;/a&gt;. C&amp;#39;est à ce moment que les choses ont mal tournées. Jamais vraiment fière de mes photos, j&amp;#39;ai investi dans les objectifs, les filtres, les accessoires et changé maintes fois de style. Le vrai problème était la caméra, ajoutant une couche trop épaisse entre moi et mon sujet, ne laissant pas ma créativité s&amp;#39;exercer pour trouver une meilleure composition, un meilleur angle. &lt;em&gt;Elle me permettait de prendre la photo, et non de la créer&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/retrospective/IMG_5882.jpg&quot; alt=&quot;retrospective3&quot; title=&quot;Rétrospective3&quot;&gt;
+Je me suis ensuite équipé d&amp;#39;une &lt;a href=&quot;http://www.kenrockwell.com/canon/60d.htm&quot;&gt;Canon 60D&lt;/a&gt;. C&amp;#39;est à ce moment que les choses ont mal tournées. Jamais vraiment fière de mes photos, j&amp;#39;ai investi dans les objectifs, les filtres, les accessoires et changé maintes fois de styles. Le vrai problème était la caméra, ajoutant une couche trop épaisse entre moi et mon sujet, ne laissant pas ma créativité s&amp;#39;exercer pour trouver une meilleure composition, un meilleur angle. &lt;em&gt;Elle me permettait de prendre la photo, et non de la créer&lt;/em&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/retrospective/retrospective4.jpg&quot; alt=&quot;retrospective4&quot; title=&quot;Rétrospective4&quot;&gt;
-Je me suis offert la &lt;a href=&quot;http://www.theverge.com/2014/12/15/7391089/fujifilm-x100t-review&quot;&gt;Fuji X100T&lt;/a&gt;, pour revenir aux sources. Ma façon de prendre les photos a complètement changé. &lt;em&gt;Je construis mes photos&lt;/em&gt;. La preuve est qu&amp;#39;en un mois, j&amp;#39;ai pris plus de photos dont je suis fière, qu&amp;#39;en &lt;strong&gt;un an&lt;/strong&gt; avec ma Canon 60D.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/retrospective/retrospective1.jpg&quot; alt=&quot;retrospective1&quot; title=&quot;Rétrospective1&quot;&gt;
-Ma 60D est une très bonne caméra, et je l&amp;#39;utilise encore pour l&amp;#39;architecture et l&amp;#39;immobilier. Ce n&amp;#39;est tout simplement pas une caméra qui étend mon élan artistique. &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/retrospective/DSCF1695.jpg&quot; alt=&quot;retrospective4&quot; title=&quot;Rétrospective4&quot;&gt;
+Je me suis offert la &lt;a href=&quot;http://www.theverge.com/2014/12/15/7391089/fujifilm-x100t-review&quot;&gt;Fuji X100T&lt;/a&gt;, pour revenir aux sources. Ma façon de prendre les photos a complètement changé. &lt;em&gt;Je construis mes photos&lt;/em&gt;. La preuve est qu&amp;#39;en un mois, j&amp;#39;ai pris plus de photos dont je suis fière, qu&amp;#39;en &lt;strong&gt;un an&lt;/strong&gt; avec la Canon 60D. &lt;em&gt;Un pensez-y bien.&lt;/em&gt; &lt;/p&gt;
 </content>
  </entry>
  
@@ -2022,28 +2049,28 @@ Ma 60D est une très bonne caméra, et je l&amp;#39;utilise encore pour l&amp;#3
    <id>https://jacobroy.quebec//series/2015/02/23/Farmlands</id>
    <content type="html">&lt;p&gt;&lt;em&gt;Farmlands&lt;/em&gt; est une série réalisée le lendemain d&amp;#39;une fête de Noël bien arrosée. Première séance avec la &lt;a href=&quot;http://www.theverge.com/2014/12/15/7391089/fujifilm-x100t-review&quot;&gt;Fuji X100T&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/farmlands/farmlands-1.jpg&quot; alt=&quot;Farmlands1&quot; title=&quot;Farmlands1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/farmlands/DSCF1083.jpg&quot; alt=&quot;Farmlands1&quot; title=&quot;Farmlands1&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Voisins, les fermiers forment une famille unie. Toujours près à aider, ils comptent les uns sur les autres, même s&amp;#39;ils sont étendus en long et en large.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/farmlands/farmlands-2.jpg&quot; alt=&quot;Farmlands2&quot; title=&quot;Farmlands2&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/farmlands/DSCF1097.jpg&quot; alt=&quot;Farmlands2&quot; title=&quot;Farmlands2&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Quelques décennies auparavant, les Églises faisaient partie de la routine quotidienne de tout le monde.
 Maintenant à l&amp;#39;abandon, elle se tient droite, surveillant le cimetière.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/farmlands/farmlands-3.jpg&quot; alt=&quot;Farmlands3&quot; title=&quot;Farmlands3&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/farmlands/farmlands-4.jpg&quot; alt=&quot;Farmlands4&quot; title=&quot;Farmlands4&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/farmlands/DSCF1115.jpg&quot; alt=&quot;Farmlands3&quot; title=&quot;Farmlands3&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/farmlands/DSCF1122.jpg&quot; alt=&quot;Farmlands4&quot; title=&quot;Farmlands4&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Les granges à vaches sont utilisées pour nourrir, abreuver et traire les vaches. Maintenant couverte d&amp;#39;excréments, celle-ci est laissée à l&amp;#39;abandon.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/farmlands/farmlands-5.jpg&quot; alt=&quot;Farmlands5&quot; title=&quot;Farmlands5&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/public/photos/farmlands/farmlands-6.jpg&quot; alt=&quot;Farmlands6&quot; title=&quot;Farmlands6&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/farmlands/DSCF1127.jpg&quot; alt=&quot;Farmlands5&quot; title=&quot;Farmlands5&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/public/photos/farmlands/DSCF1139-2.jpg&quot; alt=&quot;Farmlands6&quot; title=&quot;Farmlands6&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Les terres agricoles abritent souvent les plus beaux paysages que l&amp;#39;on puisse rêver : un endroit silencieux pour penser, mais tumultueux à écouter.&lt;/p&gt;
@@ -2058,7 +2085,7 @@ Maintenant à l&amp;#39;abandon, elle se tient droite, surveillant le cimetière
    <id>https://jacobroy.quebec//reflexions/2015/02/18/pourquoi</id>
    <content type="html">&lt;p&gt;Avec les &lt;em&gt;pages&lt;/em&gt;, les &lt;em&gt;groupes&lt;/em&gt;, les &lt;em&gt;likes&lt;/em&gt;, les &lt;em&gt;tweets&lt;/em&gt;, les &lt;em&gt;pins&lt;/em&gt;, les &lt;em&gt;selfies&lt;/em&gt; et les &lt;em&gt;snaps&lt;/em&gt;, quelle place réservons-nous pour les blog?&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/pourquoi/pourquoi-1.jpg&quot; alt=&quot;Pourquoi?1&quot; title=&quot;Pourquoi?-1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/public/photos/pourquoi/DSCF8005.jpg&quot; alt=&quot;Pourquoi?1&quot; title=&quot;Pourquoi?-1&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Un Blog est un endroit minimaliste où l&amp;#39;on se sent chez soi, où l&amp;#39;on se laisse aller. &lt;/p&gt;
@@ -2067,8 +2094,6 @@ Maintenant à l&amp;#39;abandon, elle se tient droite, surveillant le cimetière
 &lt;p&gt;&lt;em&gt;Laisse-Toi Haller&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Ce blog sera utilisé pour exprimer mes pensées, pour mettre en contexte mes photos, y créer des séries et faire un heureux mélange des deux arts.&lt;/p&gt;
-
-&lt;p&gt;Il sera aussi utilisé pour exprimer et mettre en contexte mes séries d&amp;#39;idées artistiques.&lt;/p&gt;
 
 &lt;p&gt;Je n&amp;#39;y ferais pas de connerires.&lt;/p&gt;
 </content>
@@ -2116,6 +2141,8 @@ Maintenant à l&amp;#39;abandon, elle se tient droite, surveillant le cimetière
    <updated>1986-01-10T00:00:00-05:00</updated>
    <id>https://jacobroy.quebec//boutique/1986/01/10/soir-de-premiere-neige</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/DSCF3995.jpg&quot; alt=&quot;soirdepremiereneige&quot; title=&quot;Soirdepremiereneige&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Sommes-nous que des figurants dans cette vie remplie?&lt;/p&gt;
 </content>
  </entry>
  
@@ -2125,6 +2152,8 @@ Maintenant à l&amp;#39;abandon, elle se tient droite, surveillant le cimetière
    <updated>1985-11-10T00:00:00-05:00</updated>
    <id>https://jacobroy.quebec//boutique/1985/11/10/vague-abstraite</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/DSCF3208.jpg&quot; alt=&quot;vagueabstraite&quot; title=&quot;vagueabstraite&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Sans vouloir changer les choses, sans avoir de ligne directrice, nous ne vivons plus.&lt;/p&gt;
 </content>
  </entry>
  
@@ -2133,7 +2162,9 @@ Maintenant à l&amp;#39;abandon, elle se tient droite, surveillant le cimetière
    <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1985/11/10/vague-abstraite-2/"/>
    <updated>1985-11-10T00:00:00-05:00</updated>
    <id>https://jacobroy.quebec//boutique/1985/11/10/vague-abstraite-#2</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/DSCF3213-2.jpg&quot; alt=&quot;vagueabstraite2&quot; title=&quot;vagueabstraite2&quot;&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/DSCF3213.jpg&quot; alt=&quot;vagueabstraite2&quot; title=&quot;vagueabstraite2&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Nous constatons que nous étions tous innocents. Que tous, nous n&amp;#39;étions pas coupables de nos actes.&lt;/p&gt;
 </content>
  </entry>
  
@@ -2143,6 +2174,8 @@ Maintenant à l&amp;#39;abandon, elle se tient droite, surveillant le cimetière
    <updated>1985-11-10T00:00:00-05:00</updated>
    <id>https://jacobroy.quebec//boutique/1985/11/10/matin-sliencieux</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/DSCF3308.jpg&quot; alt=&quot;matinsilencieux&quot; title=&quot;Matin Silencieux&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Si on l&amp;#39;écoute attentivement, son silence en dit beaucoup.&lt;/p&gt;
 </content>
  </entry>
  
@@ -2152,6 +2185,14 @@ Maintenant à l&amp;#39;abandon, elle se tient droite, surveillant le cimetière
    <updated>1985-11-10T00:00:00-05:00</updated>
    <id>https://jacobroy.quebec//boutique/1985/11/10/liberte</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/DSCF3280.jpg&quot; alt=&quot;liberte&quot; title=&quot;Liberté&quot;&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Do people, when they&amp;#39;re older&lt;/p&gt;
+
+&lt;p&gt;See places on the map get smaller&lt;/p&gt;
+
+&lt;p&gt;And promises of happiness stalled?&lt;/p&gt;
+&lt;/blockquote&gt;
 </content>
  </entry>
  
@@ -2322,7 +2363,7 @@ Maintenant à l&amp;#39;abandon, elle se tient droite, surveillant le cimetière
    <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1985/07/19/Stade-olympique-4/"/>
    <updated>1985-07-19T00:00:00-04:00</updated>
    <id>https://jacobroy.quebec//boutique/1985/07/19/Stade-olympique-#4</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/DSCF1694.jpg&quot; alt=&quot;Stadeolympique4&quot; title=&quot;Stade Olympique #4&quot;&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/DSCF1694-Edit.jpg&quot; alt=&quot;Stadeolympique4&quot; title=&quot;Stade Olympique #4&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -2331,7 +2372,7 @@ Maintenant à l&amp;#39;abandon, elle se tient droite, surveillant le cimetière
    <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1985/07/19/Stade-olympique-3/"/>
    <updated>1985-07-19T00:00:00-04:00</updated>
    <id>https://jacobroy.quebec//boutique/1985/07/19/Stade-olympique-#3</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/DSCF1692.jpg&quot; alt=&quot;Stadeolympique3&quot; title=&quot;Stade Olympique #3&quot;&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/DSCF1692-Edit.jpg&quot; alt=&quot;Stadeolympique3&quot; title=&quot;Stade Olympique #3&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -2395,6 +2436,8 @@ Maintenant à l&amp;#39;abandon, elle se tient droite, surveillant le cimetière
    <updated>1985-06-18T00:00:00-04:00</updated>
    <id>https://jacobroy.quebec//boutique/1985/06/18/les-roches</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/DSCF0190.jpg&quot; alt=&quot;lesroches&quot; title=&quot;Les Roches&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Sous l&amp;#39;ombre des arbres, assis sur les roches, nous étions à notre recherche. Nous vieillissons si vite.&lt;/p&gt;
 </content>
  </entry>
  
@@ -2404,6 +2447,8 @@ Maintenant à l&amp;#39;abandon, elle se tient droite, surveillant le cimetière
    <updated>1985-06-18T00:00:00-04:00</updated>
    <id>https://jacobroy.quebec//boutique/1985/06/18/le-monde-cache</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/DSCF0261.jpg&quot; alt=&quot;flaque1&quot; title=&quot;Le Monde Caché&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;En y pensant bien, ce que l&amp;#39;on cherche se cache peut-être à l&amp;#39;endroit ou nous nous en doutons le moins. Connaissons-nous déjà ce que nous sommes venus trouver?&lt;/p&gt;
 </content>
  </entry>
  
@@ -2413,6 +2458,8 @@ Maintenant à l&amp;#39;abandon, elle se tient droite, surveillant le cimetière
    <updated>1985-06-18T00:00:00-04:00</updated>
    <id>https://jacobroy.quebec//boutique/1985/06/18/1-la-voie</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/DSCF0351.jpg&quot; alt=&quot;voie1&quot; title=&quot;La Voie&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Malgré la lumière tentatrice, nous rebroussons chemin. Avons-nous grandi? Avons-nous vieilli?&lt;/p&gt;
 </content>
  </entry>
  
@@ -2431,6 +2478,8 @@ Maintenant à l&amp;#39;abandon, elle se tient droite, surveillant le cimetière
    <updated>1985-05-07T00:00:00-04:00</updated>
    <id>https://jacobroy.quebec//boutique/1985/05/07/errance</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/DSCF0501.jpg&quot; alt=&quot;errance&quot; title=&quot;Errance&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Errer, c&amp;#39;est découvrir, c&amp;#39;est vivre au présent, c&amp;#39;est trouver le bonheur sans le chercher.&lt;/p&gt;
 </content>
  </entry>
  
@@ -2503,6 +2552,8 @@ Maintenant à l&amp;#39;abandon, elle se tient droite, surveillant le cimetière
    <updated>1985-04-02T00:00:00-05:00</updated>
    <id>https://jacobroy.quebec//boutique/1985/04/02/peuple-uni</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/DSCF0308.jpg&quot; alt=&quot;peupleuni&quot; title=&quot;Peuple uni&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Le peuple uni jamais ne sera vaincu!&lt;/p&gt;
 </content>
  </entry>
  
@@ -2512,6 +2563,8 @@ Maintenant à l&amp;#39;abandon, elle se tient droite, surveillant le cimetière
    <updated>1985-04-02T00:00:00-05:00</updated>
    <id>https://jacobroy.quebec//boutique/1985/04/02/on-avance</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/DSCF0222.jpg&quot; alt=&quot;onavance&quot; title=&quot;On avance!&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;On avance! On avance! On recule pas!&lt;/p&gt;
 </content>
  </entry>
  
@@ -2521,6 +2574,8 @@ Maintenant à l&amp;#39;abandon, elle se tient droite, surveillant le cimetière
    <updated>1985-04-02T00:00:00-05:00</updated>
    <id>https://jacobroy.quebec//boutique/1985/04/02/etat-de-lutte</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/DSCF0253.jpg&quot; alt=&quot;etatdelutte&quot; title=&quot;État de lutte&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;quot;Nous savons que dorénavant nous ne serons plus jamais qu&amp;#39;en état de lutte&amp;quot; - Josée Yvon&lt;/p&gt;
 </content>
  </entry>
  
@@ -2727,7 +2782,7 @@ Maintenant à l&amp;#39;abandon, elle se tient droite, surveillant le cimetière
    <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1984/10/12/roman-bath/"/>
    <updated>1984-10-12T00:00:00-04:00</updated>
    <id>https://jacobroy.quebec//boutique/1984/10/12/roman-bath</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_6908.jpg&quot; alt=&quot;romanbath&quot; title=&quot;Roman Bath&quot;&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_6908-2.jpg&quot; alt=&quot;romanbath&quot; title=&quot;Roman Bath&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -2745,7 +2800,16 @@ Maintenant à l&amp;#39;abandon, elle se tient droite, surveillant le cimetière
    <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1984/10/11/st-pancras-train-station/"/>
    <updated>1984-10-11T00:00:00-04:00</updated>
    <id>https://jacobroy.quebec//boutique/1984/10/11/st-pancras-train-station</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_6776.jpg&quot; alt=&quot;stpancrastrainstation&quot; title=&quot;St-Pancras Train Station&quot;&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_6776-2.jpg&quot; alt=&quot;stpancrastrainstation&quot; title=&quot;St-Pancras Train Station&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Le vieux et le nouveau</title>
+   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1984/10/10/le-vieux-et-le-nouveau/"/>
+   <updated>1984-10-10T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec//boutique/1984/10/10/le-vieux-et-le-nouveau</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_0836.jpg&quot; alt=&quot;levieuxetlenouveau&quot; title=&quot;Le vieux et le nouveau&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3033,7 +3097,7 @@ Maintenant à l&amp;#39;abandon, elle se tient droite, surveillant le cimetière
    <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1981/08/05/vers-la-plage/"/>
    <updated>1981-08-05T00:00:00-04:00</updated>
    <id>https://jacobroy.quebec//boutique/1981/08/05/vers-la-plage</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_1273-2.jpg&quot; alt=&quot;verslaplage&quot; title=&quot;Vers La Plage&quot;&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_1273.jpg&quot; alt=&quot;verslaplage&quot; title=&quot;Vers La Plage&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3101,20 +3165,11 @@ Maintenant à l&amp;#39;abandon, elle se tient droite, surveillant le cimetière
  </entry>
  
  <entry>
-   <title>New York City</title>
-   <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1981/04/24/1-new-york-city/"/>
-   <updated>1981-04-24T00:00:00-05:00</updated>
-   <id>https://jacobroy.quebec//boutique/1981/04/24/1-new-york-city</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_0895.jpg&quot; alt=&quot;newyorkcity&quot; title=&quot;New York City&quot;&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
    <title>New York City Chrysler Building</title>
    <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1981/04/24/1-new-york-city-chrysler-building/"/>
    <updated>1981-04-24T00:00:00-05:00</updated>
    <id>https://jacobroy.quebec//boutique/1981/04/24/1-new-york-city-chrysler-building</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_1048-2.jpg&quot; alt=&quot;newyorkcitycb&quot; title=&quot;New York City Chrysler Building&quot;&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_1048.jpg&quot; alt=&quot;newyorkcitycb&quot; title=&quot;New York City Chrysler Building&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3177,7 +3232,7 @@ Maintenant à l&amp;#39;abandon, elle se tient droite, surveillant le cimetière
    <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1980/09/29/arbres-d-automne/"/>
    <updated>1980-09-29T00:00:00-04:00</updated>
    <id>https://jacobroy.quebec//boutique/1980/09/29/arbres-d-automne</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_1158-2.jpg&quot; alt=&quot;arbresdautomne&quot; title=&quot;Arbres d&amp;#39;automne&quot;&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_1158.jpg&quot; alt=&quot;arbresdautomne&quot; title=&quot;Arbres d&amp;#39;automne&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3195,7 +3250,7 @@ Maintenant à l&amp;#39;abandon, elle se tient droite, surveillant le cimetière
    <link href="https://jacobroy.quebec/https://jacobroy.quebec//boutique/1980/08/19/face-a-face/"/>
    <updated>1980-08-19T00:00:00-04:00</updated>
    <id>https://jacobroy.quebec//boutique/1980/08/19/face-a-face</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_0248-2.jpg&quot; alt=&quot;faceaface&quot; title=&quot;Face à face&quot;&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/boutique/photos/IMG_0248.jpg&quot; alt=&quot;faceaface&quot; title=&quot;Face à face&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  

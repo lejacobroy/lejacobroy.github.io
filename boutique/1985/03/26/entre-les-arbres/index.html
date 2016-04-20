@@ -1,253 +1,652 @@
 <!DOCTYPE html>
 <html lang="fr">
-
 <head>
-<script type="text/javascript">
-    var host = "jacobroy.quebec";
-    if ((host == window.location.host) && (window.location.protocol != "https:"))
-        window.location.protocol = "https";
-</script>
   <meta charset="UTF-8">
-
-  <!-- Enable responsiveness on mobile devices-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-<meta name="author" content="Jacob Roy"/>
-<meta name="keywords" content="photographe, photographie, montreal, quebec, canada, photos, art, article, blog, jeune, camera"/>
-
-  <title>
-    
-      Jacob Roy &middot; Entre Les Arbres
-    
-  </title>
-<meta name="description" content="Jacob Roy, Photographe.">
+  <meta name="author" content="Jacob Roy"/>
+  <meta name="keywords" content="photographe, photographie, montreal, quebec, canada, photos, art, article, blog"/>
+  <title>Jacob Roy &middot; Entre Les Arbres</title>
+  <meta name="description" content="Jacob Roy, Photographe.">
   <!-- CSS -->
-  <link rel="stylesheet" href="https://jacobroy.quebec/public/css/poole.css">
- <link rel="stylesheet" href="https://jacobroy.quebec/public/css/jacobroy.css">
-
+  <link rel="stylesheet" href="https://jacobroy.quebec/public/css/jacobroy.css">
   <!-- Icons -->
-  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://jacobroy.quebec/public/apple-touch-icon-precomposed.png">
-  <link rel="shortcut icon" href="https://jacobroy.quebec/public/favicon.ico">
-
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://jacobroy.quebec/public/img/apple-touch-icon-precomposed.png">
+  <link rel="shortcut icon" href="https://jacobroy.quebec/public/img/favicon.ico">
   <!-- RSS -->
   <link rel="alternate" type="application/atom+xml" title="Jacob Roy" href="https://jacobroy.quebec/atom.xml">
+  <meta name="msvalidate.01" content="0F2870AA54C76A1F447885447D6A3D10" />
+  <link rel="canonical" href=" { { site.url } }{ { page.url } }" />
+</head>
 
-
-
-
-
-
-<script src="https://jacobroy.quebec/public/js/jquery-2.1.4.min.js"></script>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/unveil/1.3.0/jquery.unveil.min.js"></script>
-<style type="text/css">
-  img {
-    opacity: 0;
-    transition: opacity .3s ease-in;
-  }
-</style>
-
-<script>
-  $(document).ready(function() {
-    $("img").unveil(1, function() {
-      $(this).load(function() {
-      this.style.opacity = 1;
-      });
-    });
-  });
-</script>
-<script>
-    function update( elem ) {
-    document.getElementById('prix').textContent = elem.value;
-    }
-</script>
-<script>
-$(document).ready(function() {
-  $.boutonMap = {
-    '70' : $('#bouton-1'),
-    '90' : $('#bouton-2'),
-    '150' : $('#bouton-3'),
-    '250' : $('#bouton-4')
-  }
-$.each($.boutonMap, function() { this.hide(); });
-$.boutonMap['70'].show();
-  ;
-
-  $('#format').change(function() {
-    // hide all
-    $.each($.boutonMap, function() { this.hide(); });
-    // show current
-    $.boutonMap[$(this).val()].show();
-  });
-});
-</script>
-
-<!-- Google Analytics -->
-
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-37323197-2', 'auto');
-  ga('send', 'pageview');
-
-  </script>
-   <meta name="msvalidate.01" content="0F2870AA54C76A1F447885447D6A3D10" />
-   <link rel="canonical" href=" { { site.url } }{ { page.url } }" />
-  </head>
-
-
-  <body>
-
-    <div class="container content">
+          
+<body>
+    <div class="container">
       <div class="masthead">
         <h3 class="masthead-title">
           <a href="https://jacobroy.quebec/" title="Accueil">Jacob Roy</a>
-
-          
           <nav class="nav_style">
-            <ul>
-            <li  class="nav_selected"><a title="Boutique" href="https://jacobroy.quebec/boutique/">Boutique</a></li>
-            <li><a title="Portraits" href="https://jacobroy.quebec/portraits/">Portraits</a></li>
-            <li><a title="Histoires de poche" href="https://jacobroy.quebec/histoires-de-poche/">Histoires de poche</a></li>
-            <li><a title="Séries" href="https://jacobroy.quebec/series/">Séries</a></li>
-            <li><a title="Évènements" href="https://jacobroy.quebec/evenements/">Évènements</a></li>
-            <li><a title="Réflextions" href="https://jacobroy.quebec/reflexions/">Réflexions</a></li>
-            <li><a href="https://jacobroy.quebec/qui/" title="Qui?" >Qui?</a></li>
-            </ul>
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            </button>
+            <div id="navbar" class="navbar-collapse collapse">
+              <ul>                
+                <li class="nav_selected"><a title="Boutique" href="https://jacobroy.quebec/boutique/">Boutique</a></li>
+                <li><a title="Portraits" href="https://jacobroy.quebec/portraits/">Portraits</a></li>
+                <li><a title="Histoires de poche" href="https://jacobroy.quebec/histoires-de-poche/">Histoires de poche</a></li>
+                <li><a title="Séries" href="https://jacobroy.quebec/series/">Séries</a></li>
+                <li><a title="Évènements" href="https://jacobroy.quebec/evenements/">Évènements</a></li>
+                <li><a title="Réflexions" href="https://jacobroy.quebec/reflexions/">Réflexions</a></li>
+                <li><a href="https://jacobroy.quebec/qui/" title="Qui?" >Qui?</a></li>
+              </ul>
+            </div>
           </nav>
         </h3>
       </div>
-
+ <div class="page">      
 <div class="posts">
- <div class="post">
-
-    <div class="item">
-     <p><img src="https://jacobroy.quebec/public/css/load.png" data-src="https://jacobroy.quebec/boutique/photos/DSCF1683.jpg" alt="entrelesarbres" title="Entre Les Arbres"></p>
-
-    </div>
-      <h1 class="item_title">
+  <div class="post">
+  	<h1 class="item_title">
       <span>Entre Les Arbres</span>
-  </h1>
-    <div class="infos">
-      <form>
-    Format : <select id="format" onchange="update(this)">
-          <option selected="selected" value="70">16" x 12"</option>
-          <!--70$-->
-          <option value="90">24" x 16"</option>
-          <!--90$-->
-          <option value="150">36" x 24"</option>
-          <!--150$-->
-          <option value="250">48" x 36"</option>
-          <!--250$-->
-        </select><span class="spacer">&nbsp;</span>
-        </form>
+	</h1>
+	<div class="item">
+	     <p><img src="https://jacobroy.quebec/public/img/load.jpg" data-src="https://jacobroy.quebec/boutique/photos/DSCF1683.jpg" alt="entrelesarbres" title="Entre Les Arbres"></p>
 
-        <form action="https://nameless-badlands-5774.herokuapp.com/" method="POST" id="bouton-1" class="bouton-prix">
-        <span>
-       <script
-            src="https://checkout.stripe.com/checkout.js" class="stripe-button"
-            data-key="pk_live_Svm9rTTBuydDSe5xI3ExuDLN"
-            data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
-            data-name="Jacob Roy &middot; Boutique"
-            data-description='Entre Les Arbres, 16" x 12"'
-            data-amount="7000"
-            data-zip-code="true"
-            data-billingAddress="true"
-            data-shippingAddress="true"
-            data-locale="fr"
-            data-currency="CAD"
-            data-label="70$ &middot; Acheter"
-            data-bitcoin="true"
-            >
-          </script>
-          <input name="amount" value="7000" type="hidden">
-          <input name="description" value='Entre Les Arbres, 16" x 12", /boutique/1985/03/26/entre-les-arbres/' type="hidden">
-          </span>
-          </form>
+	</div>
+	    <div class="formats">
+	    <form><span class="formats_text">
+	    Finition : </span><select id="type">
+	    	<option selected="selected" value="1">Papier affiche</option>
+	          <option value="2">Toile roulée</option>
+	          <option value="3">Toile montée</option>
+	          <option value="4">Acrylique polie</option>
+	        </select>
+	        </form>
+	      <form><span class="formats_text">
+	    Format : </span><select id="format">
+	          <option selected="selected" value="1">16" x 11"</option>
+	          <option value="2">24" x 16"</option>
+	          <option value="3">30" x 20"</option>
+	          <option value="4">36" x 24"</option>
+	          <option value="5">42" x 28"</option>
+	          <option value="6">48" x 32"</option>
+	        </select>
+	        </form>
 
-          <form action="https://nameless-badlands-5774.herokuapp.com/" method="POST" id="bouton-2" class="bouton-prix">
-          <span>
-        <script
-            src="https://checkout.stripe.com/checkout.js" class="stripe-button"
-            data-key="pk_live_Svm9rTTBuydDSe5xI3ExuDLN"
-            data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
-            data-name="Jacob Roy &middot; Boutique"
-            data-description='Entre Les Arbres, 24" x 16"'
-            data-amount="9000"
-             data-zip-code="true"
-            data-billingAddress="true"
-            data-shippingAddress="true"
-            data-locale="fr"
-            data-currency="CAD"
-            data-label="90$ &middot; Acheter"
-            data-bitcoin="true"
-            >
-          </script>
-          <input name="amount" value="9000" type="hidden">
-          <input name="description" value='Entre Les Arbres, 24" x 16", /boutique/1985/03/26/entre-les-arbres/' type="hidden">
-          </span>
-          </form>
+			<form action="https://nameless-badlands-5774.herokuapp.com/" method="POST" id="affiche-1" class="bouton-prix">
+	        <span>
+	       <script
+	            src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+	            data-key="pk_live_Svm9rTTBuydDSe5xI3ExuDLN"
+	            data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
+	            data-name="Jacob Roy &middot; Boutique"
+	            data-description='Entre Les Arbres, Papier affiche, 16" x 11"'
+	            data-amount="4000"
+	            data-zip-code="true"
+	            data-billingAddress="true"
+	            data-shippingAddress="true"
+	            data-locale="fr"
+	            data-currency="CAD"
+	            data-label="40$ &middot; Acheter"
+	            data-bitcoin="true"
+	            >
+	          </script>
+	          <input name="amount" value="4000" type="hidden">
+	          <input name="description" value='Entre Les Arbres, Papier affiche, 16" x 11", /boutique/1985/03/26/entre-les-arbres/' type="hidden">
+	          </span>
+	          </form>
 
-          <form action="https://nameless-badlands-5774.herokuapp.com/" method="POST" id="bouton-3" class="bouton-prix">
-          <span>
-            <script
-            src="https://checkout.stripe.com/checkout.js" class="stripe-button"
-            data-key="pk_live_Svm9rTTBuydDSe5xI3ExuDLN"
-            data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
-            data-name="Jacob Roy &middot; Boutique"
-            data-description='Entre Les Arbres, 36" x 24"'
-            data-amount="15000"
-             data-zip-code="true"
-            data-billingAddress="true"
-            data-shippingAddress="true"
-            data-locale="fr"
-            data-currency="CAD"
-            data-label="150$ &middot; Acheter"
-            data-bitcoin="true"
-            >
-          </script>
-          <input name="amount" value="15000" type="hidden">
-          <input name="description" value='Entre Les Arbres, 36" x 24", /boutique/1985/03/26/entre-les-arbres/' type="hidden">
-          </span>
-          </form>
 
-          <form action="https://nameless-badlands-5774.herokuapp.com/" method="POST" id="bouton-4" class="bouton-prix">
-          <span>
-          <script
-            src="https://checkout.stripe.com/checkout.js" class="stripe-button"
-            data-key="pk_live_Svm9rTTBuydDSe5xI3ExuDLN"
-            data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
-            data-name="Jacob Roy &middot; Boutique"
-            data-description='Entre Les Arbres, 48" x 30"'
-            data-amount="25000"
-             data-zip-code="true"
-            data-billingAddress="true"
-            data-shippingAddress="true"
-            data-locale="fr"
-            data-currency="CAD"
-            data-label="250$ &middot; Acheter"
-            data-bitcoin="true"
-            >
-          </script>
-          <input name="amount" value="25000" type="hidden">
-          <input name="description" value='Entre Les Arbres, 48" x 30", /boutique/1985/03/26/entre-les-arbres/' type="hidden">
-          </span>
-          </form>
-       
+			<form action="https://nameless-badlands-5774.herokuapp.com/" method="POST" id="affiche-2" class="bouton-prix">
+	        <span>
+	       <script
+	            src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+	            data-key="pk_live_Svm9rTTBuydDSe5xI3ExuDLN"
+	            data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
+	            data-name="Jacob Roy &middot; Boutique"
+	            data-description='Entre Les Arbres, Papier affiche, 24" x 16"'
+	            data-amount="5500"
+	            data-zip-code="true"
+	            data-billingAddress="true"
+	            data-shippingAddress="true"
+	            data-locale="fr"
+	            data-currency="CAD"
+	            data-label="55$ &middot; Acheter"
+	            data-bitcoin="true"
+	            >
+	          </script>
+	          <input name="amount" value="5500" type="hidden">
+	          <input name="description" value='Entre Les Arbres, Papier affiche, 24" x 16", /boutique/1985/03/26/entre-les-arbres/' type="hidden">
+	          </span>
+	          </form>
 
-    </div>
+			<form action="https://nameless-badlands-5774.herokuapp.com/" method="POST" id="affiche-3" class="bouton-prix">
+	        <span>
+	       <script
+	            src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+	            data-key="pk_live_Svm9rTTBuydDSe5xI3ExuDLN"
+	            data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
+	            data-name="Jacob Roy &middot; Boutique"
+	            data-description='Entre Les Arbres, Papier affiche, 30" x 20"'
+	            data-amount="6500"
+	            data-zip-code="true"
+	            data-billingAddress="true"
+	            data-shippingAddress="true"
+	            data-locale="fr"
+	            data-currency="CAD"
+	            data-label="65$ &middot; Acheter"
+	            data-bitcoin="true"
+	            >
+	          </script>
+	          <input name="amount" value="6500" type="hidden">
+	          <input name="description" value='Entre Les Arbres, Papier affiche, 30" x 20", /boutique/1985/03/26/entre-les-arbres/' type="hidden">
+	          </span>
+	          </form>
 
-    <div class="imp">
-      <h3>Informations</h3>
-      <ul>
-      <li>Impression sur toile montée sur châssis en bois de 1.5" d'épais, sans le filigrane.</li>
-        <li>Livraisons gratuites en Amérique du Nord.</li>
-       <li>Impressions par <a href="https://www.pictorem.com">Pictorem</a>. Veuillez me <a href="mailto:contact@jacobroy.quebec">contacter</a> pour tout autres médium ou format précis.</li>
+	         <form action="https://nameless-badlands-5774.herokuapp.com/" method="POST" id="affiche-4" class="bouton-prix">
+	        <span>
+	       <script
+	            src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+	            data-key="pk_live_Svm9rTTBuydDSe5xI3ExuDLN"
+	            data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
+	            data-name="Jacob Roy &middot; Boutique"
+	            data-description='Entre Les Arbres, Papier affiche, 36" x 24"'
+	            data-amount="8000"
+	            data-zip-code="true"
+	            data-billingAddress="true"
+	            data-shippingAddress="true"
+	            data-locale="fr"
+	            data-currency="CAD"
+	            data-label="80$ &middot; Acheter"
+	            data-bitcoin="true"
+	            >
+	          </script>
+	          <input name="amount" value="8000" type="hidden">
+	          <input name="description" value='Entre Les Arbres, Papier affiche, 36" x 24", /boutique/1985/03/26/entre-les-arbres/' type="hidden">
+	          </span>
+	          </form>
 
-      </ul>
-    </div>
+	         <form action="https://nameless-badlands-5774.herokuapp.com/" method="POST" id="affiche-5" class="bouton-prix">
+	        <span>
+	       <script
+	            src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+	            data-key="pk_live_Svm9rTTBuydDSe5xI3ExuDLN"
+	            data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
+	            data-name="Jacob Roy &middot; Boutique"
+	            data-description='Entre Les Arbres, Papier affiche, 42" x 28"'
+	            data-amount="9500"
+	            data-zip-code="true"
+	            data-billingAddress="true"
+	            data-shippingAddress="true"
+	            data-locale="fr"
+	            data-currency="CAD"
+	            data-label="95$ &middot; Acheter"
+	            data-bitcoin="true"
+	            >
+	          </script>
+	          <input name="amount" value="9500" type="hidden">
+	          <input name="description" value='Entre Les Arbres, Papier affiche, 42" x 28", /boutique/1985/03/26/entre-les-arbres/' type="hidden">
+	          </span>
+	          </form>
+
+
+	         <form action="https://nameless-badlands-5774.herokuapp.com/" method="POST" id="affiche-6" class="bouton-prix">
+	        <span>
+	       <script
+	            src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+	            data-key="pk_live_Svm9rTTBuydDSe5xI3ExuDLN"
+	            data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
+	            data-name="Jacob Roy &middot; Boutique"
+	            data-description='Entre Les Arbres, Papier affiche, 48" x 32"'
+	            data-amount="11000"
+	            data-zip-code="true"
+	            data-billingAddress="true"
+	            data-shippingAddress="true"
+	            data-locale="fr"
+	            data-currency="CAD"
+	            data-label="110$ &middot; Acheter"
+	            data-bitcoin="true"
+	            >
+	          </script>
+	          <input name="amount" value="11000" type="hidden">
+	          <input name="description" value='Entre Les Arbres, Papier affiche, 48" x 32", /boutique/1985/03/26/entre-les-arbres/' type="hidden">
+	          </span>
+	          </form>
+
+	        <form action="https://nameless-badlands-5774.herokuapp.com/" method="POST" id="roulee-1" class="bouton-prix">
+	        <span>
+	       <script
+	            src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+	            data-key="pk_live_Svm9rTTBuydDSe5xI3ExuDLN"
+	            data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
+	            data-name="Jacob Roy &middot; Boutique"
+	            data-description='Entre Les Arbres, Toile roulée, 16" x 11"'
+	            data-amount="4500"
+	            data-zip-code="true"
+	            data-billingAddress="true"
+	            data-shippingAddress="true"
+	            data-locale="fr"
+	            data-currency="CAD"
+	            data-label="45$ &middot; Acheter"
+	            data-bitcoin="true"
+	            >
+	          </script>
+	          <input name="amount" value="4500" type="hidden">
+	          <input name="description" value='Entre Les Arbres, Toile roulée, 16" x 11", /boutique/1985/03/26/entre-les-arbres/' type="hidden">
+	          </span>
+	          </form>
+
+	          <form action="https://nameless-badlands-5774.herokuapp.com/" method="POST" id="roulee-2" class="bouton-prix">
+	          <span>
+	        <script
+	            src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+	            data-key="pk_live_Svm9rTTBuydDSe5xI3ExuDLN"
+	            data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
+	            data-name="Jacob Roy &middot; Boutique"
+	            data-description='Entre Les Arbres, Toile roulée, 24" x 16"'
+	            data-amount="6500"
+	             data-zip-code="true"
+	            data-billingAddress="true"
+	            data-shippingAddress="true"
+	            data-locale="fr"
+	            data-currency="CAD"
+	            data-label="65$ &middot; Acheter"
+	            data-bitcoin="true"
+	            >
+	          </script>
+	          <input name="amount" value="6500" type="hidden">
+	          <input name="description" value='Entre Les Arbres, Toile roulée, 24" x 16", /boutique/1985/03/26/entre-les-arbres/' type="hidden">
+	          </span>
+	          </form>
+
+	          <form action="https://nameless-badlands-5774.herokuapp.com/" method="POST" id="roulee-3" class="bouton-prix">
+	          <span>
+	            <script
+	            src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+	            data-key="pk_live_Svm9rTTBuydDSe5xI3ExuDLN"
+	            data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
+	            data-name="Jacob Roy &middot; Boutique"
+	            data-description='Entre Les Arbres, Toile roulée, 30" x 20"'
+	            data-amount="8500"
+	             data-zip-code="true"
+	            data-billingAddress="true"
+	            data-shippingAddress="true"
+	            data-locale="fr"
+	            data-currency="CAD"
+	            data-label="85$ &middot; Acheter"
+	            data-bitcoin="true"
+	            >
+	          </script>
+	          <input name="amount" value="8500" type="hidden">
+	          <input name="description" value='Entre Les Arbres, Toile roulée, 36" x 24", /boutique/1985/03/26/entre-les-arbres/' type="hidden">
+	          </span>
+	          </form>
+
+	          <form action="https://nameless-badlands-5774.herokuapp.com/" method="POST" id="roulee-4" class="bouton-prix">
+	          <span>
+	            <script
+	            src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+	            data-key="pk_live_Svm9rTTBuydDSe5xI3ExuDLN"
+	            data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
+	            data-name="Jacob Roy &middot; Boutique"
+	            data-description='Entre Les Arbres, Toile roulée 36" x 24"'
+	            data-amount="10500"
+	             data-zip-code="true"
+	            data-billingAddress="true"
+	            data-shippingAddress="true"
+	            data-locale="fr"
+	            data-currency="CAD"
+	            data-label="105$ &middot; Acheter"
+	            data-bitcoin="true"
+	            >
+	          </script>
+	          <input name="amount" value="10500" type="hidden">
+	          <input name="description" value='Entre Les Arbres, Toile roulée, 36" x 24", /boutique/1985/03/26/entre-les-arbres/' type="hidden">
+	          </span>
+	          </form>
+
+	          <form action="https://nameless-badlands-5774.herokuapp.com/" method="POST" id="roulee-5" class="bouton-prix">
+	          <span>
+	          <script
+	            src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+	            data-key="pk_live_Svm9rTTBuydDSe5xI3ExuDLN"
+	            data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
+	            data-name="Jacob Roy &middot; Boutique"
+	            data-description='Entre Les Arbres, Toile roulée, 42" x 28"'
+	            data-amount="12500"
+	             data-zip-code="true"
+	            data-billingAddress="true"
+	            data-shippingAddress="true"
+	            data-locale="fr"
+	            data-currency="CAD"
+	            data-label="125$ &middot; Acheter"
+	            data-bitcoin="true"
+	            >
+	          </script>
+	          <input name="amount" value="12500" type="hidden">
+	          <input name="description" value='Entre Les Arbres, Toile roulée, 42" x 28", /boutique/1985/03/26/entre-les-arbres/' type="hidden">
+	          </span>
+	          </form>
+
+	              <form action="https://nameless-badlands-5774.herokuapp.com/" method="POST" id="roulee-6" class="bouton-prix">
+	          <span>
+	          <script
+	            src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+	            data-key="pk_live_Svm9rTTBuydDSe5xI3ExuDLN"
+	            data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
+	            data-name="Jacob Roy &middot; Boutique"
+	            data-description='Entre Les Arbres, Toile roulée, 48" x 32"'
+	            data-amount="15000"
+	             data-zip-code="true"
+	            data-billingAddress="true"
+	            data-shippingAddress="true"
+	            data-locale="fr"
+	            data-currency="CAD"
+	            data-label="150$ &middot; Acheter"
+	            data-bitcoin="true"
+	            >
+	          </script>
+	          <input name="amount" value="15000" type="hidden">
+	          <input name="description" value='Entre Les Arbres, Toile roulée, 48" x 32", /boutique/1985/03/26/entre-les-arbres/' type="hidden">
+	          </span>
+	          </form>
+	       
+<!--Toiles montées-->
+
+	        <form action="https://nameless-badlands-5774.herokuapp.com/" method="POST" id="montee-1" class="bouton-prix">
+	        <span>
+	       <script
+	            src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+	            data-key="pk_live_Svm9rTTBuydDSe5xI3ExuDLN"
+	            data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
+	            data-name="Jacob Roy &middot; Boutique"
+	            data-description='Entre Les Arbres, Toile montée, 16" x 11"'
+	            data-amount="6500"
+	            data-zip-code="true"
+	            data-billingAddress="true"
+	            data-shippingAddress="true"
+	            data-locale="fr"
+	            data-currency="CAD"
+	            data-label="65$ &middot; Acheter"
+	            data-bitcoin="true"
+	            >
+	          </script>
+	          <input name="amount" value="6500" type="hidden">
+	          <input name="description" value='Entre Les Arbres, Toile montée, 16" x 11", /boutique/1985/03/26/entre-les-arbres/' type="hidden">
+	          </span>
+	          </form>
+
+	          <form action="https://nameless-badlands-5774.herokuapp.com/" method="POST" id="montee-2" class="bouton-prix">
+	          <span>
+	        <script
+	            src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+	            data-key="pk_live_Svm9rTTBuydDSe5xI3ExuDLN"
+	            data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
+	            data-name="Jacob Roy &middot; Boutique"
+	            data-description='Entre Les Arbres, Toile montée, 24" x 16"'
+	            data-amount="9500"
+	             data-zip-code="true"
+	            data-billingAddress="true"
+	            data-shippingAddress="true"
+	            data-locale="fr"
+	            data-currency="CAD"
+	            data-label="95$ &middot; Acheter"
+	            data-bitcoin="true"
+	            >
+	          </script>
+	          <input name="amount" value="6500" type="hidden">
+	          <input name="description" value='Entre Les Arbres, Toile montée, 24" x 16", /boutique/1985/03/26/entre-les-arbres/' type="hidden">
+	          </span>
+	          </form>
+
+	          <form action="https://nameless-badlands-5774.herokuapp.com/" method="POST" id="montee-3" class="bouton-prix">
+	          <span>
+	            <script
+	            src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+	            data-key="pk_live_Svm9rTTBuydDSe5xI3ExuDLN"
+	            data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
+	            data-name="Jacob Roy &middot; Boutique"
+	            data-description='Entre Les Arbres, Toile montée, 30" x 20"'
+	            data-amount="12000"
+	             data-zip-code="true"
+	            data-billingAddress="true"
+	            data-shippingAddress="true"
+	            data-locale="fr"
+	            data-currency="CAD"
+	            data-label="120$ &middot; Acheter"
+	            data-bitcoin="true"
+	            >
+	          </script>
+	          <input name="amount" value="12000" type="hidden">
+	          <input name="description" value='Entre Les Arbres, Toile montée, 36" x 24", /boutique/1985/03/26/entre-les-arbres/' type="hidden">
+	          </span>
+	          </form>
+
+	          <form action="https://nameless-badlands-5774.herokuapp.com/" method="POST" id="montee-4" class="bouton-prix">
+	          <span>
+	            <script
+	            src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+	            data-key="pk_live_Svm9rTTBuydDSe5xI3ExuDLN"
+	            data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
+	            data-name="Jacob Roy &middot; Boutique"
+	            data-description='Entre Les Arbres, Toile montée 36" x 24"'
+	            data-amount="15000"
+	             data-zip-code="true"
+	            data-billingAddress="true"
+	            data-shippingAddress="true"
+	            data-locale="fr"
+	            data-currency="CAD"
+	            data-label="150$ &middot; Acheter"
+	            data-bitcoin="true"
+	            >
+	          </script>
+	          <input name="amount" value="15000" type="hidden">
+	          <input name="description" value='Entre Les Arbres, Toile montée, 36" x 24", /boutique/1985/03/26/entre-les-arbres/' type="hidden">
+	          </span>
+	          </form>
+
+	          <form action="https://nameless-badlands-5774.herokuapp.com/" method="POST" id="montee-5" class="bouton-prix">
+	          <span>
+	          <script
+	            src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+	            data-key="pk_live_Svm9rTTBuydDSe5xI3ExuDLN"
+	            data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
+	            data-name="Jacob Roy &middot; Boutique"
+	            data-description='Entre Les Arbres, Toile montée, 42" x 28"'
+	            data-amount="19000"
+	             data-zip-code="true"
+	            data-billingAddress="true"
+	            data-shippingAddress="true"
+	            data-locale="fr"
+	            data-currency="CAD"
+	            data-label="190$ &middot; Acheter"
+	            data-bitcoin="true"
+	            >
+	          </script>
+	          <input name="amount" value="19000" type="hidden">
+	          <input name="description" value='Entre Les Arbres, Toile montée, 42" x 28", /boutique/1985/03/26/entre-les-arbres/' type="hidden">
+	          </span>
+	          </form>
+
+	           <form action="https://nameless-badlands-5774.herokuapp.com/" method="POST" id="montee-6" class="bouton-prix">
+	          <span>
+	          <script
+	            src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+	            data-key="pk_live_Svm9rTTBuydDSe5xI3ExuDLN"
+	            data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
+	            data-name="Jacob Roy &middot; Boutique"
+	            data-description='Entre Les Arbres, Toile montée, 48" x 32"'
+	            data-amount="23000"
+	             data-zip-code="true"
+	            data-billingAddress="true"
+	            data-shippingAddress="true"
+	            data-locale="fr"
+	            data-currency="CAD"
+	            data-label="230$ &middot; Acheter"
+	            data-bitcoin="true"
+	            >
+	          </script>
+	          <input name="amount" value="23000" type="hidden">
+	          <input name="description" value='Entre Les Arbres, Toile montée, 48" x 32", /boutique/1985/03/26/entre-les-arbres/' type="hidden">
+	          </span>
+	          </form>	       
+<!--acrylique-->
+
+	        <form action="https://nameless-badlands-5774.herokuapp.com/" method="POST" id="acrylique-1" class="bouton-prix">
+	        <span>
+	       <script
+	            src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+	            data-key="pk_live_Svm9rTTBuydDSe5xI3ExuDLN"
+	            data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
+	            data-name="Jacob Roy &middot; Boutique"
+	            data-description='Entre Les Arbres, Acrylique, 16" x 11"'
+	            data-amount="8500"
+	            data-zip-code="true"
+	            data-billingAddress="true"
+	            data-shippingAddress="true"
+	            data-locale="fr"
+	            data-currency="CAD"
+	            data-label="85$ &middot; Acheter"
+	            data-bitcoin="true"
+	            >
+	          </script>
+	          <input name="amount" value="8500" type="hidden">
+	          <input name="description" value='Entre Les Arbres, Acrylique, 16" x 11", /boutique/1985/03/26/entre-les-arbres/' type="hidden">
+	          </span>
+	          </form>
+
+	          <form action="https://nameless-badlands-5774.herokuapp.com/" method="POST" id="acrylique-2" class="bouton-prix">
+	          <span>
+	        <script
+	            src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+	            data-key="pk_live_Svm9rTTBuydDSe5xI3ExuDLN"
+	            data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
+	            data-name="Jacob Roy &middot; Boutique"
+	            data-description='Entre Les Arbres, Acrylique, 24" x 16"'
+	            data-amount="13000"
+	             data-zip-code="true"
+	            data-billingAddress="true"
+	            data-shippingAddress="true"
+	            data-locale="fr"
+	            data-currency="CAD"
+	            data-label="130$ &middot; Acheter"
+	            data-bitcoin="true"
+	            >
+	          </script>
+	          <input name="amount" value="13000" type="hidden">
+	          <input name="description" value='Entre Les Arbres, Acrylique, 24" x 16", /boutique/1985/03/26/entre-les-arbres/' type="hidden">
+	          </span>
+	          </form>
+
+	          <form action="https://nameless-badlands-5774.herokuapp.com/" method="POST" id="acrylique-3" class="bouton-prix">
+	          <span>
+	            <script
+	            src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+	            data-key="pk_live_Svm9rTTBuydDSe5xI3ExuDLN"
+	            data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
+	            data-name="Jacob Roy &middot; Boutique"
+	            data-description='Entre Les Arbres, Acrylique, 30" x 20"'
+	            data-amount="17500"
+	             data-zip-code="true"
+	            data-billingAddress="true"
+	            data-shippingAddress="true"
+	            data-locale="fr"
+	            data-currency="CAD"
+	            data-label="175$ &middot; Acheter"
+	            data-bitcoin="true"
+	            >
+	          </script>
+	          <input name="amount" value="17500" type="hidden">
+	          <input name="description" value='Entre Les Arbres, Acrylique, 36" x 24", /boutique/1985/03/26/entre-les-arbres/' type="hidden">
+	          </span>
+	          </form>
+
+	          <form action="https://nameless-badlands-5774.herokuapp.com/" method="POST" id="acrylique-4" class="bouton-prix">
+	          <span>
+	            <script
+	            src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+	            data-key="pk_live_Svm9rTTBuydDSe5xI3ExuDLN"
+	            data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
+	            data-name="Jacob Roy &middot; Boutique"
+	            data-description='Entre Les Arbres, Acrylique 36" x 24"'
+	            data-amount="22500"
+	             data-zip-code="true"
+	            data-billingAddress="true"
+	            data-shippingAddress="true"
+	            data-locale="fr"
+	            data-currency="CAD"
+	            data-label="225$ &middot; Acheter"
+	            data-bitcoin="true"
+	            >
+	          </script>
+	          <input name="amount" value="22500" type="hidden">
+	          <input name="description" value='Entre Les Arbres, Acrylique, 36" x 24", /boutique/1985/03/26/entre-les-arbres/' type="hidden">
+	          </span>
+	          </form>
+
+	          <form action="https://nameless-badlands-5774.herokuapp.com/" method="POST" id="acrylique-5" class="bouton-prix">
+	          <span>
+	          <script
+	            src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+	            data-key="pk_live_Svm9rTTBuydDSe5xI3ExuDLN"
+	            data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
+	            data-name="Jacob Roy &middot; Boutique"
+	            data-description='Entre Les Arbres, Acrylique, 42" x 28"'
+	            data-amount="28500"
+	             data-zip-code="true"
+	            data-billingAddress="true"
+	            data-shippingAddress="true"
+	            data-locale="fr"
+	            data-currency="CAD"
+	            data-label="285$ &middot; Acheter"
+	            data-bitcoin="true"
+	            >
+	          </script>
+	          <input name="amount" value="28500" type="hidden">
+	          <input name="description" value='Entre Les Arbres, Acrylique, 42" x 28", /boutique/1985/03/26/entre-les-arbres/' type="hidden">
+	          </span>
+	          </form>
+
+	           <form action="https://nameless-badlands-5774.herokuapp.com/" method="POST" id="acrylique-6" class="bouton-prix">
+	          <span>
+	          <script
+	            src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+	            data-key="pk_live_Svm9rTTBuydDSe5xI3ExuDLN"
+	            data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
+	            data-name="Jacob Roy &middot; Boutique"
+	            data-description='Entre Les Arbres, Acrylique, 48" x 32"'
+	            data-amount="35500"
+	             data-zip-code="true"
+	            data-billingAddress="true"
+	            data-shippingAddress="true"
+	            data-locale="fr"
+	            data-currency="CAD"
+	            data-label="355$ &middot; Acheter"
+	            data-bitcoin="true"
+	            >
+	          </script>
+	          <input name="amount" value="35500" type="hidden">
+	          <input name="description" value='Entre Les Arbres, Acrylique, 48" x 32", /boutique/1985/03/26/entre-les-arbres/' type="hidden">
+	          </span>
+	          </form>	       
+
+	    </div>
+	    <div class="informations">
+	    <p>
+	      <h3>Informations</h3>
+	      <ul>
+	      	<li>Papier affiche : Impression sur papier semi-lustré 190g.</li>
+	      	<li>Toile roulée : Impression sur toile matte 410g, avec rebord de 1,75" de chaque côté.</li>
+	      	<li>Toile montée : Impression sur toile montée sur châssis en bois de 1.5" d'épais.</li>
+	      	<li>Acrylique : Impression recouverte d'acrylique polie. Disponible avec quatre supports d'aluminium aux coins, ou un montage flottant avec câble, au choix.</li>
+	      	<li>Toutes les impressions sont sans le filigrane et réalisées par <a href="https://www.pictorem.com">Pictorem</a>.</li>
+	      	<li>Livraisons gratuites en Amérique du Nord.</li>
+	       	<li>Veuillez me <a href="mailto:contact@jacobroy.quebec">contacter</a> pour tout autres finitions ou formats précis.</li>
+	      </ul>
+	    </p>
+	    </div>
   </div>
 </div>
       <div class="footer">
@@ -262,6 +661,12 @@ $.boutonMap['70'].show();
         </p>
       </div>
     </div>
-
+    <!-- JS -->
+    <script src="https://code.jquery.com/jquery-latest.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/unveil/1.3.0/jquery.unveil.min.js"></script>
+    <script src="https://jacobroy.quebec/public/js/bootstrap.min.js"></script>
+    <script src="https://jacobroy.quebec/public/js/jacobroy.js"></script>
+    <script src="https://jacobroy.quebec/public/js/boutique.js"></script>
   </body>
 </html>
+

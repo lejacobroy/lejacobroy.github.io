@@ -1,1 +1,1 @@
-cd ~/Dropbox/Jekyll_blog/ && bundle exec jekyll build && cd ~/Dropbox/Jekyll_blog/_site/ && find . -type f -name '*.html' -exec sed -i '' 's/\<img\ src\=/\<img\ src\=\"https\:\/\/jacobroy\.quebec\/public\/css\/load\.png\"\ data\-src\=/g' {} +
+cd ~/Dropbox/Jekyll_blog/ && bundle exec jekyll build && cd ~/Dropbox/Jekyll_blog/_site/ && find . -type f -name '*.html' -exec sed -i '' 's/\<img\ src\=/\<img\ src\=\"https\:\/\/jacobroy\.quebec\/public\/img\/load\.jpg\"\ data\-src\=/g' {} +
