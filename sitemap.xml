@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://jacobroy.quebec/https://jacobroy.quebec//series/2016/05/10/Pastel/</loc>
+    <lastmod>2016-05-10T00:00:00-04:00</lastmod>
+  </url>
+  <url>
     <loc>https://jacobroy.quebec/https://jacobroy.quebec//portraits/2016/04/05/la-brancoli-design/</loc>
     <lastmod>2016-04-05T00:00:00-04:00</lastmod>
   </url>
@@ -1330,5 +1334,8 @@
     </url>
     <url>
       <loc>https://jacobroy.quebec/https://jacobroy.quebec//portraits/2016/04/05/la-brancoli-design/</loc>
+    </url>
+    <url>
+      <loc>https://jacobroy.quebec/https://jacobroy.quebec//series/2016/05/10/Pastel/</loc>
     </url>
 </urlset>
