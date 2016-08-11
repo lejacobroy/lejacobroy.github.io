@@ -30,7 +30,7 @@ html {
 }
 
 body {
-  color: #515151;
+  color: #505050;
   background-color: #fff;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
@@ -199,7 +199,7 @@ img {
 .post-title {
   color: #505050;
   text-decoration: none;
-  font-size: 100%;
+  font-size: 120%;
   font-weight: 300;
   line-height: 1.5;
 }
@@ -538,8 +538,9 @@ background-color: #ddd;
 }
 
 .news {
-  padding-top: 30px;
+  padding-top: 25px;
   color: #505050;
+  font-size:1.25rem;
 }
 .post-news {
   width: 975px;
@@ -548,8 +549,9 @@ background-color: #ddd;
 }
 .post-title-news,
 .post-title-news a {
-  color: #303030;
+  color: #505050;
   display: inline;
+  font-size:1.25rem;
 }
 .post-date-news {
   color: #9a9a9a;
