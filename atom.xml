@@ -4,7 +4,7 @@
  <title>Jacob Roy</title>
  <link href="https://jacobroy.quebec/atom.xml" rel="self"/>
  <link href="https://jacobroy.quebec/"/>
- <updated>2016-12-18T13:16:33-05:00</updated>
+ <updated>2016-12-18T13:44:12-05:00</updated>
  <id>https://jacobroy.quebec/</id>
  <author>
    <name>Jacob Roy</name>
@@ -482,46 +482,18 @@ Ces cinq semaines de voyage et de découvertes sans pauses m&amp;#39;ont permis 
 
 &lt;p&gt;«Glace-yéé-s» expose les différentes formes adoptées par la glace, cette chose que tous savent reconnaitre malgré ses différents visages. &lt;/p&gt;
 
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;public/photos/glace-yee-s/1-1.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;public/photos/glace-yee-s/2-1.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;public/photos/glace-yee-s/3-1.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;public/photos/glace-yee-s/4-1.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;public/photos/glace-yee-s/5.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;public/photos/glace-yee-s/6.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;public/photos/glace-yee-s/7.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;public/photos/glace-yee-s/8.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;public/photos/glace-yee-s/9.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;public/photos/glace-yee-s/10.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;public/photos/glace-yee-s/11.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;public/photos/glace-yee-s/12.jpg&quot; /&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;public/photos/glace-yee-s/1-1.jpg&quot; alt=&quot;glace1&quot; title=&quot;Glace-yéé-s 1&quot;&gt;
+&lt;img src=&quot;public/photos/glace-yee-s/2-1.jpg&quot; alt=&quot;glace2&quot; title=&quot;Glace-yéé-s 2&quot;&gt;
+&lt;img src=&quot;public/photos/glace-yee-s/3-1.jpg&quot; alt=&quot;glace3&quot; title=&quot;Glace-yéé-s 3&quot;&gt;
+&lt;img src=&quot;public/photos/glace-yee-s/4-1.jpg&quot; alt=&quot;glace4&quot; title=&quot;Glace-yéé-s 4&quot;&gt;
+&lt;img src=&quot;public/photos/glace-yee-s/5.jpg&quot; alt=&quot;glace5&quot; title=&quot;Glace-yéé-s 5&quot;&gt;
+&lt;img src=&quot;public/photos/glace-yee-s/6.jpg&quot; alt=&quot;glace6&quot; title=&quot;Glace-yéé-s 6&quot;&gt;
+&lt;img src=&quot;public/photos/glace-yee-s/7.jpg&quot; alt=&quot;glace7&quot; title=&quot;Glace-yéé-s 7&quot;&gt;
+&lt;img src=&quot;public/photos/glace-yee-s/8.jpg&quot; alt=&quot;glace8&quot; title=&quot;Glace-yéé-s 8&quot;&gt;
+&lt;img src=&quot;public/photos/glace-yee-s/9.jpg&quot; alt=&quot;glace9&quot; title=&quot;Glace-yéé-s 9&quot;&gt;
+&lt;img src=&quot;public/photos/glace-yee-s/10.jpg&quot; alt=&quot;glace10&quot; title=&quot;Glace-yéé-s 10&quot;&gt;
+&lt;img src=&quot;public/photos/glace-yee-s/11.jpg&quot; alt=&quot;glace11&quot; title=&quot;Glace-yéé-s 11&quot;&gt;
+&lt;img src=&quot;public/photos/glace-yee-s/12.jpg&quot; alt=&quot;glace12&quot; title=&quot;Glace-yéé-s 12&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Et vous, que voyez-vous dans cette glace?&lt;/p&gt;
