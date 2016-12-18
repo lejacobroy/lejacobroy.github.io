@@ -726,6 +726,7 @@ background-color: #ddd;
     width: 25px !important;
     background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAABvUlEQVR4AWJwB7RWF7ZxRFEUhmcWw8zYQqiKMFMBYU6aCNdg7MIsMjNDAWZme/xbOrN6kt6+xZE+w94758zyl9spHEm8RTUmsI0gC3OoxzvsNTPN8GsYQ1AIZdwwC8LwRS204xlOwdeiE8dxPNW5ARbCEj0sqSsvRdwd6CyKKyPAKPaAx01Xnm+4rv4/TqmkQ5lv4dXon2d5hh/AljJ+6bbn+r8O3qT+OZUmYC9+oA2r0opv2IMIGrCOOzrnpDJnkHop+pbwy+jT3KYHF+Fjj3mu5tAftis3wntxC/uwH3fQD5Uo3FGwbVn4YYQfsswPGyXf8ilo0+yW4wm+q50WZwG2LAurmu1zvYK0s1JIwX5HwUHtLOdT0KrZHUfBQ+00OQuwaVn4plk/DlvmRzGknU/5FOxBj1FyV4/5QTw0wjuRyLlASxeNEptOnLec52u+DW9O/xxJU7IHX9GCZWnGZyTSnHNKmdPw6vXPIy0UjOOlMmvMj+s2xIoQnkC3Ml/D21vEL5wEKpU1jGQ4uIEFDTrwHCezDPVxCi+NK5/H1fA72SwZRVCg4TB8l+0V8xZ1mMkycBvTqNFjnjQzdwCOKOOyw7UCcQAAAABJRU5ErkJggg==);
     display: inline-block;
+    background-repeat: no-repeat;
     background-position: top; 
     text-indent: -9999px; 
   }
