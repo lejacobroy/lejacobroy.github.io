@@ -1,7 +1,0 @@
-# Jacob Roy
-
-*Le blog* 
-
------
-
-
