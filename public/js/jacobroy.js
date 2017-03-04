@@ -3,7 +3,7 @@ var host = "jacobroy.quebec";
         window.location.protocol = "https";
       //unveil
 $(document).ready(function() {
-    $("img").unveil(1, function() {
+    $("img").unveil(10, function() {
       $(this).css( { 'opacity': 1} );
     });
 //google
