@@ -4,7 +4,7 @@
  <title>Jacob Roy</title>
  <link href="https://jacobroy.quebec/atom.xml" rel="self"/>
  <link href="https://jacobroy.quebec/"/>
- <updated>2017-03-20T09:10:37-04:00</updated>
+ <updated>2017-03-20T09:16:02-04:00</updated>
  <id>https://jacobroy.quebec</id>
  <author>
    <name>Jacob Roy</name>
@@ -144,11 +144,8 @@
 
 &lt;p&gt;Environ tous les ans, je compare Lightroom à tous les autres logiciels de traitement: pour moi, aucun logiciel ne se compare en termes de gestion des fichiers (le panneau Library). Bien sûr, sa rapidité pourrait être améliorée, mais j&amp;#39;aime mieux être bien organisé et avoir le temps de prendre un café!&lt;/p&gt;
 
-&lt;p&gt;(photo de cafe)&lt;/p&gt;
-
-&lt;p&gt;Un des grands points faibles de Ligthroom est sa difficulté à traiter (le panneau Develop) les RAFs (RAW de Fujifilm). En effet, plusieurs logiciels offrent un très bon support (&lt;a href=&quot;http://www.iridientdigital.com&quot;&gt;Irridient&lt;/a&gt;, &lt;a href=&quot;https://www.on1.com&quot;&gt;ON1&lt;/a&gt;, &lt;a href=&quot;http://www.darktable.org&quot;&gt;Darktable&lt;/a&gt;), mais avec les bons paramètres, Lightroom(6) arrive presque à égalité, tout en étant plus simple d&amp;#39;utilisation.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/le-traitement-fujifilm/traitement1.jpg&quot; alt=&quot;traitement-fujifilm1&quot; title=&quot;Le Traitement Fujifilm 1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Un des grands points faibles de Ligthroom est sa difficulté à traiter (le panneau Develop) les RAFs (RAW de Fujifilm). En effet, plusieurs logiciels offrent un très bon support (&lt;a href=&quot;http://www.iridientdigital.com&quot;&gt;Irridient&lt;/a&gt;, &lt;a href=&quot;https://www.on1.com&quot;&gt;ON1&lt;/a&gt;, &lt;a href=&quot;http://www.darktable.org&quot;&gt;Darktable&lt;/a&gt;), mais avec les bons paramètres, Lightroom(6) arrive presque à égalité, tout en étant plus simple d&amp;#39;utilisation.
+&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/le-traitement-fujifilm/traitement1.jpg&quot; alt=&quot;traitement-fujifilm1&quot; title=&quot;Le Traitement Fujifilm 1&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Importation&lt;/strong&gt;&lt;/p&gt;
 
@@ -200,14 +197,14 @@
 &lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
         &lt;p&gt;Portraits :&lt;/p&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/le-traitement-fujifilm/2-portraits.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/le-traitement-fujifilm/2-portraits.jpg&quot; /&gt;
         &lt;blockquote&gt;
             &lt;p&gt;Amount:20 à 25&lt;br/&gt;Radius: 1.0&lt;br/&gt;Detail:100&lt;br/&gt;Masking:10&lt;br/&gt;&lt;/p&gt;
         &lt;/blockquote&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
         &lt;p&gt;Paysages :&lt;/p&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/le-traitement-fujifilm/2-paysages.jpg&quot; /&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/le-traitement-fujifilm/2-paysages.jpg&quot; /&gt;
         &lt;blockquote&gt;
             &lt;p&gt;Amount:25 à 30&lt;br/&gt;Radius: 1.0&lt;br/&gt;Detail:85 à 100&lt;br/&gt;Masking:10&lt;br/&gt;&lt;/p&gt;
         &lt;/blockquote&gt;
