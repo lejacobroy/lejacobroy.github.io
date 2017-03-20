@@ -4,7 +4,7 @@
  <title>Jacob Roy</title>
  <link href="https://jacobroy.quebec/atom.xml" rel="self"/>
  <link href="https://jacobroy.quebec/"/>
- <updated>2017-03-19T10:24:56-04:00</updated>
+ <updated>2017-03-20T09:10:37-04:00</updated>
  <id>https://jacobroy.quebec</id>
  <author>
    <name>Jacob Roy</name>
@@ -128,6 +128,109 @@
 &lt;blockquote&gt;
 &lt;p&gt;Résistant très bien au froid et aux vents forts, c&amp;#39;est un jouet parfait pour les vacances d&amp;#39;hiver!&lt;/p&gt;
 &lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Le traitement Fujifilm</title>
+   <link href="https://jacobroy.quebec//coup-de-pouce/2017/01/02/le-traitement-fujifilm/"/>
+   <updated>2017-01-02T00:00:00-05:00</updated>
+   <id>https://jacobroy.quebec/coup-de-pouce/2017/01/02/le-traitement-fujifilm</id>
+   <content type="html">&lt;p&gt;J&amp;#39;ai fait le saut de Canon à Fujifilm il y a trois ans, et bien que les caméras soient fantastiques, le traitement des images est un peu plus complexe. Utilisant Lightroom pour son organisation hors pair, j&amp;#39;ai pu faire plusieurs tests et comparaisons pour enfin trouver le meilleur &lt;em&gt;workflow&lt;/em&gt; pour cette combinaison hétéroclite.&lt;/p&gt;
+
+&lt;p&gt;Si vous n&amp;#39;avez pas lu &lt;a href=&quot;https://jacobroy.quebec/coup-de-pouce/2017/01/02/astuces-lightroom/&quot;&gt;mes astuces d&amp;#39;organisation pour Lightroom&lt;/a&gt;, je vous recommande de le lire, puis de continuer ce &lt;em&gt;coup de pouce&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Ici, je vous montrerais mes configurations pour extraire la meilleure qualité possible des RAWs de Fujifilm (X-Trans II et X-Trans III). Évidemment, je vous laisse vous adapter et utiliser mes recommandations à votre guise.&lt;/p&gt;
+
+&lt;p&gt;Environ tous les ans, je compare Lightroom à tous les autres logiciels de traitement: pour moi, aucun logiciel ne se compare en termes de gestion des fichiers (le panneau Library). Bien sûr, sa rapidité pourrait être améliorée, mais j&amp;#39;aime mieux être bien organisé et avoir le temps de prendre un café!&lt;/p&gt;
+
+&lt;p&gt;(photo de cafe)&lt;/p&gt;
+
+&lt;p&gt;Un des grands points faibles de Ligthroom est sa difficulté à traiter (le panneau Develop) les RAFs (RAW de Fujifilm). En effet, plusieurs logiciels offrent un très bon support (&lt;a href=&quot;http://www.iridientdigital.com&quot;&gt;Irridient&lt;/a&gt;, &lt;a href=&quot;https://www.on1.com&quot;&gt;ON1&lt;/a&gt;, &lt;a href=&quot;http://www.darktable.org&quot;&gt;Darktable&lt;/a&gt;), mais avec les bons paramètres, Lightroom(6) arrive presque à égalité, tout en étant plus simple d&amp;#39;utilisation.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/le-traitement-fujifilm/traitement1.jpg&quot; alt=&quot;traitement-fujifilm1&quot; title=&quot;Le Traitement Fujifilm 1&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Importation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Je recommande fortement de copier les RAFs et de ne pas les convertir en DNG pour deux raisons:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/le-traitement-fujifilm/import.jpg&quot; alt=&quot;traitement-fujifilm2&quot; title=&quot;Le Traitement Fujifilm 2&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Premièrement, le moteur de traitement de Lightroom (Camera Raw) s&amp;#39;améliore à chaque version majeure et permet donc d&amp;#39;extraire plus de détails de nos RAFs. Or, quand on les convertit en DNG, le résultat se trouve figé dans le temps et, surtout au niveau &lt;em&gt;Sharpness&lt;/em&gt;, ne peut s&amp;#39;améliorer dans le futur.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/le-traitement-fujifilm/dng.jpg&quot; alt=&quot;traitement-fujifilm3&quot; title=&quot;Le Traitement Fujifilm 3&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Deuxièmement, le traitement des RAFs prend environ 20% à 30% plus de ressources (et de temps) à être traité comparés à un RAW conventionnel. Je préfère donc pouvoir sélectionner rapidement les photos intéressantes en utilisant seulement les &lt;em&gt;Previews&lt;/em&gt; (dans le panneau &lt;em&gt;Library&lt;/em&gt;) puis éditer les plus intéressantes seulement (dans le panneau &lt;em&gt;Develop&lt;/em&gt;). À l&amp;#39;inverse, en convertissant les RAFs en DNG, je devrais attendre la conversion de toutes les photos photos de la séance (environ 2 cafés) pour n&amp;#39;en sélectionner que 30 à éditer.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/le-traitement-fujifilm/dng2.jpg&quot; alt=&quot;traitement-fujifilm4&quot; title=&quot;Le Traitement Fujifilm 4&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;DR%&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Premièrement, dans les configurations de la caméra, bloquez le DR% à 100, pour deux raisons:&lt;/p&gt;
+
+&lt;p&gt;1) Le DR% n&amp;#39;a d&amp;#39;effet que sur les fichiers JPG de la caméra. Cela n&amp;#39;a pas d&amp;#39;effet sur les RAF.&lt;/p&gt;
+
+&lt;p&gt;2) Un DR% plus haut va augmenter inutilement l&amp;#39;ISO, et donc le bruit présent dans la photo.&lt;/p&gt;
+
+&lt;p&gt;Pour rappel, le DR% indique le &lt;em&gt;Dynamic Range&lt;/em&gt; souhaité, donc 100%, 200% ou 400% de &lt;em&gt;DR&lt;/em&gt; de plus, comparé à une exposition normale. DR% fonctionne comme  ceci: Si l&amp;#39;exposition normale demande 100 ISO, la caméra va prendre la photo à 200 ISO et réduire les &lt;em&gt;highlights&lt;/em&gt;. Nous allons donc obtenir une photo avec 2 fois plus de &lt;em&gt;Dynamic Range&lt;/em&gt;. C&amp;#39;est une forme d&amp;#39;&lt;a href=&quot;https://en.wikipedia.org/wiki/Exposing_to_the_right&quot;&gt;ETTR&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: C&amp;#39;est à cause du DR100% (le plus bas) que l&amp;#39;ISO le plus bas chez Fuji est 200.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Profil de couleur&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Lightroom à la fâcheuse tendance à appliquer le Profil &lt;em&gt;Adobe Standard&lt;/em&gt; aux photos nouvellement importées, remplaçant les &lt;em&gt;Film Simulations&lt;/em&gt; tant appréciées de Fuji.&lt;/p&gt;
+
+&lt;p&gt;Dans l&amp;#39;onglet &lt;em&gt;Develop&lt;/em&gt;, tout en bas, dans la section &lt;em&gt;Camera Calibration&lt;/em&gt; on retrouve les couleurs prisées que l&amp;#39;on peut maintenant appliquer, comme on le fait dans la caméra.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/le-traitement-fujifilm/cameracalibration.jpg&quot; alt=&quot;traitement-fujifilm5&quot; title=&quot;Le Traitement Fujifilm 5&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Je vous invite à appliquer vos &lt;em&gt;Film Simulations&lt;/em&gt; favoris à des photos vierges, puis de sauvegarder ce traitement en filtre.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/le-traitement-fujifilm/filtre.jpg&quot; alt=&quot;traitement-fujifilm6&quot; title=&quot;Le Traitement Fujifilm 6&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Par la suite, lors de votre prochaine importation de photos, vous pourrez choisir votre &lt;em&gt;Film Simulation&lt;/em&gt; qui sera appliqué automatiquement.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/le-traitement-fujifilm/filtre-import.jpg&quot; alt=&quot;traitement-fujifilm6&quot; title=&quot;Le Traitement Fujifilm 6&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Netteté&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;La netteté, ou &lt;em&gt;sharpening&lt;/em&gt; est le point le plus difficile à traiter (pour les RAFs) avec Lightroom. Au fil du temps j&amp;#39;ai trouvé quelques recettes qui semble être des bon point de départ, dépendant des situations:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;X-Trans II&lt;/em&gt;&lt;/strong&gt; (X-T1, X-T10, X-E2(s), X100S, X100T, X70)
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-6&quot;&gt;
+        &lt;p&gt;Portraits :&lt;/p&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/le-traitement-fujifilm/2-portraits.jpg&quot; /&gt;
+        &lt;blockquote&gt;
+            &lt;p&gt;Amount:20 à 25&lt;br/&gt;Radius: 1.0&lt;br/&gt;Detail:100&lt;br/&gt;Masking:10&lt;br/&gt;&lt;/p&gt;
+        &lt;/blockquote&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-6&quot;&gt;
+        &lt;p&gt;Paysages :&lt;/p&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/le-traitement-fujifilm/2-paysages.jpg&quot; /&gt;
+        &lt;blockquote&gt;
+            &lt;p&gt;Amount:25 à 30&lt;br/&gt;Radius: 1.0&lt;br/&gt;Detail:85 à 100&lt;br/&gt;Masking:10&lt;br/&gt;&lt;/p&gt;
+        &lt;/blockquote&gt;
+    &lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;X-Trans III&lt;/em&gt;&lt;/strong&gt; (X-T2, X-Pro2, X-T20, X100F)
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-6&quot;&gt;
+        &lt;p&gt;Portraits :&lt;/p&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/le-traitement-fujifilm/3-portraits.jpg&quot; /&gt;
+        &lt;blockquote&gt;
+            &lt;p&gt;Amount:80&lt;br/&gt;Radius: 1.0&lt;br/&gt;Detail:0&lt;br/&gt;Masking:25&lt;br/&gt;&lt;/p&gt;
+        &lt;/blockquote&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-6&quot;&gt;
+        &lt;p&gt;Paysages :&lt;/p&gt;
+        &lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/le-traitement-fujifilm/3-paysages.jpg&quot; /&gt;
+        &lt;blockquote&gt;
+            &lt;p&gt;Amount:25 à 35&lt;br/&gt;Radius: 1.0&lt;br/&gt;Detail:80 à 100&lt;br/&gt;Masking:10 à 20&lt;br/&gt;&lt;/p&gt;
+        &lt;/blockquote&gt;
+    &lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
 </content>
  </entry>
  
