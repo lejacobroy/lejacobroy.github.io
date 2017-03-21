@@ -4,7 +4,7 @@
  <title>Jacob Roy</title>
  <link href="https://jacobroy.quebec/atom.xml" rel="self"/>
  <link href="https://jacobroy.quebec/"/>
- <updated>2017-03-20T09:29:13-04:00</updated>
+ <updated>2017-03-21T16:31:01-04:00</updated>
  <id>https://jacobroy.quebec</id>
  <author>
    <name>Jacob Roy</name>
@@ -163,15 +163,15 @@
 
 &lt;p&gt;&lt;strong&gt;DR%&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Premièrement, dans les configurations de la caméra, bloquez le DR% à 100, pour deux raisons:&lt;/p&gt;
+&lt;p&gt;Dans les configurations de la caméra, bloquez le DR% à 100, pour deux raisons:&lt;/p&gt;
 
 &lt;p&gt;1) Le DR% n&amp;#39;a d&amp;#39;effet que sur les fichiers JPG de la caméra. Cela n&amp;#39;a pas d&amp;#39;effet sur les RAF.&lt;/p&gt;
 
-&lt;p&gt;2) Un DR% plus haut va augmenter inutilement l&amp;#39;ISO, et donc le bruit présent dans la photo.&lt;/p&gt;
+&lt;p&gt;2) Un DR% plus haut va augmenter inutilement (pour une exposition normale) l&amp;#39;ISO, et donc le bruit présent dans la photo.&lt;/p&gt;
 
-&lt;p&gt;Pour rappel, le DR% indique le &lt;em&gt;Dynamic Range&lt;/em&gt; souhaité, donc 100%, 200% ou 400% de &lt;em&gt;DR&lt;/em&gt; de plus, comparé à une exposition normale. DR% fonctionne comme  ceci: Si l&amp;#39;exposition normale demande 100 ISO, la caméra va prendre la photo à 200 ISO et réduire les &lt;em&gt;highlights&lt;/em&gt;. Nous allons donc obtenir une photo avec 2 fois plus de &lt;em&gt;Dynamic Range&lt;/em&gt;. C&amp;#39;est une forme d&amp;#39;&lt;a href=&quot;https://en.wikipedia.org/wiki/Exposing_to_the_right&quot;&gt;ETTR&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Pour rappel, le DR% indique le &lt;em&gt;Dynamic Range&lt;/em&gt; souhaité, donc 100%, 200% ou 400% de &lt;em&gt;DR&lt;/em&gt; de plus, comparé à une exposition normale. DR% fonctionne comme  ceci: la caméra va sous-exposer d&amp;#39;un &lt;em&gt;EV&lt;/em&gt; pour DR200% et de deux &lt;em&gt;EV&lt;/em&gt; pour DR400%. Pour s&amp;#39;assurer que l&amp;#39;ouverture et la vitesse d&amp;#39;obturation deumeurent les mêmes, l&amp;#39;ISO est augmenté de 2 et 4 &lt;em&gt;EV&lt;/em&gt;, respectivement. DR100% est en fait le mode désactivé.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: C&amp;#39;est à cause du DR100% (le plus bas) que l&amp;#39;ISO le plus bas chez Fuji est 200.&lt;/p&gt;
+&lt;p&gt;Lightroom (depuis v4.4) va comprendre le DR% et appliquer la courbe adéquate, mais il est très dure de compenser son effet plutôt imprévisible.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Profil de couleur&lt;/strong&gt;&lt;/p&gt;
 
@@ -228,6 +228,14 @@
         &lt;/blockquote&gt;
     &lt;/div&gt;
 &lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;L&amp;#39;utilisation d&amp;#39;un &lt;em&gt;Amount&lt;/em&gt; très haut peut sembler contre-productif, mais parce que Fujifilm utilise un arrangement de pixels différents (X-Trans) des autres manufacturiers (Bayer), il enclenche un algorithme de déconvolution différent, plus adapté au RAFs.&lt;/p&gt;
+
+&lt;p&gt;Au besoin, il faut ajuster le &lt;em&gt;Radius&lt;/em&gt;, par example avec une photo légèrement mal focusée, ou du micro-flou.&lt;/p&gt;
+
+&lt;p&gt;Le &lt;em&gt;Masking&lt;/em&gt; permet de réduire le bruit (causé par le &lt;em&gt;Sharpness&lt;/em&gt;) dans les zones calmes, comme le ciel.&lt;/p&gt;
+
+&lt;p&gt;Au final, il ne faut pas oublier que chaque photo est différente, et qu&amp;#39;il faut adapter ces suggestions à chaque cas.&lt;/p&gt;
 </content>
  </entry>
  

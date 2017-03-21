@@ -91,15 +91,15 @@
 
 <p><strong>DR%</strong></p>
 
-<p>Premièrement, dans les configurations de la caméra, bloquez le DR% à 100, pour deux raisons:</p>
+<p>Dans les configurations de la caméra, bloquez le DR% à 100, pour deux raisons:</p>
 
 <p>1) Le DR% n&#39;a d&#39;effet que sur les fichiers JPG de la caméra. Cela n&#39;a pas d&#39;effet sur les RAF.</p>
 
-<p>2) Un DR% plus haut va augmenter inutilement l&#39;ISO, et donc le bruit présent dans la photo.</p>
+<p>2) Un DR% plus haut va augmenter inutilement (pour une exposition normale) l&#39;ISO, et donc le bruit présent dans la photo.</p>
 
-<p>Pour rappel, le DR% indique le <em>Dynamic Range</em> souhaité, donc 100%, 200% ou 400% de <em>DR</em> de plus, comparé à une exposition normale. DR% fonctionne comme  ceci: Si l&#39;exposition normale demande 100 ISO, la caméra va prendre la photo à 200 ISO et réduire les <em>highlights</em>. Nous allons donc obtenir une photo avec 2 fois plus de <em>Dynamic Range</em>. C&#39;est une forme d&#39;<a href="https://en.wikipedia.org/wiki/Exposing_to_the_right">ETTR</a>.</p>
+<p>Pour rappel, le DR% indique le <em>Dynamic Range</em> souhaité, donc 100%, 200% ou 400% de <em>DR</em> de plus, comparé à une exposition normale. DR% fonctionne comme  ceci: la caméra va sous-exposer d&#39;un <em>EV</em> pour DR200% et de deux <em>EV</em> pour DR400%. Pour s&#39;assurer que l&#39;ouverture et la vitesse d&#39;obturation deumeurent les mêmes, l&#39;ISO est augmenté de 2 et 4 <em>EV</em>, respectivement. DR100% est en fait le mode désactivé.</p>
 
-<p><strong>Note</strong>: C&#39;est à cause du DR100% (le plus bas) que l&#39;ISO le plus bas chez Fuji est 200.</p>
+<p>Lightroom (depuis v4.4) va comprendre le DR% et appliquer la courbe adéquate, mais il est très dure de compenser son effet plutôt imprévisible.</p>
 
 <p><strong>Profil de couleur</strong></p>
 
@@ -156,6 +156,14 @@
         </blockquote>
     </div>
 </div></p>
+
+<p>L&#39;utilisation d&#39;un <em>Amount</em> très haut peut sembler contre-productif, mais parce que Fujifilm utilise un arrangement de pixels différents (X-Trans) des autres manufacturiers (Bayer), il enclenche un algorithme de déconvolution différent, plus adapté au RAFs.</p>
+
+<p>Au besoin, il faut ajuster le <em>Radius</em>, par example avec une photo légèrement mal focusée, ou du micro-flou.</p>
+
+<p>Le <em>Masking</em> permet de réduire le bruit (causé par le <em>Sharpness</em>) dans les zones calmes, comme le ciel.</p>
+
+<p>Au final, il ne faut pas oublier que chaque photo est différente, et qu&#39;il faut adapter ces suggestions à chaque cas.</p>
 
     </div>
   </div>
