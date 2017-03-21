@@ -4,7 +4,7 @@
  <title>Jacob Roy</title>
  <link href="https://jacobroy.quebec/atom.xml" rel="self"/>
  <link href="https://jacobroy.quebec/"/>
- <updated>2017-03-21T16:31:01-04:00</updated>
+ <updated>2017-03-21T16:46:36-04:00</updated>
  <id>https://jacobroy.quebec</id>
  <author>
    <name>Jacob Roy</name>
@@ -169,7 +169,7 @@
 
 &lt;p&gt;2) Un DR% plus haut va augmenter inutilement (pour une exposition normale) l&amp;#39;ISO, et donc le bruit présent dans la photo.&lt;/p&gt;
 
-&lt;p&gt;Pour rappel, le DR% indique le &lt;em&gt;Dynamic Range&lt;/em&gt; souhaité, donc 100%, 200% ou 400% de &lt;em&gt;DR&lt;/em&gt; de plus, comparé à une exposition normale. DR% fonctionne comme  ceci: la caméra va sous-exposer d&amp;#39;un &lt;em&gt;EV&lt;/em&gt; pour DR200% et de deux &lt;em&gt;EV&lt;/em&gt; pour DR400%. Pour s&amp;#39;assurer que l&amp;#39;ouverture et la vitesse d&amp;#39;obturation deumeurent les mêmes, l&amp;#39;ISO est augmenté de 2 et 4 &lt;em&gt;EV&lt;/em&gt;, respectivement. DR100% est en fait le mode désactivé.&lt;/p&gt;
+&lt;p&gt;Pour rappel, le DR% indique le &lt;em&gt;Dynamic Range&lt;/em&gt; souhaité, donc 100%, 200% ou 400% de &lt;em&gt;DR&lt;/em&gt; de plus, comparé à une exposition normale. DR% fonctionne comme  ceci: la caméra va sous-exposer d&amp;#39;un &lt;em&gt;EV&lt;/em&gt; pour DR200% et de deux &lt;em&gt;EV&lt;/em&gt; pour DR400%. Pour s&amp;#39;assurer que l&amp;#39;ouverture et la vitesse d&amp;#39;obturation deumeurent les mêmes, l&amp;#39;ISO est augmenté de 2 et 4 &lt;em&gt;EV&lt;/em&gt;, respectivement. Pour désactiver l&amp;#39;effet du DR, simplement le mettre à DR100%.&lt;/p&gt;
 
 &lt;p&gt;Lightroom (depuis v4.4) va comprendre le DR% et appliquer la courbe adéquate, mais il est très dure de compenser son effet plutôt imprévisible.&lt;/p&gt;
 
