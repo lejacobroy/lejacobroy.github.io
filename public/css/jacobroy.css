@@ -17,10 +17,12 @@ body {
   padding-bottom: 50px;
 
 }
-@font-face { font-family: HelvetivaNeue; src: url('HelvetivaNeue.otf'); } 
+@font-face { font-family: HelvetivaNeue-Light; src: url('HelveticaNeueLight.otf'); } 
+@font-face { font-family: HelvetivaNeue-Thin; src: url('HelveticaNeueThin.otf'); } 
+@font-face { font-family: HelvetivaNeue-UltraLight; src: url('HelveticaNeueUltraLight.otf'); } 
 
 html {
-  font-family: "Helvetica Neue", HelvetivaNeue, Helvetica, Arial, sans-serif;
+  font-family: HelvetivaNeue-Light, HelveticaNeue-Thin, HelvetivaNeue-UltraLight;
   font-size: 16px;
   line-height: 1.5;
 }
