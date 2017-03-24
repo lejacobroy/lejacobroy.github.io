@@ -17,12 +17,13 @@ body {
   padding-bottom: 50px;
 
 }
-@font-face { font-family: HelvetivaNeue-Light; src: url('HelveticaNeueLight.otf'); } 
-@font-face { font-family: HelvetivaNeue-Thin; src: url('HelveticaNeueThin.otf'); } 
-@font-face { font-family: HelvetivaNeue-UltraLight; src: url('HelveticaNeueUltraLight.otf'); } 
+@font-face { font-family: HelvetivaNeue-Light; src: url('font/HelveticaNeueLight.otf'); } /*nav et date*/
+@font-face { font-family: HelvetivaNeue-Thin; src: url('font/HelveticaNeueThin.otf'); } /*h et p*/
+@font-face { font-family: HelvetivaNeueBold; src: url('font/HelveticaNeueBold.otf'); } 
+@font-face { font-family: HelvetivaNeueThinItalic; src: url('font/HelveticaNeueThinItalic.otf'); } 
 
 html {
-  font-family: HelvetivaNeue-Light, HelveticaNeue-Thin, HelvetivaNeue-UltraLight;
+  font-family: HelvetivaNeue-Light, HelveticaNeue-Thin,HelveticaNeueBold,HelveticaNeueThinItalic;
   font-size: 16px;
   line-height: 1.5;
 }
@@ -88,6 +89,7 @@ p {
   margin-bottom: 1rem;
   font-weight: 200;
   overflow: visible;
+  font-family: HelvetivaNeue-Thin;
 }
 
 
@@ -435,6 +437,7 @@ img {
   font-size: 120%;
   font-weight: 200;
   line-height: 1.5;
+  font-family: HelvetivaNeue-Thin;
 }
 
 .post-title a {
