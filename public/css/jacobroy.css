@@ -17,12 +17,12 @@ body {
   padding-bottom: 50px;
 
 }
-@font-face { font-family: HelvetivaNeue-Light; src: url('font/HelveticaNeueLight.otf'); } /*nav et date*/
-@font-face { font-family: HelvetivaNeue-Thin; src: url('font/HelveticaNeueThin.otf'); } /*h et p*/
-@font-face { font-family: HelvetivaNeue; src: url('font/HelveticaNeue.otf'); } 
+@font-face { font-family: HelvetivaNeue-Light; src: url('font/HelveticaNeueLight.woff'); } /*nav et date*/
+@font-face { font-family: HelvetivaNeue-Thin; src: url('font/HelveticaNeueThin.woff'); } /*h et p*/
+@font-face { font-family: HelvetivaNeue-Regular; src: url('font/HelveticaNeue-Regular.woff'); } 
 
 html {
-  font-family: HelvetivaNeue-Light, HelveticaNeue-Thin, HelveticaNeue;
+  font-family: "Helvetica Neue", HelvetivaNeue-Light, HelveticaNeue-Thin, HelveticaNeue-Regular;
   font-size: 16px;
   line-height: 1.5;
 }
@@ -47,7 +47,7 @@ a {
 }
 a strong {
   color: inherit;
-  font-family: HelveticaNeue;
+  font-family: HelveticaNeue-Regular;
 }
 /* `:focus` is linked to `:hover` for basic accessibility */
 a:hover,
@@ -95,7 +95,7 @@ p {
 
 strong {
   font-weight: 400;
-  font-family: HelveticaNeue;
+  font-family: HelveticaNeue-Regular;
 }
 
 
