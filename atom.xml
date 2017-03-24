@@ -4,7 +4,7 @@
  <title>Jacob Roy</title>
  <link href="https://jacobroy.quebec/atom.xml" rel="self"/>
  <link href="https://jacobroy.quebec/"/>
- <updated>2017-03-24T18:33:06-04:00</updated>
+ <updated>2017-03-24T18:38:35-04:00</updated>
  <id>https://jacobroy.quebec</id>
  <author>
    <name>Jacob Roy</name>
@@ -227,7 +227,8 @@
             &lt;p&gt;Amount: 25 à 35&lt;br/&gt;Radius: 1.0&lt;br/&gt;Detail: 80 à 100&lt;br/&gt;Masking: 10 à 20&lt;br/&gt;&lt;/p&gt;
         &lt;/blockquote&gt;
     &lt;/div&gt;
-&lt;/div&gt;&lt;/p&gt;
+&lt;/div&gt;
+&amp;nbsp;&lt;/p&gt;
 
 &lt;p&gt;L&amp;#39;utilisation d&amp;#39;un &lt;em&gt;Amount&lt;/em&gt; très haut peut sembler contre-productif, mais parce que Fujifilm utilise un arrangement de pixels différents (X-Trans) des autres manufacturiers (Bayer), il enclenche un algorithme de déconvolution différent, plus adapté au RAFs.&lt;/p&gt;
 

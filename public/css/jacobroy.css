@@ -20,10 +20,9 @@ body {
 @font-face { font-family: HelvetivaNeue-Light; src: url('font/HelveticaNeueLight.otf'); } /*nav et date*/
 @font-face { font-family: HelvetivaNeue-Thin; src: url('font/HelveticaNeueThin.otf'); } /*h et p*/
 @font-face { font-family: HelvetivaNeue; src: url('font/HelveticaNeue.otf'); } 
-@font-face { font-family: HelvetivaNeueThinItalic; src: url('font/HelveticaNeueThinItalic.otf'); } 
 
 html {
-  font-family: HelvetivaNeue-Light, HelveticaNeue-Thin, HelveticaNeue, HelveticaNeueThinItalic;
+  font-family: HelvetivaNeue-Light, HelveticaNeue-Thin, HelveticaNeue;
   font-size: 16px;
   line-height: 1.5;
 }
@@ -48,6 +47,7 @@ a {
 }
 a strong {
   color: inherit;
+  font-family: HelveticaNeue;
 }
 /* `:focus` is linked to `:hover` for basic accessibility */
 a:hover,
@@ -95,6 +95,7 @@ p {
 
 strong {
   font-weight: 400;
+  font-family: HelveticaNeue;
 }
 
 
