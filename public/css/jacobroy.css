@@ -17,8 +17,8 @@ body {
   padding-bottom: 50px;
 
 }
-@font-face { font-family: HelvetivaNeue-Light; src: url('font/HelveticaNeueLight.woff'); } /*nav et date*/
-@font-face { font-family: HelvetivaNeue-Thin; src: url('font/HelveticaNeueThin.woff'); } /*h et p*/
+@font-face { font-family: HelvetivaNeue-Light; src: url('font/HelveticaNeue-Light.woff'); } /*nav et date*/
+@font-face { font-family: HelvetivaNeue-Thin; src: url('font/HelveticaNeue-Thin.woff'); } /*h et p*/
 @font-face { font-family: HelvetivaNeue-Regular; src: url('font/HelveticaNeue-Regular.woff'); } 
 
 html {
