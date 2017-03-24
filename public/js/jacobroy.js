@@ -1,6 +1,3 @@
-var host = "jacobroy.quebec";
-    if ((host == window.location.host) && (window.location.protocol != "https:"))
-        window.location.protocol = "https";
       //unveil
 $(document).ready(function() {
     $("img").unveil(10, function() {
