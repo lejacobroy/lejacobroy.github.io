@@ -17,12 +17,12 @@ body {
   padding-bottom: 50px;
 
 }
-@font-face { font-family: HelvetivaNeue-Light; src: url('font/HelveticaNeue-Light.woff'); } /*nav et date*/
-@font-face { font-family: HelvetivaNeue-Thin; src: url('font/HelveticaNeue-Thin.woff'); } /*h et p*/
+@font-face { font-family: HelveticaNeue-Light; src: url('font/HelveticaNeue-Light.woff'); } /*nav et date*/
+@font-face { font-family: HelveticaNeue-Thin; src: url('font/HelveticaNeue-Thin.woff'); } /*h et p*/
 @font-face { font-family: HelveticaNeue-Regular; src: url('font/HelveticaNeue-Regular.woff'); } 
 
 html {
-  font-family: "Helvetica Neue", HelvetivaNeue-Light, HelveticaNeue-Thin, HelveticaNeue-Regular;
+  font-family: "Helvetica Neue", HelveticaNeue-Light, HelveticaNeue-Thin, HelveticaNeue-Regular;
   font-size: 16px;
   line-height: 1.5;
 }
