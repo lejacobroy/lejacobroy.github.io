@@ -4,7 +4,7 @@
  <title>Jacob Roy</title>
  <link href="https://jacobroy.quebec/atom.xml" rel="self"/>
  <link href="https://jacobroy.quebec/"/>
- <updated>2017-03-25T16:31:15-04:00</updated>
+ <updated>2017-03-25T16:34:50-04:00</updated>
  <id>https://jacobroy.quebec</id>
  <author>
    <name>Jacob Roy</name>
@@ -33,7 +33,7 @@
 
 &lt;p&gt;En premier lieu je vous invite à installer &lt;a href=&quot;http://www.iridientdigital.com/products/xtransformer.html&quot;&gt;X-Transformer&lt;/a&gt;. Ouvrez-le et ajustez ces paramètres:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer.jpg&quot; alt=&quot;x-transformer1&quot; title=&quot;X-Transformer 1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/x-transformer.jpg&quot; alt=&quot;x-transformer1&quot; title=&quot;X-Transformer 1&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Ceux-ci permettent une plus grande rétention des détails, sans trop de &lt;em&gt;Sharpening&lt;/em&gt; ni d&amp;#39;artéfacts, tout en désactivant la réduction de bruit (car Lightroom est plus efficace pour cela). Évidemment, chaque image étant différente, je vous invite à le modifier selon vos besoins.&lt;/p&gt;
@@ -41,20 +41,20 @@
 
 &lt;p&gt;Pour intégrer X-Tranformer à Lightroom, &lt;a href=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/X-Transformer.lrtemplate.zip&quot;&gt;télécharger mon &lt;em&gt;plug-in&lt;/em&gt;&lt;/a&gt; (macOS uniquement) et copiez le fichier &lt;em&gt;.lrtemplate&lt;/em&gt; dans le dossier &lt;em&gt;External Editor Presets&lt;/em&gt; de votre catalogue Lightroom.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/install.jpg&quot; alt=&quot;x-transformer2&quot; title=&quot;X-Transformer 2&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/install.jpg&quot; alt=&quot;x-transformer2&quot; title=&quot;X-Transformer 2&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Il ne vous reste plus qu&amp;#39;à tester!&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Dans Lightroom, sélectionnez une image RAF et faites &lt;em&gt;Edit In &amp;gt; X-Transformer&lt;/em&gt; :&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/editin.jpg&quot; alt=&quot;x-transformer3&quot; title=&quot;X-Transformer 3&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/editin.jpg&quot; alt=&quot;x-transformer3&quot; title=&quot;X-Transformer 3&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;Vous aurez ensuite une fenêtre comme celle-ci, il vous suffit de cliquer sur &lt;em&gt;Edit&lt;/em&gt;.
-&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/edit.jpg&quot; alt=&quot;x-transformer4&quot; title=&quot;X-Transformer 4&quot;&gt;&lt;/p&gt;
+&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/edit.jpg&quot; alt=&quot;x-transformer4&quot; title=&quot;X-Transformer 4&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;Lightroom va maintenant générer un TIFF de basse qualité qui sera envoyé à X-Transformer. Le TIFF étant généré au même endroit que se trouve le RAF et avec le même nom, il est facile pour X-Transformer de trouver le RAF. Une fois le transfert effectué, X-Transformer vous posera cette question :&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/yes.jpg&quot; alt=&quot;x-transformer5&quot; title=&quot;X-Transformer 5&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/yes.jpg&quot; alt=&quot;x-transformer5&quot; title=&quot;X-Transformer 5&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;X-Transformer va traiter le RAF et remplacer le TIFF par le DNG. Quand Lightroom va lire le TIFF, il va en fait lire le DNG traité par X-Transformer.&lt;/p&gt;
@@ -63,14 +63,14 @@
 &lt;p&gt;Une fois la conversion terminée, retournez dans Lightroom et vous verrez le fichier TIFF qui aura le look d&amp;#39;un RAF fraîchement importé.&lt;/p&gt;
 
 &lt;p&gt;Pour rendre ce fichier plus net, appliquez ce &lt;a href=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/X-TransformerSharpen.lrtemplate.zip&quot;&gt;&lt;em&gt;Preset&lt;/em&gt;&lt;/a&gt;, à ajuster aux besoins :
-&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/sharp.jpg&quot; alt=&quot;x-transformer6&quot; title=&quot;X-Transformer 6&quot;&gt;&lt;/p&gt;
+&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/sharp.jpg&quot; alt=&quot;x-transformer6&quot; title=&quot;X-Transformer 6&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;Le DNG est maintenant agencé en RGB standard, il peut être utilisé simplement dans la plupart des logiciels de traitement.&lt;/p&gt;
 
 &lt;p&gt;De plus, par ce que ce DNG est déjà les pixels réorganisés, il est beaucoup plus rapide à lire :&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/compare.jpg&quot; alt=&quot;x-transformer7&quot; title=&quot;X-Transformer 7&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/compare2.jpg&quot; alt=&quot;x-transformer7&quot; title=&quot;X-Transformer 7&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/compare.jpg&quot; alt=&quot;x-transformer7&quot; title=&quot;X-Transformer 7&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/compare2.jpg&quot; alt=&quot;x-transformer7&quot; title=&quot;X-Transformer 7&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;À droite, le DNG et à gauche, le RAF.&lt;/p&gt;
