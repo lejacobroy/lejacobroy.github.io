@@ -231,6 +231,23 @@ img {
   padding-left: 10px;
 }
 
+.translate {
+ display:inline;
+ position:relative;
+ top:0px;
+ font-size: 60%;
+ z-index: 9999
+}
+
+.translate ul {
+  display: inline;
+  padding: 0px;
+}
+
+.translate ul li {
+  display:inline-block;
+  padding-left: 0px;
+}
 .nav_selected a {
   color:#c0c0c0;
 }
