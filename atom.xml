@@ -4,13 +4,79 @@
  <title>Jacob Roy</title>
  <link href="https://jacobroy.quebec/atom.xml" rel="self"/>
  <link href="https://jacobroy.quebec/"/>
- <updated>2017-03-26T13:00:13-04:00</updated>
+ <updated>2017-03-26T13:39:52-04:00</updated>
  <id>https://jacobroy.quebec</id>
  <author>
    <name>Jacob Roy</name>
    <email>contact@jacobroy.quebec</email>
  </author>
 
+ 
+ <entry>
+   <title>X-Transformer</title>
+   <link href="https://jacobroy.quebec//en/tips/2017/03/25/X-Transformer/"/>
+   <updated>2017-03-25T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec/en/tips/2017/03/25/X-Transformer</id>
+   <content type="html">&lt;p&gt;As you probably know, Iridient Developer is one of the best software to handle RAFs, allowing you to keep a lot more details than others.&lt;/p&gt;
+
+&lt;p&gt;But, it has several disadvantages:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1)&lt;/strong&gt; It&amp;#39;s a separate software (closer to Photoshop than Lightroom), so you need to change your workflow, and it doesn&amp;#39;t offer a library or ranking system.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2)&lt;/strong&gt; It is quite expensive, at $145.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3)&lt;/strong&gt; It&amp;#39;s color processing is not as powerfull as Lightroom or Photoshop.&lt;/p&gt;
+
+&lt;p&gt;To fill these gaps, the developer launched a smaller software, X-Transformer. It allows you to convert RAFs (X-Trans) to DNGs (Bayer) using the same processing engine as Iridient Developer, thus giving an unmatched level of detail.&lt;/p&gt;
+
+&lt;p&gt;With the right settings, it&amp;#39;s easy to integrate it into Lightroom and be able to reprocess the RAFs to obtain a greater level of detail.&lt;/p&gt;
+
+&lt;p&gt;First, install &lt;a href=&quot;http://www.iridientdigital.com/products/xtransformer.html&quot;&gt;X-Transformer&lt;/a&gt;. Open it and adjust these settings:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/x-transformer.jpg&quot; alt=&quot;x-transformer1&quot; title=&quot;X-Transformer 1&quot;&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Those allow for greater detail retention, without too much sharpening or artifacts, while disabling noise reduction (because Lightroom is more efficient for this). Obviously, as each image is different, I invite you to modify it according to your needs.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;To integrate X-Tranformer to Lightroom, &lt;a href=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/X-Transformer.lrtemplate.zip&quot;&gt;download my plugin&lt;/a&gt; (macOS only) and copy &lt;em&gt;.lrtemplate&lt;/em&gt; file in the &lt;em&gt;External Editor Presets&lt;/em&gt; folder of your Lightroom Catalog.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/install.jpg&quot; alt=&quot;x-transformer2&quot; title=&quot;X-Transformer 2&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;All you have to do is test!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In Lightroom, select a RAF picture and do &lt;em&gt;Edit In &amp;gt; X-Transformer&lt;/em&gt; :&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/editin.jpg&quot; alt=&quot;x-transformer3&quot; title=&quot;X-Transformer 3&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;You will then have a window like this, just click on &lt;em&gt;Edit&lt;/em&gt;.
+&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/edit.jpg&quot; alt=&quot;x-transformer4&quot; title=&quot;X-Transformer 4&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Lightroom will now generate a low-quality TIFF that will be sent to X-Transformer. Since the TIFF is generated in the same location as the RAF and with the same name, it is easy for X-Transformer to find the RAF. After the transfer, X-Transformer will ask you this question:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/yes.jpg&quot; alt=&quot;x-transformer5&quot; title=&quot;X-Transformer 5&quot;&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;X-Transformer will process the RAF and replace the TIFF with the DNG. When Lightroom will read the TIFF, it will actually read the DNG processed by X-Transformer.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Once the conversion is complete, return to Lightroom and you will see the TIFF file that will have the look of a freshly imported RAF.&lt;/p&gt;
+
+&lt;p&gt;To sharpen this picture, apply this &lt;a href=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/X-TransformerSharpen.lrtemplate.zip&quot;&gt;Preset&lt;/a&gt;. Adjust it to your taste :
+&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/sharp.jpg&quot; alt=&quot;x-transformer6&quot; title=&quot;X-Transformer 6&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;The DNG is now arranged in standard RGB, it can be easily used in most processing software.&lt;/p&gt;
+
+&lt;p&gt;Moreover, because this DNG has it&amp;#39;s pixels rearranged, it is much faster to read :&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/compare.jpg&quot; alt=&quot;x-transformer7&quot; title=&quot;X-Transformer 7&quot;&gt;
+&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/compare2.jpg&quot; alt=&quot;x-transformer7&quot; title=&quot;X-Transformer 7&quot;&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;To the right, the DNG and on the left, the RAF.&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+ </entry>
  
  <entry>
    <title>X-Transformer</title>
@@ -74,102 +140,6 @@
 
 &lt;blockquote&gt;
 &lt;p&gt;À droite, le DNG et à gauche, le RAF.&lt;/p&gt;
-&lt;/blockquote&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>On s'évade!</title>
-   <link href="https://jacobroy.quebec//en/glance/2017/01/10/On-s-evade/"/>
-   <updated>2017-01-10T00:00:00-05:00</updated>
-   <id>https://jacobroy.quebec/en/glance/2017/01/10/On-s-evade</id>
-   <content type="html">&lt;p&gt;La neige c&amp;#39;est bien &lt;strong&gt;cute&lt;/strong&gt;, mais desfois on a besoin de chaleur! Quand on commence à se tanner, nous on s&amp;#39;évade au sud! Attention, ce n’est pas de tout repos, on doit toujours prendre des photos!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-doeil/photos/on-s-evade/DSCF6928.jpg&quot; alt=&quot;onsevade1&quot; title=&quot;On s&amp;#39;évade! 1&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/coup-doeil/photos/on-s-evade/DSCF6930.jpg&quot; alt=&quot;onsevade2&quot; title=&quot;On s&amp;#39;évade! 2&quot;&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Et c&amp;#39;est un départ!&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-doeil/photos/on-s-evade/DSCF6949.jpg&quot; alt=&quot;onsevade3&quot; title=&quot;On s&amp;#39;évade! 3&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/coup-doeil/photos/on-s-evade/DSCF6958.jpg&quot; alt=&quot;onsevade4&quot; title=&quot;On s&amp;#39;évade! 4&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/coup-doeil/photos/on-s-evade/DSCF6989.jpg&quot; alt=&quot;onsevade6&quot; title=&quot;On s&amp;#39;évade! 6&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/coup-doeil/photos/on-s-evade/DSCF6975.jpg&quot; alt=&quot;onsevade5&quot; title=&quot;On s&amp;#39;évade! 5&quot;&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Alors là, c&amp;#39;est sur qu&amp;#39;on est tombé sur la seule semaine où il pleuvait... Malgré le vent, nos vestes et nos chapeaux, nous étions heureux.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-doeil/photos/on-s-evade/DSCF7081.jpg&quot; alt=&quot;onsevade7&quot; title=&quot;On s&amp;#39;évade! 7&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/coup-doeil/photos/on-s-evade/DSCF7118.jpg&quot; alt=&quot;onsevade8&quot; title=&quot;On s&amp;#39;évade! 8&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/coup-doeil/photos/on-s-evade/DSCF7142.jpg&quot; alt=&quot;onsevade9&quot; title=&quot;On s&amp;#39;évade! 9&quot;&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Sur notre petite plage, bercé par le vent du large, on profite du moment.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Nous avons profité de la pleine lune pour réaliser des paysages extraordinaires, tout en prenant le temps de boire notre &lt;strong&gt;drink&lt;/strong&gt;.
-&lt;img src=&quot;https://jacobroy.quebec/coup-doeil/photos/on-s-evade/DSCF7198.jpg&quot; alt=&quot;onsevade11&quot; title=&quot;On s&amp;#39;évade! 11&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/coup-doeil/photos/on-s-evade/DSCF7201.jpg&quot; alt=&quot;onsevade12&quot; title=&quot;On s&amp;#39;évade! 12&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/coup-doeil/photos/on-s-evade/DSCF7205.jpg&quot; alt=&quot;onsevade13&quot; title=&quot;On s&amp;#39;évade! 13&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/coup-doeil/photos/on-s-evade/DSCF7208.jpg&quot; alt=&quot;onsevade14&quot; title=&quot;On s&amp;#39;évade! 14&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/coup-doeil/photos/on-s-evade/DSCF7242.jpg&quot; alt=&quot;onsevade15&quot; title=&quot;On s&amp;#39;évade! 15&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/coup-doeil/photos/on-s-evade/DSCF7440.jpg&quot; alt=&quot;onsevade16&quot; title=&quot;On s&amp;#39;évade! 16&quot;&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Ouais, ça c&amp;#39;était vraiment magique!&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/coup-doeil/photos/on-s-evade/DSCF7317.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/coup-doeil/photos/on-s-evade/DSCF7322.jpg&quot; /&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-doeil/photos/on-s-evade/DSCF7358.jpg&quot; alt=&quot;onsevade17&quot; title=&quot;On s&amp;#39;évade! 17&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/coup-doeil/photos/on-s-evade/DSCF7402.jpg&quot; alt=&quot;onsevade18&quot; title=&quot;On s&amp;#39;évade! 18&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/coup-doeil/photos/on-s-evade/DSCF7471.jpg&quot; alt=&quot;onsevade19&quot; title=&quot;On s&amp;#39;évade! 19&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/coup-doeil/photos/on-s-evade/DSCF7525.jpg&quot; alt=&quot;onsevade20&quot; title=&quot;On s&amp;#39;évade! 20&quot;&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Pendant les quelques après-midi de beau temps où nous n&amp;#39;étions pas à la plage, c&amp;#39;était séance photo!&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-doeil/photos/on-s-evade/DJI_0011.jpg&quot; alt=&quot;onsevade10&quot; title=&quot;On s&amp;#39;évade! 10&quot;&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Après un mois de démarches pour obtenir mon permis de pilote de drone en République Dominicaine, j&amp;#39;ai seulement volé une fois pendant 15 minutes, dû aux mauvaises conditions...&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Pour la dernière journée de notre périple, nous sommes montés dans le téléphérique. Une fois au sommet, il est surprenant de voir le nombre de montagnes aux alentours!
-&lt;img src=&quot;https://jacobroy.quebec/coup-doeil/photos/on-s-evade/DSCF7537.jpg&quot; alt=&quot;onsevade21&quot; title=&quot;On s&amp;#39;évade! 21&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/coup-doeil/photos/on-s-evade/DSCF7539.jpg&quot; alt=&quot;onsevade22&quot; title=&quot;On s&amp;#39;évade! 22&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/coup-doeil/photos/on-s-evade/DSCF7546.jpg&quot; alt=&quot;onsevade23&quot; title=&quot;On s&amp;#39;évade! 23&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/coup-doeil/photos/on-s-evade/DSCF7643.jpg&quot; alt=&quot;onsevade24&quot; title=&quot;On s&amp;#39;évade! 24&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/coup-doeil/photos/on-s-evade/DSCF7653.jpg&quot; alt=&quot;onsevade25&quot; title=&quot;On s&amp;#39;évade! 25&quot;&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;La montée comme la déscente donnent tout un vertige!&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-doeil/photos/on-s-evade/DSCF7708.jpg&quot; alt=&quot;onsevade26&quot; title=&quot;On s&amp;#39;évade! 26&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/coup-doeil/photos/on-s-evade/DSCF7716.jpg&quot; alt=&quot;onsevade27&quot; title=&quot;On s&amp;#39;évade! 27&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/coup-doeil/photos/on-s-evade/DSCF7723.jpg&quot; alt=&quot;onsevade28&quot; title=&quot;On s&amp;#39;évade! 28&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/coup-doeil/photos/on-s-evade/DSCF7730.jpg&quot; alt=&quot;onsevade29&quot; title=&quot;On s&amp;#39;évade! 29&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/coup-doeil/photos/on-s-evade/DSCF7751.jpg&quot; alt=&quot;onsevade30&quot; title=&quot;On s&amp;#39;évade! 30&quot;&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Du haut des airs, en regardant au loin, on se souvient de ces beaux moments.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-doeil/photos/on-s-evade/DSCF7628.jpg&quot; alt=&quot;onsevade25&quot; title=&quot;On s&amp;#39;évade! 25&quot;&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Bonus de chat sauvage!&lt;/p&gt;
 &lt;/blockquote&gt;
 </content>
  </entry>
@@ -867,24 +837,6 @@ En revenant de mon voyage dans les vieilles contrées, j&amp;#39;avais le besoin
  </entry>
  
  <entry>
-   <title>Oka</title>
-   <link href="https://jacobroy.quebec//en/pocket-stories/2016/07/16/Oka/"/>
-   <updated>2016-07-16T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec/en/pocket-stories/2016/07/16/Oka</id>
-   <content type="html">&lt;blockquote&gt;
-&lt;p&gt;Petite sortie en camping, pour bien décrocher.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/oka/oka1.jpg&quot; alt=&quot;oka1&quot; title=&quot;Oka 1&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/oka/oka2.jpg&quot; alt=&quot;oka2&quot; title=&quot;Oka 2&quot;&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Je n&amp;#39;ai pourtant pas pu résister à prendre quelques photos ;)&lt;/p&gt;
-&lt;/blockquote&gt;
-</content>
- </entry>
- 
- <entry>
    <title>Les Europes</title>
    <link href="https://jacobroy.quebec//coup-doeil/2016/06/29/Les-Europes/"/>
    <updated>2016-06-29T00:00:00-04:00</updated>
@@ -1113,38 +1065,6 @@ Ces cinq semaines de voyage et de découvertes sans pauses m&amp;#39;ont permis 
    <link href="https://jacobroy.quebec//histoires-de-poche/2016/02/24/glace-yee-s/"/>
    <updated>2016-02-24T00:00:00-05:00</updated>
    <id>https://jacobroy.quebec/histoires-de-poche/2016/02/24/glace-yee-s</id>
-   <content type="html">&lt;blockquote&gt;
-&lt;p&gt;La glace, elle-même rafraichissante l&amp;#39;été, elle-même glissante l&amp;#39;hivers.&lt;/p&gt;
-
-&lt;p&gt;La glace, elle-même si transparente, elle-même si irrégulière.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;«Glace-yéé-s» expose les différentes formes adoptées par la glace, cette chose que tous savent reconnaitre malgré ses différents visages. &lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/glace-yee-s/1-1.jpg&quot; alt=&quot;glace1&quot; title=&quot;Glace-yéé-s 1&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/glace-yee-s/2-1.jpg&quot; alt=&quot;glace2&quot; title=&quot;Glace-yéé-s 2&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/glace-yee-s/3-1.jpg&quot; alt=&quot;glace3&quot; title=&quot;Glace-yéé-s 3&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/glace-yee-s/4-1.jpg&quot; alt=&quot;glace4&quot; title=&quot;Glace-yéé-s 4&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/glace-yee-s/5.jpg&quot; alt=&quot;glace5&quot; title=&quot;Glace-yéé-s 5&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/glace-yee-s/6.jpg&quot; alt=&quot;glace6&quot; title=&quot;Glace-yéé-s 6&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/glace-yee-s/7.jpg&quot; alt=&quot;glace7&quot; title=&quot;Glace-yéé-s 7&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/glace-yee-s/8.jpg&quot; alt=&quot;glace8&quot; title=&quot;Glace-yéé-s 8&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/glace-yee-s/9.jpg&quot; alt=&quot;glace9&quot; title=&quot;Glace-yéé-s 9&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/glace-yee-s/10.jpg&quot; alt=&quot;glace10&quot; title=&quot;Glace-yéé-s 10&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/glace-yee-s/11.jpg&quot; alt=&quot;glace11&quot; title=&quot;Glace-yéé-s 11&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/glace-yee-s/12.jpg&quot; alt=&quot;glace12&quot; title=&quot;Glace-yéé-s 12&quot;&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Et vous, que voyez-vous dans cette glace?&lt;/p&gt;
-&lt;/blockquote&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Glace-yéé-s</title>
-   <link href="https://jacobroy.quebec//en/pocket-stories/2016/02/24/glace-yee-s/"/>
-   <updated>2016-02-24T00:00:00-05:00</updated>
-   <id>https://jacobroy.quebec/en/pocket-stories/2016/02/24/glace-yee-s</id>
    <content type="html">&lt;blockquote&gt;
 &lt;p&gt;La glace, elle-même rafraichissante l&amp;#39;été, elle-même glissante l&amp;#39;hivers.&lt;/p&gt;
 
@@ -1564,25 +1484,6 @@ Ces cinq semaines de voyage et de découvertes sans pauses m&amp;#39;ont permis 
    <link href="https://jacobroy.quebec//histoires-de-poche/2015/08/24/dechets-de-la-cite/"/>
    <updated>2015-08-24T00:00:00-04:00</updated>
    <id>https://jacobroy.quebec/histoires-de-poche/2015/08/24/dechets-de-la-cite</id>
-   <content type="html">&lt;p&gt;Que ce soit pour un évènement éphémère, ou pour quelque chose de durable, nous avons la fâcheuse tendance à construire dans l&amp;#39;extravagance. Sans étudier les retombés environnementales, les coûts de maintiens à long terme, le retour à l&amp;#39;état naturel, nous voulons quelque chose de beau, quelque chose qui plaira aux yeux des citoyens.&lt;/p&gt;
-
-&lt;p&gt;Cette série de photos éveille l&amp;#39;esprit sur ces endroits délaissés par les municipalités, sans projets d&amp;#39;embellissement ou de démolition. Ces monuments communautaires sont laissés là, comme des déchets.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/dechets-de-la-cite/IMG_2580.jpg&quot; alt=&quot;cite1&quot; title=&quot;Déchets de Cité 1&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/dechets-de-la-cite/LOQJ0130.jpg&quot; alt=&quot;cite2&quot; title=&quot;Déchets de Cité 2&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/dechets-de-la-cite/LUIA5410.jpg&quot; alt=&quot;cite3&quot; title=&quot;Déchets de Cité 3&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/dechets-de-la-cite/FYHE9174.jpg&quot; alt=&quot;cite4&quot; title=&quot;Déchets de Cité 4&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/dechets-de-la-cite/UUUA3044.jpg&quot; alt=&quot;cite5&quot; title=&quot;Déchets de Cité 5&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/dechets-de-la-cite/UHSY8535.jpg&quot; alt=&quot;cite6&quot; title=&quot;Déchets de Cité 6&quot;&gt;
-&lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/dechets-de-la-cite/SUAB6327.jpg&quot; alt=&quot;cite7&quot; title=&quot;Déchets de Cité 7&quot;&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Déchets De La Cité</title>
-   <link href="https://jacobroy.quebec//en/pocket-stories/2015/08/24/dechets-de-la-cite/"/>
-   <updated>2015-08-24T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec/en/pocket-stories/2015/08/24/dechets-de-la-cite</id>
    <content type="html">&lt;p&gt;Que ce soit pour un évènement éphémère, ou pour quelque chose de durable, nous avons la fâcheuse tendance à construire dans l&amp;#39;extravagance. Sans étudier les retombés environnementales, les coûts de maintiens à long terme, le retour à l&amp;#39;état naturel, nous voulons quelque chose de beau, quelque chose qui plaira aux yeux des citoyens.&lt;/p&gt;
 
 &lt;p&gt;Cette série de photos éveille l&amp;#39;esprit sur ces endroits délaissés par les municipalités, sans projets d&amp;#39;embellissement ou de démolition. Ces monuments communautaires sont laissés là, comme des déchets.&lt;/p&gt;
@@ -2358,238 +2259,6 @@ Ces cinq semaines de voyage et de découvertes sans pauses m&amp;#39;ont permis 
  </entry>
  
  <entry>
-   <title>Londres, De Ma Poche</title>
-   <link href="https://jacobroy.quebec//en/pocket-stories/2015/06/28/Londres,-de-ma-poche/"/>
-   <updated>2015-06-28T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec/en/pocket-stories/2015/06/28/Londres, de ma poche</id>
-   <content type="html">&lt;p&gt;Londres, la ville inoubliable. Pendant dix jours d&amp;#39;automne, nous sommes partis, après avoir planifié le voyage depuis six mois.
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/londres-de-ma-poche/IMG_1047.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/londres-de-ma-poche/IMG_0975.jpg&quot; /&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/londres-de-ma-poche/IMG_1046.jpg&quot; alt=&quot;Depart3&quot; title=&quot;Départ 3&quot;&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;C&amp;#39;est le départ. Nerveux, nous surfons sur l&amp;#39;adrénaline. La tête remplie d&amp;#39;idées et de projets, les sept heures du vol furent les plus longues du voyage.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/londres-de-ma-poche/IMG_0943.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/londres-de-ma-poche/IMG_0941.jpg&quot; /&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Dès l&amp;#39;arrivée à Heathrow, l&amp;#39;architecture et les jeux de lumière m&amp;#39;enivrent. C&amp;#39;est un bon début.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/londres-de-ma-poche/IMG_0942.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/londres-de-ma-poche/IMG_0945.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/londres-de-ma-poche/IMG_0944.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/londres-de-ma-poche/IMG_0753.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/londres-de-ma-poche/IMG_0737.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/londres-de-ma-poche/IMG_1042.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/londres-de-ma-poche/IMG_1043.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/londres-de-ma-poche/IMG_1044.jpg&quot; /&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/londres-de-ma-poche/IMG_0836.jpg&quot; alt=&quot;Londres13&quot; title=&quot;Londres 13&quot;&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Le Clink78, notre hôte pour la longue semaine. Le pouls urbain est très rapide. Les rues adjacentes sont vraiment charmantes et donnent le gout d&amp;#39;y habiter... &lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/londres-de-ma-poche/IMG_1022.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/londres-de-ma-poche/IMG_1025.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/londres-de-ma-poche/IMG_1026.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/londres-de-ma-poche/IMG_1027.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/londres-de-ma-poche/IMG_0813.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/londres-de-ma-poche/IMG_0815.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/londres-de-ma-poche/IMG_1006.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/londres-de-ma-poche/IMG_0644.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/londres-de-ma-poche/IMG_1020.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/londres-de-ma-poche/IMG_0563.jpg&quot; /&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/londres-de-ma-poche/IMG_0993.jpg&quot; alt=&quot;Architecture11&quot; title=&quot;Architecture 11&quot;&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Londres, c&amp;#39;est aussi son architecture. Des châteaux aux immeubles à bureaux, tout y est beau. J&amp;#39;y ai découvert mon faible pour la symétrie ainsi que le noir et blanc.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/londres-de-ma-poche/IMG_1014.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/londres-de-ma-poche/IMG_1009.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/londres-de-ma-poche/IMG_1008.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/londres-de-ma-poche/IMG_0733.jpg&quot; /&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Hampton Court, situé dans le sud-ouest de Londres, ne fait qu&amp;#39;augmenter le charme de la ville. Le château immense, les jardins interminables et le labyrinthe nous ont fait vivre de beaux moments.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/londres-de-ma-poche/IMG_0532.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/londres-de-ma-poche/IMG_0740.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/londres-de-ma-poche/IMG_0837.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/londres-de-ma-poche/IMG_0739.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/londres-de-ma-poche/IMG_1034.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/londres-de-ma-poche/IMG_1035.jpg&quot; /&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/londres-de-ma-poche/IMG_0658.jpg&quot; alt=&quot;Bath4&quot; title=&quot;Bath 4&quot;&gt;
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/londres-de-ma-poche/IMG_1036.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/londres-de-ma-poche/IMG_1037.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/londres-de-ma-poche/IMG_1040.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/londres-de-ma-poche/IMG_1039.jpg&quot; /&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-&amp;nbsp;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Bath, ancienne ville romaine, est maintenant un endroit très touristique. Nous pouvons  trouver rapidement des endroits aussi isolés qu&amp;#39;accueillants  et prendre conscience de la vie des gens. Sortir des chemins battus.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/londres-de-ma-poche/IMG_0827.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/londres-de-ma-poche/IMG_0847.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/londres-de-ma-poche/IMG_0972.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/londres-de-ma-poche/IMG_0927.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/londres-de-ma-poche/IMG_0924.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/londres-de-ma-poche/IMG_0926.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/londres-de-ma-poche/IMG_0974.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/londres-de-ma-poche/IMG_0973.jpg&quot; /&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Prochain arrêt, Brighton. Ville balnéaire faisant face à la France, il y fait chaud même en automne. Avec seulement quelques heures pour planifier notre escapade, nous avons été soulagés d&amp;#39;arriver dans la magnifique petite gare. Le soleil tapant, l&amp;#39;odeur du large, les vagues, tout y était pour une journée mémorable.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/londres-de-ma-poche/IMG_0814.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/londres-de-ma-poche/IMG_0995.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/londres-de-ma-poche/IMG_1023.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/londres-de-ma-poche/IMG_1005.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/londres-de-ma-poche/IMG_0965.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/londres-de-ma-poche/IMG_0966.jpg&quot; /&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;La fin arrive toujours trop vite à notre gout. Il faut savoir se souvenir des bons moments, et ne pas oublier l&amp;#39;équipe, un peu comme une famille, que nous étions devenus avec le temps.&lt;/p&gt;
-&lt;/blockquote&gt;
-</content>
- </entry>
- 
- <entry>
    <title>L'expédition</title>
    <link href="https://jacobroy.quebec//coup-doeil/2015/06/18/l'expedition/"/>
    <updated>2015-06-18T00:00:00-04:00</updated>
@@ -2734,38 +2403,6 @@ Ces cinq semaines de voyage et de découvertes sans pauses m&amp;#39;ont permis 
  </entry>
  
  <entry>
-   <title>Boys Band Pictures</title>
-   <link href="https://jacobroy.quebec//en/pocket-stories/2015/06/16/boysbandpictures/"/>
-   <updated>2015-06-16T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec/en/pocket-stories/2015/06/16/boysbandpictures</id>
-   <content type="html">&lt;p&gt;Je documente souvent les moments que je passe avec mes amis. Que ce soit mes amis d&amp;#39;enfance, ou de nouvelles connaissances, je m&amp;#39;amuse à capturer la chimie qui s&amp;#39;opère. Voyageant en petits groupes, explorant les forêts ou les villes, un phénomène se développe rapidement. Nous ne sommes plus des &lt;em&gt;personnes&lt;/em&gt; nous sommes &lt;em&gt;le groupe&lt;/em&gt;. C&amp;#39;est souvent à ce moment que nous ressemblons le plus à un groupe de musique indépendante. &lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Boys Band Pictures, Where Soul Meets Group&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/boys-band-pictures/IMG_1942.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/boys-band-pictures/IMG_1940.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/boys-band-pictures/IMG_1938.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/boys-band-pictures/IMG_1939.jpg&quot; /&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/boys-band-pictures/DSCF8152.jpg&quot; alt=&quot;bbp4&quot; title=&quot;Boys Band Pictures 4&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/boys-band-pictures/IMG_8749.jpg&quot; alt=&quot;bbp5&quot; title=&quot;Boys Band Pictures 5&quot;&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
    <title>Pantouffe</title>
    <link href="https://jacobroy.quebec//coup-doeil/2015/06/01/Pantouffe/"/>
    <updated>2015-06-01T00:00:00-04:00</updated>
@@ -2813,40 +2450,6 @@ Ces cinq semaines de voyage et de découvertes sans pauses m&amp;#39;ont permis 
    <link href="https://jacobroy.quebec//histoires-de-poche/2015/05/14/Fenetres/"/>
    <updated>2015-05-14T00:00:00-04:00</updated>
    <id>https://jacobroy.quebec/histoires-de-poche/2015/05/14/Fenetres</id>
-   <content type="html">&lt;p&gt;J&amp;#39;ai un faible pour les fenêtres. Est-ce pour ce quelles représentent, une ouverture, ou est-ce simplement la lumière qui en sort, apaisante? Je n&amp;#39;en sais rien, mais elles m&amp;#39;ont toujours attirée. &lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Je dois briser des fenêtres. Briser des fenêtres préalablement intactes, avec mon corps. Briser des fenêtres avec mon corps. Me défenestrer. Prendre mon élan, me jeter par la fenêtre, la briser et tomber. Tomber sur le sol. Mourir, en paix avec les fenêtres.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/les-fenetres/IMG_1928.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/les-fenetres/IMG_1933.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/les-fenetres/IMG_1937.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/les-fenetres/IMG_1934.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/les-fenetres/IMG_1936.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;img src=&quot;https://jacobroy.quebec/histoires-de-poche/photos/les-fenetres/IMG_1827.jpg&quot; /&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Les fenêtres</title>
-   <link href="https://jacobroy.quebec//en/pocket-stories/2015/05/14/Fenetres/"/>
-   <updated>2015-05-14T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec/en/pocket-stories/2015/05/14/Fenetres</id>
    <content type="html">&lt;p&gt;J&amp;#39;ai un faible pour les fenêtres. Est-ce pour ce quelles représentent, une ouverture, ou est-ce simplement la lumière qui en sort, apaisante? Je n&amp;#39;en sais rien, mais elles m&amp;#39;ont toujours attirée. &lt;/p&gt;
 
 &lt;blockquote&gt;

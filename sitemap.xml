@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://jacobroy.quebec//coup-de-pouce/2017/03/25/X-Transformer/</loc>
+<loc>https://jacobroy.quebec//en/tips/2017/03/25/X-Transformer/</loc>
 <lastmod>2017-03-25T00:00:00-04:00</lastmod>
 </url>
 <url>
-<loc>https://jacobroy.quebec//en/glance/2017/01/10/On-s-evade/</loc>
-<lastmod>2017-01-10T00:00:00-05:00</lastmod>
+<loc>https://jacobroy.quebec//coup-de-pouce/2017/03/25/X-Transformer/</loc>
+<lastmod>2017-03-25T00:00:00-04:00</lastmod>
 </url>
 <url>
 <loc>https://jacobroy.quebec//coup-doeil/2017/01/10/On-s-evade/</loc>
@@ -69,10 +69,6 @@
 <lastmod>2016-07-16T00:00:00-04:00</lastmod>
 </url>
 <url>
-<loc>https://jacobroy.quebec//en/pocket-stories/2016/07/16/Oka/</loc>
-<lastmod>2016-07-16T00:00:00-04:00</lastmod>
-</url>
-<url>
 <loc>https://jacobroy.quebec//coup-doeil/2016/06/29/Les-Europes/</loc>
 <lastmod>2016-06-29T00:00:00-04:00</lastmod>
 </url>
@@ -86,10 +82,6 @@
 </url>
 <url>
 <loc>https://jacobroy.quebec//histoires-de-poche/2016/02/24/glace-yee-s/</loc>
-<lastmod>2016-02-24T00:00:00-05:00</lastmod>
-</url>
-<url>
-<loc>https://jacobroy.quebec//en/pocket-stories/2016/02/24/glace-yee-s/</loc>
 <lastmod>2016-02-24T00:00:00-05:00</lastmod>
 </url>
 <url>
@@ -137,10 +129,6 @@
 <lastmod>2015-08-24T00:00:00-04:00</lastmod>
 </url>
 <url>
-<loc>https://jacobroy.quebec//en/pocket-stories/2015/08/24/dechets-de-la-cite/</loc>
-<lastmod>2015-08-24T00:00:00-04:00</lastmod>
-</url>
-<url>
 <loc>https://jacobroy.quebec//coup-doeil/2015/08/19/La-bete/</loc>
 <lastmod>2015-08-19T00:00:00-04:00</lastmod>
 </url>
@@ -177,10 +165,6 @@
 <lastmod>2015-06-28T00:00:00-04:00</lastmod>
 </url>
 <url>
-<loc>https://jacobroy.quebec//en/pocket-stories/2015/06/28/Londres,-de-ma-poche/</loc>
-<lastmod>2015-06-28T00:00:00-04:00</lastmod>
-</url>
-<url>
 <loc>https://jacobroy.quebec//coup-doeil/2015/06/18/l'expedition/</loc>
 <lastmod>2015-06-18T00:00:00-04:00</lastmod>
 </url>
@@ -193,19 +177,11 @@
 <lastmod>2015-06-16T00:00:00-04:00</lastmod>
 </url>
 <url>
-<loc>https://jacobroy.quebec//en/pocket-stories/2015/06/16/boysbandpictures/</loc>
-<lastmod>2015-06-16T00:00:00-04:00</lastmod>
-</url>
-<url>
 <loc>https://jacobroy.quebec//coup-doeil/2015/06/01/Pantouffe/</loc>
 <lastmod>2015-06-01T00:00:00-04:00</lastmod>
 </url>
 <url>
 <loc>https://jacobroy.quebec//histoires-de-poche/2015/05/14/Fenetres/</loc>
-<lastmod>2015-05-14T00:00:00-04:00</lastmod>
-</url>
-<url>
-<loc>https://jacobroy.quebec//en/pocket-stories/2015/05/14/Fenetres/</loc>
 <lastmod>2015-05-14T00:00:00-04:00</lastmod>
 </url>
 <url>
@@ -284,6 +260,15 @@
 </url>
 <url>
 <loc>https://jacobroy.quebec//en/pocket-stories/</loc>
+</url>
+<url>
+<loc>https://jacobroy.quebec//en/tips/</loc>
+</url>
+<url>
+<loc>https://jacobroy.quebec//en/up-we-go/</loc>
+</url>
+<url>
+<loc>https://jacobroy.quebec//en/who/</loc>
 </url>
 <url>
 <loc>https://jacobroy.quebec//en/</loc>
