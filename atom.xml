@@ -4,7 +4,7 @@
  <title>Jacob Roy</title>
  <link href="https://jacobroy.quebec/atom.xml" rel="self"/>
  <link href="https://jacobroy.quebec/"/>
- <updated>2017-03-26T16:15:00-04:00</updated>
+ <updated>2017-03-26T20:18:23-04:00</updated>
  <id>https://jacobroy.quebec</id>
  <author>
    <name>Jacob Roy</name>
@@ -52,15 +52,15 @@
 &lt;p&gt;You will then have a window like this, just click on &lt;em&gt;Edit&lt;/em&gt;.
 &lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/edit.jpg&quot; alt=&quot;x-transformer4&quot; title=&quot;X-Transformer 4&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;Lightroom will now generate a low-quality TIFF that will be sent to X-Transformer. Since the TIFF is generated in the same location as the RAF and with the same name, it is easy for X-Transformer to find the RAF. After the transfer, X-Transformer will ask you this question:&lt;/p&gt;
+&lt;p&gt;Lightroom will now generate a low-quality TIF that will be sent to X-Transformer. Since the TIF is generated in the same location as the RAF and with the same name, it is easy for X-Transformer to find the RAF. After the transfer, X-Transformer will ask you this question:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/yes.jpg&quot; alt=&quot;x-transformer5&quot; title=&quot;X-Transformer 5&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;X-Transformer will process the RAF and replace the TIFF with the DNG. When Lightroom will read the TIFF, it will actually read the DNG processed by X-Transformer.&lt;/p&gt;
+&lt;p&gt;X-Transformer will process the RAF and replace the TIF with the DNG. When Lightroom will read the TIF, it will actually read the DNG processed by X-Transformer.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Once the conversion is complete, return to Lightroom and you will see the TIFF file that will have the look of a freshly imported RAF.&lt;/p&gt;
+&lt;p&gt;Once the conversion is complete, return to Lightroom and you will see the TIF file that will have the look of a freshly imported RAF.&lt;/p&gt;
 
 &lt;p&gt;To sharpen this picture, apply this &lt;a href=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/X-TransformerSharpen.lrtemplate.zip&quot;&gt;Preset&lt;/a&gt;. Adjust it to your taste :
 &lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/sharp.jpg&quot; alt=&quot;x-transformer6&quot; title=&quot;X-Transformer 6&quot;&gt;&lt;/p&gt;
@@ -118,15 +118,15 @@
 &lt;p&gt;Vous aurez ensuite une fenêtre comme celle-ci, il vous suffit de cliquer sur &lt;em&gt;Edit&lt;/em&gt;.
 &lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/edit.jpg&quot; alt=&quot;x-transformer4&quot; title=&quot;X-Transformer 4&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;Lightroom va maintenant générer un TIFF de basse qualité qui sera envoyé à X-Transformer. Le TIFF étant généré au même endroit que se trouve le RAF et avec le même nom, il est facile pour X-Transformer de trouver le RAF. Une fois le transfert effectué, X-Transformer vous posera cette question :&lt;/p&gt;
+&lt;p&gt;Lightroom va maintenant générer un TIF de basse qualité qui sera envoyé à X-Transformer. Le TIF étant généré au même endroit que se trouve le RAF et avec le même nom, il est facile pour X-Transformer de trouver le RAF. Une fois le transfert effectué, X-Transformer vous posera cette question :&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/yes.jpg&quot; alt=&quot;x-transformer5&quot; title=&quot;X-Transformer 5&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;X-Transformer va traiter le RAF et remplacer le TIFF par le DNG. Quand Lightroom va lire le TIFF, il va en fait lire le DNG traité par X-Transformer.&lt;/p&gt;
+&lt;p&gt;X-Transformer va traiter le RAF et remplacer le TIF par le DNG. Quand Lightroom va lire le TIF, il va en fait lire le DNG traité par X-Transformer.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Une fois la conversion terminée, retournez dans Lightroom et vous verrez le fichier TIFF qui aura le look d&amp;#39;un RAF fraîchement importé.&lt;/p&gt;
+&lt;p&gt;Une fois la conversion terminée, retournez dans Lightroom et vous verrez le fichier TIF qui aura le look d&amp;#39;un RAF fraîchement importé.&lt;/p&gt;
 
 &lt;p&gt;Pour rendre ce fichier plus net, appliquez ce &lt;a href=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/X-TransformerSharpen.lrtemplate.zip&quot;&gt;&lt;em&gt;Preset&lt;/em&gt;&lt;/a&gt;, à ajuster aux besoins :
 &lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/sharp.jpg&quot; alt=&quot;x-transformer6&quot; title=&quot;X-Transformer 6&quot;&gt;&lt;/p&gt;
