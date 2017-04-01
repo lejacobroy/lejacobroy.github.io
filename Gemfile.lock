@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.5.0)
+    addressable (2.5.1)
       public_suffix (~> 2.0, >= 2.0.2)
     colorator (1.1.0)
     css_press (0.3.2)
@@ -9,14 +9,14 @@ GEM
       json
     csspool-st (3.1.2)
     execjs (2.7.0)
-    ffi (1.9.14)
+    ffi (1.9.18)
     forwardable-extended (2.6.0)
     html_press (0.8.2)
       htmlentities
       multi_css (>= 0.1.0)
       multi_js (>= 0.1.0)
     htmlentities (4.3.4)
-    jekyll (3.3.1)
+    jekyll (3.4.3)
       addressable (~> 2.4)
       colorator (~> 1.0)
       jekyll-sass-converter (~> 1.0)
@@ -36,12 +36,12 @@ GEM
       multi_js (>= 0.1.0)
     jekyll-sass-converter (1.5.0)
       sass (~> 3.4)
-    jekyll-sitemap (0.12.0)
+    jekyll-sitemap (1.0.0)
       jekyll (~> 3.3)
     jekyll-watch (1.5.0)
       listen (~> 3.0, < 3.1)
-    json (2.0.2)
-    kramdown (1.13.1)
+    json (2.0.3)
+    kramdown (1.13.2)
     liquid (3.0.6)
     listen (3.0.8)
       rb-fsevent (~> 0.9, >= 0.9.4)
@@ -53,14 +53,14 @@ GEM
       uglifier (~> 2)
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
-    public_suffix (2.0.4)
+    public_suffix (2.0.5)
     rb-fsevent (0.9.8)
-    rb-inotify (0.9.7)
+    rb-inotify (0.9.8)
       ffi (>= 0.5.0)
-    redcarpet (3.3.4)
+    redcarpet (3.4.0)
     rouge (1.11.1)
     safe_yaml (1.0.4)
-    sass (3.4.22)
+    sass (3.4.23)
     uglifier (2.7.2)
       execjs (>= 0.3.0)
       json (>= 1.8.0)
@@ -76,4 +76,4 @@ DEPENDENCIES
   redcarpet
 
 BUNDLED WITH
-   1.13.6
+   1.14.3
