@@ -10,11 +10,11 @@ $(document).ready(function() {
   		case 'normal': 
 		var output1;
 		output1 = 75;
-		document.getElementById("bouton1").innerHTML = output1.toString() + "$ &middot; Papier affiche";;
+		document.getElementById("bouton1").innerHTML = (output1 + 10).toString() + "$ &middot; Papier affiche";;
 
 		var output2;
 		output2 = 90;
-		document.getElementById("bouton2").innerHTML = output2;
+		document.getElementById("bouton2").innerHTML = output2 + 10;
 
 	  	$('#formats').change(function() {
 		    $('.snipcart-add-item').data('item-custom1-value', $(this).val());
@@ -66,9 +66,9 @@ $(document).ready(function() {
 				if(!output1){
 					document.getElementById("bouton1").innerHTML = "Indisponible";
 				}else{
-					document.getElementById("bouton1").innerHTML = output1.toString() + "$ &middot; Papier affiche";
+					document.getElementById("bouton1").innerHTML = (output1 + 10).toString() + "$ &middot; Papier affiche";
 				}
-				document.getElementById("bouton2").innerHTML = output2;
+				document.getElementById("bouton2").innerHTML = output2 + 10;
 		});
 		break;
 
@@ -76,11 +76,11 @@ $(document).ready(function() {
 		case 'panoramique':
 				var output1;
 		output1 = 75;
-		document.getElementById("bouton1").innerHTML = output1.toString() + "$ &middot; Papier affiche";;
+		document.getElementById("bouton1").innerHTML = (output1 + 10).toString() + "$ &middot; Papier affiche";;
 
 		var output2;
 		output2 = 120;
-		document.getElementById("bouton2").innerHTML = output2;
+		document.getElementById("bouton2").innerHTML = output2 + 10;
 
 	  	$('#formats').change(function() {
 		    $('.snipcart-add-item').data('item-custom1-value', $(this).val());
@@ -138,9 +138,9 @@ $(document).ready(function() {
 				if(!output1){
 					document.getElementById("bouton1").innerHTML = "Indisponible";
 				}else{
-					document.getElementById("bouton1").innerHTML = output1.toString() + "$ &middot; Papier affiche";
+					document.getElementById("bouton1").innerHTML = (output1 + 10).toString() + "$ &middot; Papier affiche";
 				}
-				document.getElementById("bouton2").innerHTML = output2;
+				document.getElementById("bouton2").innerHTML = output2 + 10;
 		});
 		break;
 
@@ -148,11 +148,11 @@ $(document).ready(function() {
 		case 'carre':
 				var output1;
 		output1 = 60;
-		document.getElementById("bouton1").innerHTML = output1.toString() + "$ &middot; Papier affiche";;
+		document.getElementById("bouton1").innerHTML = (output1 + 10).toString() + "$ &middot; Papier affiche";;
 
 		var output2;
 		output2 = 90;
-		document.getElementById("bouton2").innerHTML = output2;
+		document.getElementById("bouton2").innerHTML = output2 + 10;
 
 	  	$('#formats').change(function() {
 		    $('.snipcart-add-item').data('item-custom1-value', $(this).val());
@@ -193,9 +193,9 @@ $(document).ready(function() {
 				if(!output1){
 					document.getElementById("bouton1").innerHTML = "Indisponible";
 				}else{
-					document.getElementById("bouton1").innerHTML = output1.toString() + "$ &middot; Papier affiche";
+					document.getElementById("bouton1").innerHTML = (output1 + 10).toString() + "$ &middot; Papier affiche";
 				}
-				document.getElementById("bouton2").innerHTML = output2;
+				document.getElementById("bouton2").innerHTML = output2 + 10;
 		});
 		break;
 
@@ -203,11 +203,11 @@ $(document).ready(function() {
 		case 'aerien':
 				var output1;
 		output1 = 60;
-		document.getElementById("bouton1").innerHTML = output1.toString() + "$ &middot; Papier affiche";;
+		document.getElementById("bouton1").innerHTML = (output1 + 10).toString() + "$ &middot; Papier affiche";;
 
 		var output2;
 		output2 = 90;
-		document.getElementById("bouton2").innerHTML = output2;
+		document.getElementById("bouton2").innerHTML = output2 + 10;
 
 	  	$('#formats').change(function() {
 		    $('.snipcart-add-item').data('item-custom1-value', $(this).val());
@@ -266,9 +266,9 @@ $(document).ready(function() {
 				if(!output1){
 					document.getElementById("bouton1").innerHTML = "Indisponible";
 				}else{
-					document.getElementById("bouton1").innerHTML = output1.toString() + "$ &middot; Papier affiche";
+					document.getElementById("bouton1").innerHTML = (output1 + 10).toString() + "$ &middot; Papier affiche";
 				}
-				document.getElementById("bouton2").innerHTML = output2;
+				document.getElementById("bouton2").innerHTML = output2 + 10;
 		});
 		break;
 	}
