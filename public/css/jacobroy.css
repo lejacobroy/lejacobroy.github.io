@@ -90,10 +90,6 @@ p {
   font-weight: 200;
   overflow: visible;
   font-family: HelveticaNeue-Thin;
-  width: 75%;
-margin-left: auto;
-margin-right: auto;
-text-align: justify;
 }
 .post p {
 width: 75%;
@@ -138,6 +134,12 @@ blockquote {
   color: #7a7a7a;
   border-left: .25rem solid #e5e5e5;
   width: 75%;
+margin-left: auto;
+margin-right: auto;
+text-align: justify ;
+}
+blockquote p{
+    width: 100%;
 margin-left: auto;
 margin-right: auto;
 text-align: justify ;
