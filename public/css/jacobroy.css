@@ -95,7 +95,6 @@ p {
 width: 75%;
 margin-left: auto;
 margin-right: auto;
-text-align: justify;
 }
 
 strong {
@@ -136,16 +135,11 @@ blockquote {
   width: 75%;
 margin-left: auto;
 margin-right: auto;
-text-align: justify ;
 }
-blockquote p{
-    width: 100%;
-margin-left: auto;
-margin-right: auto;
-text-align: justify ;
-}
+
 blockquote p:last-child {
   margin-bottom: 0;
+  width: 100;
 }
 @media (min-width: 30em) {
   blockquote {
