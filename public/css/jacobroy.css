@@ -509,6 +509,9 @@ img {
   margin-left:auto;
   margin-right: auto;
 }
+.item i p {
+  text-align: center !important;
+}
 .item_title {
     color: #505050;
     position: relative;
@@ -520,6 +523,7 @@ img {
     font-weight: 200;
     font-size: 1.25rem;
     width: 100%;
+    font-family: HelveticaNeue-Thin;
 }
 
 .formats {
@@ -532,7 +536,7 @@ img {
   font-size: 1rem;
 }
 .formats_text {
-  
+  font-family: HelveticaNeue-Thin;
 }
 .formats form select {
   position: relative;
@@ -546,6 +550,7 @@ img {
 .informations {
   padding-top: 2em; 
   font-weight: 200;
+  font-family: HelveticaNeue-Thin;
 }
 .informations h3 {
   font-weight: 200;
@@ -575,6 +580,7 @@ img {
   width: auto;
   text-align: center;
   font-weight: 200;
+  font-family: HelveticaNeue-Thin;
   padding-bottom: 40px;
 }
 .categories li {
