@@ -142,7 +142,7 @@ margin-right: auto;
 
 blockquote p:last-child {
   margin-bottom: 0;
-  width: 100;
+  width: 100%;
 }
 @media (min-width: 30em) {
   blockquote {
