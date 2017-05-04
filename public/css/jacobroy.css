@@ -91,7 +91,12 @@ p {
   overflow: visible;
   font-family: HelveticaNeue-Thin;
 }
-
+post p {
+width: 75%;
+margin-left: auto;
+margin-right: auto;
+text-align: justify ;
+}
 
 strong {
   font-weight: 400;
@@ -128,6 +133,10 @@ blockquote {
   margin: .8rem 0;
   color: #7a7a7a;
   border-left: .25rem solid #e5e5e5;
+  width: 75%;
+margin-left: auto;
+margin-right: auto;
+text-align: justify ;
 }
 blockquote p:last-child {
   margin-bottom: 0;
