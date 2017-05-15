@@ -63,15 +63,9 @@ $(document).ready(function() {
 				output2 = 480;
 				break;
 		    }
-				if(!output1){
-					document.getElementById("bouton1").innerHTML = "Indisponible";
-				}else if(!output2){
-					document.getElementById("bouton2").innerHTML = "Indisponible";
-				
-				}else{
 
-					document.getElementById("bouton1").innerHTML = output1 + 10;
-				}
+				document.getElementById("bouton1").innerHTML = output1 + 10;
+				
 				document.getElementById("bouton2").innerHTML = output2 + 10;
 		});
 		break;
@@ -139,15 +133,9 @@ $(document).ready(function() {
 				output1 = 385;
 				break;
 		    }
-				if(!output1){
-					document.getElementById("bouton1").innerHTML = "Indisponible";
-				}else if(!output2){
-					document.getElementById("bouton2").innerHTML = "Indisponible";
 
-				}
-				else{
-					document.getElementById("bouton1").innerHTML = output1 + 10;
-				}
+				document.getElementById("bouton1").innerHTML = output1 + 10;
+				
 				document.getElementById("bouton2").innerHTML = output2 + 10;
 		});
 		break;
@@ -271,11 +259,9 @@ $(document).ready(function() {
 				output2 = 560;
 				break;
 		    }
-				if(!output1){
-					document.getElementById("bouton1").innerHTML = "Indisponible";
-				}else{
-					document.getElementById("bouton1").innerHTML = output1 + 10;
-				}
+				
+				document.getElementById("bouton1").innerHTML = output1 + 10;
+				
 				document.getElementById("bouton2").innerHTML = output2 + 10;
 		});
 		break;
