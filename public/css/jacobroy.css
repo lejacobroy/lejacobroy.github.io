@@ -621,13 +621,16 @@ img {
 @media (min-width: 1500px) {
 /*col-md-6*/
 .boutique_img {
-  width: 33.33333333%;
+	width: 50%;
+  /*width: 33.33333333%;*/
 }
 }
 
 @media (min-width: 1700px) {
 .boutique_img {
-  width: 25%;
+	width: 50%;
+  /*
+  width: 25%;*/
 }
 }
 @media (min-width: 1285px) {
