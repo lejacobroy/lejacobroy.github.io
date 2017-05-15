@@ -67,6 +67,7 @@ $(document).ready(function() {
 					document.getElementById("bouton1").innerHTML = "Indisponible";
 				}else if(!output2){
 					document.getElementById("bouton2").innerHTML = "Indisponible";
+				
 				}else{
 
 					document.getElementById("bouton1").innerHTML = output1 + 10;
@@ -143,7 +144,7 @@ $(document).ready(function() {
 				}else if(!output2){
 					document.getElementById("bouton2").innerHTML = "Indisponible";
 
-				{
+				}
 				else{
 					document.getElementById("bouton1").innerHTML = output1 + 10;
 				}
