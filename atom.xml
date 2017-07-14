@@ -4,7 +4,7 @@
  <title>Jacob Roy</title>
  <link href="https://jacobroy.quebec/atom.xml" rel="self"/>
  <link href="https://jacobroy.quebec/"/>
- <updated>2017-07-14T16:34:56-04:00</updated>
+ <updated>2017-07-14T16:42:31-04:00</updated>
  <id>https://jacobroy.quebec</id>
  <author>
    <name>Jacob Roy</name>
@@ -70,11 +70,11 @@
 
 &lt;p&gt;Quelques autres changements sont les bienvenus :&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;la possibilité de traduire le &lt;em&gt;Film Simulation&lt;/em&gt; de Fujifilm en &lt;em&gt;Camera Profile&lt;/em&gt; pour Lightroom, ce qui permet d&amp;#39;avoir les DNG résultants avec des couleurs très près des JPGs.&lt;/li&gt;
-&lt;li&gt;La possibilité de traduire les étoiles (&lt;em&gt;Star Ratings&lt;/em&gt;) de la caméra, pour que Lightroom les applique.&lt;/li&gt;
-&lt;li&gt;X-Transformer peut maintenant conserver la date originale du fichier lors de la conversion RAW -&amp;gt; DNG.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;1)&lt;/strong&gt; la possibilité de traduire le &lt;em&gt;Film Simulation&lt;/em&gt; de Fujifilm en &lt;em&gt;Camera Profile&lt;/em&gt; pour Lightroom, ce qui permet d&amp;#39;avoir les DNG résultants avec des couleurs très près des JPGs.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2)&lt;/strong&gt; La possibilité de traduire les étoiles (&lt;em&gt;Star Ratings&lt;/em&gt;) de la caméra, pour que Lightroom les applique.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3)&lt;/strong&gt; X-Transformer peut maintenant conserver la date originale du fichier lors de la conversion RAW -&amp;gt; DNG.&lt;/p&gt;
 
 &lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformerb4/b4.jpg&quot; title=&quot;X-Transformer Beta 4 4&quot;&gt;&lt;/div&gt;
 
