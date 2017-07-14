@@ -4,13 +4,91 @@
  <title>Jacob Roy</title>
  <link href="https://jacobroy.quebec/atom.xml" rel="self"/>
  <link href="https://jacobroy.quebec/"/>
- <updated>2017-07-02T13:17:01-04:00</updated>
+ <updated>2017-07-14T16:07:37-04:00</updated>
  <id>https://jacobroy.quebec</id>
  <author>
    <name>Jacob Roy</name>
    <email>contact@jacobroy.quebec</email>
  </author>
 
+ 
+ <entry>
+   <title>X-Transformer Beta 4</title>
+   <link href="https://jacobroy.quebec//en/tips/2017/07/14/X-Transformer-Beta-4/"/>
+   <updated>2017-07-14T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec/en/tips/2017/07/14/X-Transformer Beta 4</id>
+   <content type="html">&lt;p&gt;If you haven&amp;#39;t already, I recommand that you go read my &lt;a href=&quot;https://jacobroy.quebec/en/tips/2017/03/25/X-Transformer/&quot;&gt;older post&lt;/a&gt; on Iridient X-Transformer, as I will only explain the new features that came with the latest version (Beta 4).&lt;/p&gt;
+
+&lt;p&gt;One of the most enticipated feature is a much tighter integration with Lightroom, being able to use it as a plug-in on macOS or Windows. We don&amp;#39;t need to install a third-party plugin anymore, the only action needed is to go in the &lt;em&gt;Help&lt;/em&gt; menu and select &lt;em&gt;Install Lightroom Plug-in&lt;/em&gt;.&lt;/p&gt;
+
+&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformerb4/help.jpg&quot; title=&quot;X-Transformer Beta 4 1&quot;&gt;&lt;/div&gt;
+
+&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformerb4/installed.jpg&quot; title=&quot;X-Transformer Beta 4 2&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;To use from Lightroom, you canyou can select one or multiple (finaly!) pictures from the &lt;em&gt;Library&lt;/em&gt; panel, and then from the &lt;em&gt;File&lt;/em&gt;  or &lt;em&gt;Library&lt;/em&gt; menu, select &lt;em&gt;Plug-in Extras&lt;/em&gt; -&amp;gt; &lt;strong&gt;Process Selected RAW(s) to DNG&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformerb4/library.jpg&quot; title=&quot;X-Transformer Beta 4 3&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;The other notables features are also welcomed :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;We now have the possibility to translate the Fujifilm&amp;#39;s &lt;em&gt;Film Simulation&lt;/em&gt; in Lightroom&amp;#39;s &lt;em&gt;Camera Profile&lt;/em&gt;, which gives us about the same colors in Lightroom as we would have with JPEGs straight out of the camera.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Also, we now have the possibility to traslate &lt;em&gt;Star Ratings&lt;/em&gt; from the camera, into Lightroom&amp;#39;s &lt;em&gt;stars&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Furthermore, X-Transformer can now keep the original file date when converting a RAF to DNG, which Lightroom likes very much.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformerb4/b4.jpg&quot; title=&quot;X-Transformer Beta 4 4&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;We can easily see the effect that the conversion has on the pictures, colours are much richer and we have more Dynamic Range.&lt;/p&gt;
+
+&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformerb4/gif.gif&quot; title=&quot;X-Transformer Beta 4 5&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;Zoomed-in at 100%, we clearly see X-Transformer&amp;#39;s detail retention :&lt;/p&gt;
+
+&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformerb4/zoom.jpg&quot; title=&quot;X-Transformer Beta 4 6&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;(On the left, the DNG and the original RAF on the right.)&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>X-Transformer Beta 4</title>
+   <link href="https://jacobroy.quebec//coup-de-pouce/2017/07/14/X-Transformer-Beta-4/"/>
+   <updated>2017-07-14T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec/coup-de-pouce/2017/07/14/X-Transformer Beta 4</id>
+   <content type="html">&lt;p&gt;Si vous n&amp;#39;avez pas encore lu mon &lt;a href=&quot;https://jacobroy.quebec/coup-de-pouce/2017/03/25/X-Transformer/&quot;&gt;précédent article&lt;/a&gt; sur &lt;a href=&quot;http://www.iridientdigital.com/products/xtransformer.html&quot;&gt;Iridient X-Transformer&lt;/a&gt;, je vous invite à le faire, car je traiterai seulement des nouveautés apportées par la dernière version (Beta 4).&lt;/p&gt;
+
+&lt;p&gt;La nouveauté la plus attendue est certainement une intégration plus poussée du logiciel en tant que &lt;em&gt;plug-in&lt;/em&gt; Lightroom, autant sur macOS que sur Windows. Plus besoin d&amp;#39;installer un &lt;em&gt;plug-in&lt;/em&gt; tiers, il suffit donc d&amp;#39;aller dans le menu &lt;em&gt;Help&lt;/em&gt;, puis de sélectionner &lt;em&gt;Install Lightroom Plug-in&lt;/em&gt;. &lt;/p&gt;
+
+&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformerb4/help.jpg&quot; title=&quot;X-Transformer Beta 4 1&quot;&gt;&lt;/div&gt;
+
+&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformerb4/installed.jpg&quot; title=&quot;X-Transformer Beta 4 2&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;Pour l&amp;#39;utiliser depuis Lightroom, vous pouvez sélectionner une ou plusieurs (enfin!) photos à partir du panneau &lt;em&gt;Library&lt;/em&gt;, puis aller dans le menu &lt;em&gt;File&lt;/em&gt; ou &lt;em&gt;Library&lt;/em&gt; -&amp;gt; &lt;em&gt;Plug-in Extras&lt;/em&gt; -&amp;gt; &lt;strong&gt;Process Selected RAW(s) to DNG&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformerb4/library.jpg&quot; title=&quot;X-Transformer Beta 4 3&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;Quelques autres changements sont les bienvenus :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;la possibilité de traduire le &lt;em&gt;Film Simulation&lt;/em&gt; de Fujifilm en &lt;em&gt;Camera Profile&lt;/em&gt; pour Lightroom, ce qui permet d&amp;#39;avoir les DNG résultants avec des couleurs très près des JPGs.&lt;/li&gt;
+&lt;li&gt;La possibilité de traduire les étoiles (&lt;em&gt;Star Ratings&lt;/em&gt;) de la caméra, pour que Lightroom les applique.&lt;/li&gt;
+&lt;li&gt;X-Transformer peut maintenant conserver la date originale du fichier lors de la conversion RAW -&amp;gt; DNG.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformerb4/b4.jpg&quot; title=&quot;X-Transformer Beta 4 4&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;On peut facilement voir l&amp;#39;effet que la conversion a sur les photos, les couleurs étant plus riches et nous avons plus de &lt;em&gt;Dynamic Range&lt;/em&gt;.&lt;/p&gt;
+
+&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformerb4/gif.gif&quot; title=&quot;X-Transformer Beta 4 5&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;Agrandis à 100%, nous voyons bien la rétention des détails que permet X-Transformer :&lt;/p&gt;
+
+&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformerb4/zoom.jpg&quot; title=&quot;X-Transformer Beta 4 6&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;(Le DNG à gauche et le RAF original à droite.)&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Bronica ETRS</title>
