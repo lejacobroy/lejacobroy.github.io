@@ -4,13 +4,65 @@
  <title>Jacob Roy</title>
  <link href="https://jacobroy.quebec/atom.xml" rel="self"/>
  <link href="https://jacobroy.quebec/"/>
- <updated>2017-07-14T20:06:56-04:00</updated>
+ <updated>2017-07-14T21:07:28-04:00</updated>
  <id>https://jacobroy.quebec</id>
  <author>
    <name>Jacob Roy</name>
    <email>contact@jacobroy.quebec</email>
  </author>
 
+ 
+ <entry>
+   <title>X-Transformer Beta 4</title>
+   <link href="https://jacobroy.quebec//test/2017/07/14/X-Transformer-Beta-4/"/>
+   <updated>2017-07-14T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec/test/2017/07/14/X-Transformer Beta 4</id>
+   <content type="html">&lt;p&gt;Si vous n&amp;#39;avez pas encore lu mon &lt;a href=&quot;https://jacobroy.quebec/coup-de-pouce/2017/03/25/X-Transformer/&quot;&gt;précédent article&lt;/a&gt; sur &lt;a href=&quot;http://www.iridientdigital.com/products/xtransformer.html&quot;&gt;Iridient X-Transformer&lt;/a&gt;, je vous invite à le faire, car je traiterai seulement des nouveautés apportées par la dernière version (Beta 4).&lt;/p&gt;
+
+&lt;p&gt;La nouveauté la plus attendue est certainement une intégration plus poussée du logiciel en tant que &lt;em&gt;plug-in&lt;/em&gt; Lightroom, autant sur macOS que sur Windows. Plus besoin d&amp;#39;installer un &lt;em&gt;plug-in&lt;/em&gt; tiers, il suffit donc d&amp;#39;aller dans le menu &lt;em&gt;Help&lt;/em&gt;, puis de sélectionner &lt;em&gt;Install Lightroom Plug-in&lt;/em&gt;. &lt;/p&gt;
+
+&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformerb4/help.jpg&quot; title=&quot;X-Transformer Beta 4 1&quot;&gt;&lt;/div&gt;
+
+&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformerb4/installed.jpg&quot; title=&quot;X-Transformer Beta 4 2&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;Pour l&amp;#39;utiliser depuis Lightroom, vous pouvez sélectionner une ou plusieurs (enfin!) photos à partir du panneau &lt;em&gt;Library&lt;/em&gt;, puis aller dans le menu &lt;em&gt;File&lt;/em&gt; ou &lt;em&gt;Library&lt;/em&gt; -&amp;gt; &lt;em&gt;Plug-in Extras&lt;/em&gt; -&amp;gt; &lt;strong&gt;Process Selected RAW(s) to DNG&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformerb4/library.jpg&quot; title=&quot;X-Transformer Beta 4 3&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;Quelques autres changements sont les bienvenus :&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1)&lt;/strong&gt; la possibilité de traduire le &lt;em&gt;Film Simulation&lt;/em&gt; de Fujifilm en &lt;em&gt;Camera Profile&lt;/em&gt; pour Lightroom, ce qui permet d&amp;#39;avoir les DNG résultants avec des couleurs très près des JPGs.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2)&lt;/strong&gt; La possibilité de traduire les étoiles (&lt;em&gt;Star Ratings&lt;/em&gt;) de la caméra, pour que Lightroom les applique.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3)&lt;/strong&gt; X-Transformer peut maintenant conserver la date originale du fichier lors de la conversion RAW -&amp;gt; DNG.&lt;/p&gt;
+
+&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformerb4/b4.jpg&quot; title=&quot;X-Transformer Beta 4 4&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;On peut facilement voir l&amp;#39;effet que la conversion a sur les photos, les couleurs étant plus riches et nous avons plus de &lt;em&gt;Dynamic Range&lt;/em&gt;.&lt;/p&gt;
+
+&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformerb4/gif.gif&quot; title=&quot;X-Transformer Beta 4 5&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;Agrandis à 100%, nous voyons bien la rétention des détails que permet X-Transformer :&lt;/p&gt;
+
+&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformerb4/zoom.jpg&quot; title=&quot;X-Transformer Beta 4 6&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;(Le DNG à gauche et le RAF original à droite.)&lt;/p&gt;
+
+&lt;script async src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
+
+&lt;!-- site --&gt;
+
+&lt;p&gt;&lt;ins class=&quot;adsbygoogle&quot;
+     style=&quot;display:block&quot;
+     data-ad-client=&quot;ca-pub-2437467348049554&quot;
+     data-ad-slot=&quot;2783353828&quot;
+     data-ad-format=&quot;auto&quot;&gt;&lt;/ins&gt;
+&lt;script&gt;
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>X-Transformer Beta 4</title>
