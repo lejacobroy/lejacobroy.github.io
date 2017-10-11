@@ -1,10 +1,9 @@
       //tooltips
-$(document).ready(
-	function(tooltip) {
+$(document).ready(function() {
   $('[data-toggle="tooltip"]').tooltip()
-};
-function(snipcartjacob){
+});
 //snipcart
+$(document).ready(function(){
   Snipcart.execute('config', 'show_continue_shopping', true);
   var detail;
   detail = $('#detail').text();
