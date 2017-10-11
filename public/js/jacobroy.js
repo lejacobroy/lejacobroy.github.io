@@ -1,7 +1,9 @@
       //unveil
 $(document).ready(function() {
     $("img").unveil(10, function() {
-      $(this).css( { 'opacity': 1} );
+      $(this).on(function() {
+        this.style.opacity = 1;
+      })
     });
 //google
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
