@@ -1,5 +1,5 @@
       //unveil
-$(document).ready(function() {
+$.getScript('snipcart.js', function(){
 //snipcart
   Snipcart.execute('config', 'show_continue_shopping', true);
   var detail;
