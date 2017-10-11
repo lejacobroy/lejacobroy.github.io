@@ -1,5 +1,5 @@
       //tooltips
-      $(function () {
+    $.getScript('bootstrap.min.js', function(){
   $('[data-toggle="tooltip"]').tooltip()
 })
 $.getScript('snipcart.js', function(){
