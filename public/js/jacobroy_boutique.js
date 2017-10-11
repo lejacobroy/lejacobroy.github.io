@@ -1,8 +1,9 @@
       //tooltips
-    $.getScript('bootstrap.min.js', function(){
+$(document).ready(
+	function(tooltip) {
   $('[data-toggle="tooltip"]').tooltip()
-});
-$.getScript('snipcart.js', function(){
+};
+function(snipcartjacob){
 //snipcart
   Snipcart.execute('config', 'show_continue_shopping', true);
   var detail;
