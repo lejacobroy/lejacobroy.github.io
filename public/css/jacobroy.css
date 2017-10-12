@@ -537,6 +537,7 @@ img {
   display: block;
   color: #505050;
   font-size: 1rem;
+  padding-bottom:30px;
 }
 .formats_text {
   font-family: HelveticaNeue-Thin;
@@ -1311,7 +1312,7 @@ input[type="button"].btn-block {
 }
 .tooltip {
   position: absolute;
-  z-index: 1070;
+  z-index: 107;
   display: block;
   margin: 0;
   font-style: normal;
@@ -1413,9 +1414,9 @@ input[type="button"].btn-block {
 .tooltip-inner {
   max-width: 500px;
   padding: 3px 8px;
-  color: #696969;
+  color: #fff;
   text-align: center;
-  background-color: #000;
+  background-color: #696969;
   border-radius: 0.25rem;
 }
 
