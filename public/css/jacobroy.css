@@ -1315,8 +1315,9 @@ input[type="button"].btn-block {
   z-index: 107;
   display: block;
   margin: 0;
+  font-family: HelveticaNeue-Thin;
   font-style: normal;
-  font-weight: normal;
+  font-weight: 200;
   line-height: 1.5;
   text-align: center;
   text-align: start;
