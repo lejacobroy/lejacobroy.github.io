@@ -660,15 +660,12 @@ img {
 
   .footer_int {
   	width: 80%;
-    left:10%;
-    right:10%;
 	position: relative;
   }
 
   .buttons_container {
   	position: relative;
-  	margin-left: 10px;
-  	padding-left: 10px;
+  	left:12.5%;
   	z-index: 999;
   }
 
@@ -1336,7 +1333,7 @@ input[type="button"].btn-block {
 }
 
 .tooltip.show {
-  opacity: 0.9;
+  opacity: 0.7;
 }
 
 .tooltip .arrow {
@@ -1416,7 +1413,7 @@ input[type="button"].btn-block {
 .tooltip-inner {
   max-width: 500px;
   padding: 3px 8px;
-  color: #fff;
+  color: #696969;
   text-align: center;
   background-color: #000;
   border-radius: 0.25rem;
