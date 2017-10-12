@@ -537,7 +537,7 @@ img {
   display: block;
   color: #505050;
   font-size: 1rem;
-  padding-bottom:30px;
+  padding-bottom:60px;
 }
 .formats_text {
   font-family: HelveticaNeue-Thin;
@@ -1356,7 +1356,7 @@ input[type="button"].btn-block {
   margin-left: -3px;
   content: "";
   border-width: 5px 5px 0;
-  border-top-color: #000;
+  border-top-color: #696969;
 }
 
 .tooltip.bs-tooltip-right, .tooltip.bs-tooltip-auto[x-placement^="right"] {
@@ -1371,7 +1371,7 @@ input[type="button"].btn-block {
   margin-top: -3px;
   content: "";
   border-width: 5px 5px 5px 0;
-  border-right-color: #000;
+  border-right-color: #696969;
 }
 
 .tooltip.bs-tooltip-bottom, .tooltip.bs-tooltip-auto[x-placement^="bottom"] {
@@ -1386,7 +1386,7 @@ input[type="button"].btn-block {
   margin-left: -3px;
   content: "";
   border-width: 0 5px 5px;
-  border-bottom-color: #000;
+  border-bottom-color: #696969;
 }
 
 .tooltip.bs-tooltip-left, .tooltip.bs-tooltip-auto[x-placement^="left"] {
@@ -1402,7 +1402,7 @@ input[type="button"].btn-block {
   margin-top: -3px;
   content: "";
   border-width: 5px 0 5px 5px;
-  border-left-color: #000;
+  border-left-color: #696969;
 }
 
 .tooltip .arrow::before {
