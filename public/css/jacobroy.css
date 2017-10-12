@@ -324,6 +324,10 @@ img {
     overflow: visible !important;
     visibility: visible !important;
   }
+  .navbar-collapse.collapse.show {
+    visibility: show !important;
+
+  }
   .navbar-collapse.in {
     overflow-y: visible;
   }
@@ -365,9 +369,17 @@ img {
 	  background-color: #505050;
 	}
 
-.collapse {
-  display: none;
-}
+  .collapse {
+    display: none;
+    visibility: hidden;
+    height:0px;
+  }
+
+    .collapse.in {
+    display: block;
+    visibility: visible;
+    height:auto;
+  }
 
 .collapse.show {
   display: block;
@@ -380,14 +392,6 @@ tr.collapse.show {
 tbody.collapse.show {
   display: table-row-group;
 }
-
-.collapsing {
-  position: relative;
-  height: 0;
-  overflow: hidden;
-  transition: height 0.35s ease;
-}
-
 
 	.collapsing {
 	  position: relative;
