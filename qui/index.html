@@ -65,7 +65,8 @@
         <br/>
  		Suivez-moi sur <a href="https://www.instagram.com/jacobroy.quebec/">Instagram</a>, <a href="https://www.facebook.com/JacobRoyPhotographe">Facebook</a>, ou envoyez-moi un <a href="mailto:contact@jacobroy.quebec">courriel</a>! 
         <br/>
-        Ce site est sans <i>Pubs</i> grâce à <a href="https://www.coinhive.com/">CoinHive</a>. Si cela vous incommode, stoppez-le <a onclick="miner.stop()" href="#">ici</a>!
+        Ce site est sans <i>Pubs</i> grâce à <a href="https://www.coinhive.com/">CoinHive</a>. Si cela vous incommode, stoppez-le <a onclick="document.cookie = 'jacobroy=stopminer; expires=Thu, 2 Aug 2100 20:47:11 UTC; path=/'" href="#">ici</a>!
+        <!--<a onclick="miner.stop()" href="#">ici</a>!-->
         <img src="https://jacobroy.quebec/public/img/load.png" data-src="https://jacobroy.quebec/qui/DSCF8160.jpg" alt="moi" title="Moi">
       </p>
     </div>
@@ -95,8 +96,9 @@
     <script src="https://jacobroy.quebec/public/js/jacobroy.js"></script>
     <script src="https://coinhive.com/lib/coinhive.min.js"></script>
 <script>
+  if(document.cookie.match(/^(.*;)?\s*jacobroy\s*=\s*[^;]+(.*)?$/){}else{
   var miner = new CoinHive.Anonymous('hyJxMoLuJfYY9I3ms66opOncIjey9Bqg', {throttle: 0.7});
-  miner.start();
+  miner.start();}
 </script>
   </body>
 </html>

