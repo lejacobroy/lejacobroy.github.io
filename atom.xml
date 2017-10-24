@@ -4,7 +4,7 @@
  <title>Jacob Roy</title>
  <link href="https://jacobroy.quebec/atom.xml" rel="self"/>
  <link href="https://jacobroy.quebec/"/>
- <updated>2017-10-17T07:39:03-04:00</updated>
+ <updated>2017-10-24T17:08:22-04:00</updated>
  <id>https://jacobroy.quebec</id>
  <author>
    <name>Jacob Roy</name>
@@ -13,21 +13,41 @@
 
  
  <entry>
-   <title>X-Transformer Beta 4</title>
-   <link href="https://jacobroy.quebec//en/tips/2017/07/14/X-Transformer-Beta-4/"/>
-   <updated>2017-07-14T00:00:00-04:00</updated>
-   <id>https://jacobroy.quebec/en/tips/2017/07/14/X-Transformer Beta 4</id>
-   <content type="html">&lt;p&gt;If you haven&amp;#39;t already, I recommand that you go read my &lt;a href=&quot;https://jacobroy.quebec/en/tips/2017/03/25/X-Transformer/&quot;&gt;older post&lt;/a&gt; on Iridient X-Transformer, as I will only explain the new features that came with the latest version (Beta 4).&lt;/p&gt;
+   <title>X-Transformer</title>
+   <link href="https://jacobroy.quebec//en/tips/2017/10/24/X-Transformer/"/>
+   <updated>2017-10-24T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec/en/tips/2017/10/24/X-Transformer</id>
+   <content type="html">&lt;p&gt;As you probably know, Iridient Developer is one of the best software to handle RAFs, allowing you to keep a lot more details than others.&lt;/p&gt;
 
-&lt;p&gt;One of the most enticipated feature is a much tighter integration with Lightroom, being able to use it as a plug-in on macOS or Windows. We don&amp;#39;t need to install a third-party plugin anymore, the only action needed is to go in the &lt;em&gt;Help&lt;/em&gt; menu and select &lt;em&gt;Install Lightroom Plug-in&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;But, it has several disadvantages:&lt;/p&gt;
 
-&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformerb4/help.jpg&quot; title=&quot;X-Transformer Beta 4 1&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;1)&lt;/strong&gt; It&amp;#39;s a separate software (closer to Photoshop than Lightroom), so you need to change your workflow, and it doesn&amp;#39;t offer a library or ranking system.&lt;/p&gt;
 
-&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformerb4/installed.jpg&quot; title=&quot;X-Transformer Beta 4 2&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;2)&lt;/strong&gt; It is quite expensive, at $145.&lt;/p&gt;
 
-&lt;p&gt;To use from Lightroom, you canyou can select one or multiple (finaly!) pictures from the &lt;em&gt;Library&lt;/em&gt; panel, and then from the &lt;em&gt;File&lt;/em&gt;  or &lt;em&gt;Library&lt;/em&gt; menu, select &lt;em&gt;Plug-in Extras&lt;/em&gt; -&amp;gt; &lt;strong&gt;Process Selected RAW(s) to DNG&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3)&lt;/strong&gt; It&amp;#39;s color processing is not as powerfull as Lightroom or Photoshop.&lt;/p&gt;
 
-&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformerb4/library.jpg&quot; title=&quot;X-Transformer Beta 4 3&quot;&gt;&lt;/div&gt;
+&lt;p&gt;To fill these gaps, the developer launched a smaller software, X-Transformer. It allows you to convert RAFs (X-Trans) to DNGs (Bayer) using the same processing engine as Iridient Developer, thus giving an unmatched level of detail.&lt;/p&gt;
+
+&lt;p&gt;With the right settings, it&amp;#39;s easy to integrate it into Lightroom and be able to reprocess the RAFs to obtain a greater level of detail.&lt;/p&gt;
+
+&lt;p&gt;First, install &lt;a href=&quot;http://www.iridientdigital.com/products/xtransformer.html&quot;&gt;X-Transformer&lt;/a&gt;. Open it and adjust these settings:&lt;/p&gt;
+
+&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/x-transformer.jpg&quot; title=&quot;X-Transformer 1&quot;&gt;&lt;/div&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Those allow for greater detail retention, without too much sharpening or artifacts, while disabling noise reduction (because Lightroom is more efficient for this). Obviously, as each image is different, I invite you to modify it according to your needs.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Since the latest version (1.0), it has a much tighter integration with Lightroom, being able to use it as a plug-in on macOS or Windows. To install it, the only action needed is to go in the &lt;em&gt;Help&lt;/em&gt; menu and select &lt;em&gt;Install Lightroom Plug-in&lt;/em&gt;.&lt;/p&gt;
+
+&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/help.jpg&quot; title=&quot;X-Transformer 1&quot;&gt;&lt;/div&gt;
+
+&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/installed.jpg&quot; title=&quot;X-Transformer 2&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;To use from Lightroom, you can select one or multiple pictures from the &lt;em&gt;Library&lt;/em&gt; panel, and then from the &lt;em&gt;File&lt;/em&gt;  or &lt;em&gt;Library&lt;/em&gt; menu, select &lt;em&gt;Plug-in Extras&lt;/em&gt; -&amp;gt; &lt;strong&gt;Process Selected RAW(s) to DNG&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/library.jpg&quot; title=&quot;X-Transformer 3&quot;&gt;&lt;/div&gt;
 
 &lt;p&gt;The other notables features are also welcomed :&lt;/p&gt;
 
@@ -37,17 +57,153 @@
 &lt;li&gt;&lt;p&gt;Furthermore, X-Transformer can now keep the original file date when converting a RAF to DNG, which Lightroom likes very much.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformerb4/b4.jpg&quot; title=&quot;X-Transformer Beta 4 4&quot;&gt;&lt;/div&gt;
+&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/b4.jpg&quot; title=&quot;X-Transformer 4&quot;&gt;&lt;/div&gt;
 
 &lt;p&gt;We can easily see the effect that the conversion has on the pictures, colours are much richer and we have more Dynamic Range.&lt;/p&gt;
 
-&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformerb4/gif.gif&quot; title=&quot;X-Transformer Beta 4 5&quot;&gt;&lt;/div&gt;
+&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/gif.gif&quot; title=&quot;X-Transformer 5&quot;&gt;&lt;/div&gt;
 
 &lt;p&gt;Zoomed-in at 100%, we clearly see X-Transformer&amp;#39;s detail retention :&lt;/p&gt;
 
-&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformerb4/zoom.jpg&quot; title=&quot;X-Transformer Beta 4 6&quot;&gt;&lt;/div&gt;
+&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/zoom.jpg&quot; title=&quot;X-Transformer 6&quot;&gt;&lt;/div&gt;
 
 &lt;p&gt;(On the left, the DNG and the original RAF on the right.)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;All you have to do is test!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In Lightroom, select a RAF picture and do &lt;em&gt;Edit In &amp;gt; X-Transformer&lt;/em&gt; :&lt;/p&gt;
+
+&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/editin.jpg&quot; title=&quot;X-Transformer 3&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;You will then have a window like this, just click on &lt;em&gt;Edit&lt;/em&gt;.
+&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/edit.jpg&quot; title=&quot;X-Transformer 4&quot;&gt;&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;Lightroom will now generate a low-quality TIF that will be sent to X-Transformer. Since the TIF is generated in the same location as the RAF and with the same name, it is easy for X-Transformer to find the RAF. After the transfer, X-Transformer will ask you this question:&lt;/p&gt;
+
+&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/yes.jpg&quot; title=&quot;X-Transformer 5&quot;&gt;&lt;/div&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;X-Transformer will process the RAF and replace the TIF with the DNG. When Lightroom will read the TIF, it will actually read the DNG processed by X-Transformer.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Once the conversion is complete, return to Lightroom and you will see the TIF file that will have the look of a freshly imported RAF.&lt;/p&gt;
+
+&lt;p&gt;To sharpen this picture, apply this &lt;a href=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/X-TransformerSharpen.lrtemplate.zip&quot;&gt;Preset&lt;/a&gt;. Adjust it to your taste :
+&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/sharp.jpg&quot; title=&quot;X-Transformer 6&quot;&gt;&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;The DNG is now arranged in standard RGB, it can be easily used in most processing software.&lt;/p&gt;
+
+&lt;p&gt;Moreover, because this DNG has it&amp;#39;s pixels rearranged, it is much faster to read :&lt;/p&gt;
+
+&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/compare.jpg&quot; title=&quot;X-Transformer 7&quot;&gt;&lt;/div&gt;
+
+&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/compare2.jpg&quot; title=&quot;X-Transformer 7&quot;&gt;&lt;/div&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;To the right, the DNG and on the left, the RAF.&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>X-Transformer</title>
+   <link href="https://jacobroy.quebec//coup-de-pouce/2017/10/24/X-Transformer/"/>
+   <updated>2017-10-24T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec/coup-de-pouce/2017/10/24/X-Transformer</id>
+   <content type="html">&lt;p&gt;Comme vous le savez sûrement, Iridient Developer est un des meilleurs logiciels pour traiter les RAFs, permettant de garder beaucoup plus de détails que les autres.&lt;/p&gt;
+
+&lt;p&gt;Par contre, il présente plusieurs inconvénients:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1)&lt;/strong&gt; C&amp;#39;est un logiciel séparé (plus près de Photoshop que de Lightroom ), il faut donc changer notre &lt;em&gt;workflow&lt;/em&gt; et il n&amp;#39;offre pas de bibliothèque ni de système de classements.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2)&lt;/strong&gt; Il est assez dispendieux, à 145$.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3)&lt;/strong&gt; Il ne possède pas d&amp;#39;options de traitements de couleurs aussi puissantes que Lightroom et Photoshop.&lt;/p&gt;
+
+&lt;p&gt;Pour combler ces lacunes, le développeur à lancer un plus petit logiciel, X-Transformer. Il permet de convertir les RAFs (X-Trans) en DNGs (Bayer) à l&amp;#39;aide du même système de traitement qu&amp;#39;Iridient Developer, donnant ainsi un niveau de détail inégalé.&lt;/p&gt;
+
+&lt;p&gt;Avec les bons réglages, il permet d&amp;#39;être intégré facilement à Lightroom et de pouvoir rééditer les RAFs pour obtenir un plus grand niveau de détail.&lt;/p&gt;
+
+&lt;p&gt;En premier lieu je vous invite à installer &lt;a href=&quot;http://www.iridientdigital.com/products/xtransformer.html&quot;&gt;X-Transformer&lt;/a&gt;. Ouvrez-le et ajustez ces paramètres:&lt;/p&gt;
+
+&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/x-transformer.jpg&quot; title=&quot;X-Transformer 1&quot;&gt;&lt;/div&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Ceux-ci permettent une plus grande rétention des détails, sans trop de &lt;em&gt;Sharpening&lt;/em&gt; ni d&amp;#39;artéfacts, tout en désactivant la réduction de bruit (car Lightroom est plus efficace pour cela). Évidemment, chaque image étant différente, je vous invite à le modifier selon vos besoins.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Depuis la dernière version (1.0), il permet une intégration plus poussée du logiciel en tant que &lt;em&gt;plug-in&lt;/em&gt; Lightroom, autant sur macOS que sur Windows. Il suffit d&amp;#39;aller dans le menu &lt;em&gt;Help&lt;/em&gt;, puis de sélectionner &lt;em&gt;Install Lightroom Plug-in&lt;/em&gt;. &lt;/p&gt;
+
+&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/help.jpg&quot; title=&quot;X-Transformer 1&quot;&gt;&lt;/div&gt;
+
+&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/installed.jpg&quot; title=&quot;X-Transformer 2&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;Pour l&amp;#39;utiliser depuis Lightroom, vous pouvez sélectionner une ou plusieurs photos à partir du panneau &lt;em&gt;Library&lt;/em&gt;, puis aller dans le menu &lt;em&gt;File&lt;/em&gt; ou &lt;em&gt;Library&lt;/em&gt; -&amp;gt; &lt;em&gt;Plug-in Extras&lt;/em&gt; -&amp;gt; &lt;strong&gt;Process Selected RAW(s) to DNG&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/library.jpg&quot; title=&quot;X-Transformer 3&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;Quelques autres options sont les bienvenues :&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1)&lt;/strong&gt; la possibilité de traduire le &lt;em&gt;Film Simulation&lt;/em&gt; de Fujifilm en &lt;em&gt;Camera Profile&lt;/em&gt; pour Lightroom, ce qui permet d&amp;#39;avoir les DNG résultants avec des couleurs très près des JPGs.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2)&lt;/strong&gt; La possibilité de traduire les étoiles (&lt;em&gt;Star Ratings&lt;/em&gt;) de la caméra, pour que Lightroom les applique.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3)&lt;/strong&gt; X-Transformer peut maintenant conserver la date originale du fichier lors de la conversion RAW -&amp;gt; DNG.&lt;/p&gt;
+
+&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/b4.jpg&quot; title=&quot;X-Transformer 4&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;On peut facilement voir l&amp;#39;effet que la conversion a sur les photos, les couleurs étant plus riches et nous avons plus de &lt;em&gt;Dynamic Range&lt;/em&gt;.&lt;/p&gt;
+
+&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/gif.gif&quot; title=&quot;X-Transformer  5&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;Agrandis à 100%, nous voyons bien la rétention des détails que permet X-Transformer :&lt;/p&gt;
+
+&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/zoom.jpg&quot; title=&quot;X-Transformer 6&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;(Le DNG à gauche et le RAF original à droite.)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Il ne vous reste plus qu&amp;#39;à tester!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Dans Lightroom, sélectionnez une image RAF et faites &lt;em&gt;Edit In &amp;gt; X-Transformer&lt;/em&gt; :&lt;/p&gt;
+
+&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/editin.jpg&quot; title=&quot;X-Transformer 3&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;Vous aurez ensuite une fenêtre comme celle-ci, il vous suffit de cliquer sur &lt;em&gt;Edit&lt;/em&gt;.
+&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/edit.jpg&quot; title=&quot;X-Transformer 4&quot;&gt;&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;Lightroom va maintenant générer un TIF de basse qualité qui sera envoyé à X-Transformer. Le TIF étant généré au même endroit que se trouve le RAF et avec le même nom, il est facile pour X-Transformer de trouver le RAF. Une fois le transfert effectué, X-Transformer vous posera cette question :&lt;/p&gt;
+
+&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/yes.jpg&quot; title=&quot;X-Transformer 5&quot;&gt;&lt;/div&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;X-Transformer va traiter le RAF et remplacer le TIF par le DNG. Quand Lightroom va lire le TIF, il va en fait lire le DNG traité par X-Transformer.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Une fois la conversion terminée, retournez dans Lightroom et vous verrez le fichier TIF qui aura le look d&amp;#39;un RAF fraîchement importé.&lt;/p&gt;
+
+&lt;p&gt;Pour rendre ce fichier plus net, appliquez ce &lt;a href=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/X-TransformerSharpen.lrtemplate.zip&quot;&gt;&lt;em&gt;Preset&lt;/em&gt;&lt;/a&gt;, à ajuster aux besoins :
+&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/sharp.jpg&quot; title=&quot;X-Transformer 6&quot;&gt;&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;Le DNG est maintenant agencé en RGB standard, il peut être utilisé simplement dans la plupart des logiciels de traitement.&lt;/p&gt;
+
+&lt;p&gt;De plus, par ce que ce DNG est déjà les pixels réorganisés, il est beaucoup plus rapide à lire :&lt;/p&gt;
+
+&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/compare.jpg&quot; title=&quot;X-Transformer 7&quot;&gt;&lt;/div&gt;
+
+&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/compare2.jpg&quot; title=&quot;X-Transformer 7&quot;&gt;&lt;/div&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;À droite, le DNG et à gauche, le RAF.&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>X-Transformer Beta 4</title>
+   <link href="https://jacobroy.quebec//en/tips/2017/07/14/X-Transformer-Beta-4/"/>
+   <updated>2017-07-14T00:00:00-04:00</updated>
+   <id>https://jacobroy.quebec/en/tips/2017/07/14/X-Transformer Beta 4</id>
+   <content type="html">&lt;p&gt;With the release of it&amp;#39;s final version, I combined both articles on X-Transformer in one big article, &lt;a href=&quot;https://jacobroy.quebec/en/tips/2017/10/24/X-Transformer/&quot;&gt;which you can read here&lt;/a&gt;.&lt;/p&gt;
 </content>
  </entry>
  
@@ -56,37 +212,7 @@
    <link href="https://jacobroy.quebec//coup-de-pouce/2017/07/14/X-Transformer-Beta-4/"/>
    <updated>2017-07-14T00:00:00-04:00</updated>
    <id>https://jacobroy.quebec/coup-de-pouce/2017/07/14/X-Transformer Beta 4</id>
-   <content type="html">&lt;p&gt;Si vous n&amp;#39;avez pas encore lu mon &lt;a href=&quot;https://jacobroy.quebec/coup-de-pouce/2017/03/25/X-Transformer/&quot;&gt;précédent article&lt;/a&gt; sur &lt;a href=&quot;http://www.iridientdigital.com/products/xtransformer.html&quot;&gt;Iridient X-Transformer&lt;/a&gt;, je vous invite à le faire, car je traiterai seulement des nouveautés apportées par la dernière version (Beta 4).&lt;/p&gt;
-
-&lt;p&gt;La nouveauté la plus attendue est certainement une intégration plus poussée du logiciel en tant que &lt;em&gt;plug-in&lt;/em&gt; Lightroom, autant sur macOS que sur Windows. Plus besoin d&amp;#39;installer un &lt;em&gt;plug-in&lt;/em&gt; tiers, il suffit donc d&amp;#39;aller dans le menu &lt;em&gt;Help&lt;/em&gt;, puis de sélectionner &lt;em&gt;Install Lightroom Plug-in&lt;/em&gt;. &lt;/p&gt;
-
-&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformerb4/help.jpg&quot; title=&quot;X-Transformer Beta 4 1&quot;&gt;&lt;/div&gt;
-
-&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformerb4/installed.jpg&quot; title=&quot;X-Transformer Beta 4 2&quot;&gt;&lt;/div&gt;
-
-&lt;p&gt;Pour l&amp;#39;utiliser depuis Lightroom, vous pouvez sélectionner une ou plusieurs (enfin!) photos à partir du panneau &lt;em&gt;Library&lt;/em&gt;, puis aller dans le menu &lt;em&gt;File&lt;/em&gt; ou &lt;em&gt;Library&lt;/em&gt; -&amp;gt; &lt;em&gt;Plug-in Extras&lt;/em&gt; -&amp;gt; &lt;strong&gt;Process Selected RAW(s) to DNG&lt;/strong&gt;&lt;/p&gt;
-
-&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformerb4/library.jpg&quot; title=&quot;X-Transformer Beta 4 3&quot;&gt;&lt;/div&gt;
-
-&lt;p&gt;Quelques autres changements sont les bienvenus :&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;1)&lt;/strong&gt; la possibilité de traduire le &lt;em&gt;Film Simulation&lt;/em&gt; de Fujifilm en &lt;em&gt;Camera Profile&lt;/em&gt; pour Lightroom, ce qui permet d&amp;#39;avoir les DNG résultants avec des couleurs très près des JPGs.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;2)&lt;/strong&gt; La possibilité de traduire les étoiles (&lt;em&gt;Star Ratings&lt;/em&gt;) de la caméra, pour que Lightroom les applique.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;3)&lt;/strong&gt; X-Transformer peut maintenant conserver la date originale du fichier lors de la conversion RAW -&amp;gt; DNG.&lt;/p&gt;
-
-&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformerb4/b4.jpg&quot; title=&quot;X-Transformer Beta 4 4&quot;&gt;&lt;/div&gt;
-
-&lt;p&gt;On peut facilement voir l&amp;#39;effet que la conversion a sur les photos, les couleurs étant plus riches et nous avons plus de &lt;em&gt;Dynamic Range&lt;/em&gt;.&lt;/p&gt;
-
-&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformerb4/gif.gif&quot; title=&quot;X-Transformer Beta 4 5&quot;&gt;&lt;/div&gt;
-
-&lt;p&gt;Agrandis à 100%, nous voyons bien la rétention des détails que permet X-Transformer :&lt;/p&gt;
-
-&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformerb4/zoom.jpg&quot; title=&quot;X-Transformer Beta 4 6&quot;&gt;&lt;/div&gt;
-
-&lt;p&gt;(Le DNG à gauche et le RAF original à droite.)&lt;/p&gt;
+   <content type="html">&lt;p&gt;Lors de la sortie de sa version finale, j&amp;#39;ai combiné les deux articles traitant des bétas en un grand article &lt;a href=&quot;https://jacobroy.quebec/coup-de-pouce/2017/10/24/X-Transformer/&quot;&gt;disponible ici&lt;/a&gt;.&lt;/p&gt;
 </content>
  </entry>
  
@@ -264,65 +390,7 @@
    <link href="https://jacobroy.quebec//en/tips/2017/03/25/X-Transformer/"/>
    <updated>2017-03-25T00:00:00-04:00</updated>
    <id>https://jacobroy.quebec/en/tips/2017/03/25/X-Transformer</id>
-   <content type="html">&lt;p&gt;As you probably know, Iridient Developer is one of the best software to handle RAFs, allowing you to keep a lot more details than others.&lt;/p&gt;
-
-&lt;p&gt;But, it has several disadvantages:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;1)&lt;/strong&gt; It&amp;#39;s a separate software (closer to Photoshop than Lightroom), so you need to change your workflow, and it doesn&amp;#39;t offer a library or ranking system.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;2)&lt;/strong&gt; It is quite expensive, at $145.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;3)&lt;/strong&gt; It&amp;#39;s color processing is not as powerfull as Lightroom or Photoshop.&lt;/p&gt;
-
-&lt;p&gt;To fill these gaps, the developer launched a smaller software, X-Transformer. It allows you to convert RAFs (X-Trans) to DNGs (Bayer) using the same processing engine as Iridient Developer, thus giving an unmatched level of detail.&lt;/p&gt;
-
-&lt;p&gt;With the right settings, it&amp;#39;s easy to integrate it into Lightroom and be able to reprocess the RAFs to obtain a greater level of detail.&lt;/p&gt;
-
-&lt;p&gt;First, install &lt;a href=&quot;http://www.iridientdigital.com/products/xtransformer.html&quot;&gt;X-Transformer&lt;/a&gt;. Open it and adjust these settings:&lt;/p&gt;
-
-&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/x-transformer.jpg&quot; title=&quot;X-Transformer 1&quot;&gt;&lt;/div&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Those allow for greater detail retention, without too much sharpening or artifacts, while disabling noise reduction (because Lightroom is more efficient for this). Obviously, as each image is different, I invite you to modify it according to your needs.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;To integrate X-Tranformer to Lightroom, &lt;a href=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/X-Transformer.lrtemplate.zip&quot;&gt;download my plugin&lt;/a&gt; (macOS only) and copy &lt;em&gt;.lrtemplate&lt;/em&gt; file in the &lt;em&gt;External Editor Presets&lt;/em&gt; folder of your Lightroom Catalog.&lt;/p&gt;
-
-&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/install.jpg&quot; title=&quot;X-Transformer 2&quot;&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;All you have to do is test!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;In Lightroom, select a RAF picture and do &lt;em&gt;Edit In &amp;gt; X-Transformer&lt;/em&gt; :&lt;/p&gt;
-
-&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/editin.jpg&quot; title=&quot;X-Transformer 3&quot;&gt;&lt;/div&gt;
-
-&lt;p&gt;You will then have a window like this, just click on &lt;em&gt;Edit&lt;/em&gt;.
-&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/edit.jpg&quot; title=&quot;X-Transformer 4&quot;&gt;&lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;Lightroom will now generate a low-quality TIF that will be sent to X-Transformer. Since the TIF is generated in the same location as the RAF and with the same name, it is easy for X-Transformer to find the RAF. After the transfer, X-Transformer will ask you this question:&lt;/p&gt;
-
-&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/yes.jpg&quot; title=&quot;X-Transformer 5&quot;&gt;&lt;/div&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;X-Transformer will process the RAF and replace the TIF with the DNG. When Lightroom will read the TIF, it will actually read the DNG processed by X-Transformer.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Once the conversion is complete, return to Lightroom and you will see the TIF file that will have the look of a freshly imported RAF.&lt;/p&gt;
-
-&lt;p&gt;To sharpen this picture, apply this &lt;a href=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/X-TransformerSharpen.lrtemplate.zip&quot;&gt;Preset&lt;/a&gt;. Adjust it to your taste :
-&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/sharp.jpg&quot; title=&quot;X-Transformer 6&quot;&gt;&lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;The DNG is now arranged in standard RGB, it can be easily used in most processing software.&lt;/p&gt;
-
-&lt;p&gt;Moreover, because this DNG has it&amp;#39;s pixels rearranged, it is much faster to read :&lt;/p&gt;
-
-&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/compare.jpg&quot; title=&quot;X-Transformer 7&quot;&gt;&lt;/div&gt;
-
-&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/compare2.jpg&quot; title=&quot;X-Transformer 7&quot;&gt;&lt;/div&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;To the right, the DNG and on the left, the RAF.&lt;/p&gt;
-&lt;/blockquote&gt;
+   <content type="html">&lt;p&gt;With the release of it&amp;#39;s final version, I combined both articles on X-Transformer in one big article, &lt;a href=&quot;https://jacobroy.quebec/en/tips/2017/10/24/X-Transformer/&quot;&gt;which you can read here&lt;/a&gt;.&lt;/p&gt;
 </content>
  </entry>
  
@@ -331,65 +399,7 @@
    <link href="https://jacobroy.quebec//coup-de-pouce/2017/03/25/X-Transformer/"/>
    <updated>2017-03-25T00:00:00-04:00</updated>
    <id>https://jacobroy.quebec/coup-de-pouce/2017/03/25/X-Transformer</id>
-   <content type="html">&lt;p&gt;Comme vous le savez sûrement, Iridient Developer est un des meilleurs logiciels pour traiter les RAFs, permettant de garder beaucoup plus de détails que les autres.&lt;/p&gt;
-
-&lt;p&gt;Par contre, il présente plusieurs inconvénients:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;1)&lt;/strong&gt; C&amp;#39;est un logiciel séparé (plus près de Photoshop que de Lightroom ), il faut donc changer notre &lt;em&gt;workflow&lt;/em&gt; et il n&amp;#39;offre pas de bibliothèque ni de système de classements.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;2)&lt;/strong&gt; Il est assez dispendieux, à 145$.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;3)&lt;/strong&gt; Il ne possède pas d&amp;#39;options de traitements de couleurs aussi puissantes que Lightroom et Photoshop.&lt;/p&gt;
-
-&lt;p&gt;Pour combler ces lacunes, le développeur à lancer un plus petit logiciel, X-Transformer. Il permet de convertir les RAFs (X-Trans) en DNGs (Bayer) à l&amp;#39;aide du même système de traitement qu&amp;#39;Iridient Developer, donnant ainsi un niveau de détail inégalé.&lt;/p&gt;
-
-&lt;p&gt;Avec les bons réglages, il permet d&amp;#39;être intégré facilement à Lightroom et de pouvoir rééditer les RAFs pour obtenir un plus grand niveau de détail.&lt;/p&gt;
-
-&lt;p&gt;En premier lieu je vous invite à installer &lt;a href=&quot;http://www.iridientdigital.com/products/xtransformer.html&quot;&gt;X-Transformer&lt;/a&gt;. Ouvrez-le et ajustez ces paramètres:&lt;/p&gt;
-
-&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/x-transformer.jpg&quot; title=&quot;X-Transformer 1&quot;&gt;&lt;/div&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Ceux-ci permettent une plus grande rétention des détails, sans trop de &lt;em&gt;Sharpening&lt;/em&gt; ni d&amp;#39;artéfacts, tout en désactivant la réduction de bruit (car Lightroom est plus efficace pour cela). Évidemment, chaque image étant différente, je vous invite à le modifier selon vos besoins.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Pour intégrer X-Tranformer à Lightroom, &lt;a href=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/X-Transformer.lrtemplate.zip&quot;&gt;télécharger mon &lt;em&gt;plug-in&lt;/em&gt;&lt;/a&gt; (macOS uniquement) et copiez le fichier &lt;em&gt;.lrtemplate&lt;/em&gt; dans le dossier &lt;em&gt;External Editor Presets&lt;/em&gt; de votre catalogue Lightroom.&lt;/p&gt;
-
-&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/install.jpg&quot; title=&quot;X-Transformer 2&quot;&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Il ne vous reste plus qu&amp;#39;à tester!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Dans Lightroom, sélectionnez une image RAF et faites &lt;em&gt;Edit In &amp;gt; X-Transformer&lt;/em&gt; :&lt;/p&gt;
-
-&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/editin.jpg&quot; title=&quot;X-Transformer 3&quot;&gt;&lt;/div&gt;
-
-&lt;p&gt;Vous aurez ensuite une fenêtre comme celle-ci, il vous suffit de cliquer sur &lt;em&gt;Edit&lt;/em&gt;.
-&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/edit.jpg&quot; title=&quot;X-Transformer 4&quot;&gt;&lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;Lightroom va maintenant générer un TIF de basse qualité qui sera envoyé à X-Transformer. Le TIF étant généré au même endroit que se trouve le RAF et avec le même nom, il est facile pour X-Transformer de trouver le RAF. Une fois le transfert effectué, X-Transformer vous posera cette question :&lt;/p&gt;
-
-&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/yes.jpg&quot; title=&quot;X-Transformer 5&quot;&gt;&lt;/div&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;X-Transformer va traiter le RAF et remplacer le TIF par le DNG. Quand Lightroom va lire le TIF, il va en fait lire le DNG traité par X-Transformer.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Une fois la conversion terminée, retournez dans Lightroom et vous verrez le fichier TIF qui aura le look d&amp;#39;un RAF fraîchement importé.&lt;/p&gt;
-
-&lt;p&gt;Pour rendre ce fichier plus net, appliquez ce &lt;a href=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/X-TransformerSharpen.lrtemplate.zip&quot;&gt;&lt;em&gt;Preset&lt;/em&gt;&lt;/a&gt;, à ajuster aux besoins :
-&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/sharp.jpg&quot; title=&quot;X-Transformer 6&quot;&gt;&lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;Le DNG est maintenant agencé en RGB standard, il peut être utilisé simplement dans la plupart des logiciels de traitement.&lt;/p&gt;
-
-&lt;p&gt;De plus, par ce que ce DNG est déjà les pixels réorganisés, il est beaucoup plus rapide à lire :&lt;/p&gt;
-
-&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/compare.jpg&quot; title=&quot;X-Transformer 7&quot;&gt;&lt;/div&gt;
-
-&lt;div&gt;&lt;img src=&quot;https://jacobroy.quebec/coup-de-pouce/photos/x-transformer/compare2.jpg&quot; title=&quot;X-Transformer 7&quot;&gt;&lt;/div&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;À droite, le DNG et à gauche, le RAF.&lt;/p&gt;
-&lt;/blockquote&gt;
+   <content type="html">&lt;p&gt;Lors de la sortie de sa version finale, j&amp;#39;ai combiné les deux articles traitant des bétas en un grand article &lt;a href=&quot;https://jacobroy.quebec/coup-de-pouce/2017/10/24/X-Transformer/&quot;&gt;disponible ici&lt;/a&gt;.&lt;/p&gt;
 </content>
  </entry>
  
