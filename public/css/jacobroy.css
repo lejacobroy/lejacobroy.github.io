@@ -542,6 +542,9 @@ img {
   font-size: 1rem;
   padding-bottom:60px;
 }
+.formats button {
+  margin-left: 20px;
+}
 .formats_text {
   font-family: HelveticaNeue-Thin;
 }
