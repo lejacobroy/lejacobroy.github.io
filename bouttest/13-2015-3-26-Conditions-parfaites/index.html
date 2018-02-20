@@ -82,6 +82,35 @@
     <option>48" x 32"</option>
     <option>55" x 37"</option>
 </select>
+
+<div id="raiblocks-button"></div>
+
+<script src="https://brainblocks.io/brainblocks.js"></script>
+
+<script>
+    // Render the RaiBlocks button
+
+    brainblocks.Button.render({
+
+        // Pass in payment options
+
+        payment: {
+            destination: 'xrb_164xaa1ojy6qmq9e8t94mz8izr4mkf1sojb6xrmstru5jsif48g5kegcqg7y',
+            currency:    'rai',
+            amount:      1000
+        },
+
+        // Handle successful payments
+
+        onPayment: function(data) {
+            console.log('Payment successful!', data.token);
+        }
+
+    }, '#raiblocks-button');
+</script>
+
+
+
 </form>
     <button type="button" class="snipcart-add-item btn btn-secondary btn-sm" id="button_affiche"
         data-item-name="Conditions Parfaites - Papier Affiche"
