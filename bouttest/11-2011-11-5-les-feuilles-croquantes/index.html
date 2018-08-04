@@ -71,69 +71,10 @@
   </div>
   <span id="detail" style="display:none">normal</span>
   <div class="formats">
-      <form><span class="formats_text">
-      Formats : </span>
-<select id="formats">
-    <option selected>16" x 11"</option>
-    <option>24" x 16"</option>
-    <option>30" x 20"</option>
-    <option>36" x 24"</option>
-    <option>42" x 28"</option>
-    <option>48" x 32"</option>
-    <option>55" x 37"</option>
-</select>
-
-<div id="raiblocks-button"></div>
-
-<script src="https://brainblocks.io/brainblocks.js"></script>
-
-<script>
-    // Render the RaiBlocks button
-
-    brainblocks.Button.render({
-
-        // Pass in payment options
-
-        payment: {
-            destination: 'xrb_164xaa1ojy6qmq9e8t94mz8izr4mkf1sojb6xrmstru5jsif48g5kegcqg7y',
-            currency:    'rai',
-            amount:      1000
-        },
-
-        // Handle successful payments
-
-        onPayment: function(data) {
-            console.log('Payment successful!', data.token);
-        }
-
-    }, '#raiblocks-button');
-</script>
-
-
-
-</form>
-    <button type="button" class="snipcart-add-item btn btn-secondary btn-sm" id="button_affiche"
-        data-item-name="Les feuilles croquantes - Papier Affiche"
-        data-item-id="IMG_3846"
-        data-item-image="https://jacobroy.quebec/boutique/thumb/IMG_3846.jpg"
-        data-item-url="https://jacobroy.quebec/bouttest/11-2011-11-5-les-feuilles-croquantes/"
-        data-item-price="10.0"
-        data-item-custom1-name="Format"
-        data-item-custom1-options='16" x 11"[+75.00]|24" x 16"[+90.00]|30" x 20"[+105.00]|36" x 24"[+135.00]|42" x 28"[+165.00]|48" x 32"[+195.00]' 
-        data-toggle="tooltip" data-placement="bottom" data-html="true" title="Impression sur papier semi-lustré 190g, type <em>Poster</em>.<br/>Livraisons gratuites en Amérique du Nord.<br/>">
-        <span id="bouton1"></span>$ &middot; Papier affiche
-      </button>
-         <button type="button" class="snipcart-add-item btn btn-secondary btn-sm" id="button_toile"
-        data-item-name="Les feuilles croquantes - Toile Montée"
-        data-item-id="IMG_3846"
-        data-item-image="https://jacobroy.quebec/boutique/thumb/IMG_3846.jpg"
-        data-item-url="https://jacobroy.quebec/bouttest/11-2011-11-5-les-feuilles-croquantes/"
-        data-item-price="10.0"
-        data-item-custom1-name="Format"
-        data-item-custom1-options='16" x 11"[+90.00]|24" x 16"[+140.00]|30" x 20"[+180.00]|36" x 24"[+240.00]|42" x 28"[+300.00]|48" x 32"[+380.00]|55" x 37"[+480.00]'
-        data-toggle="tooltip" data-placement="bottom" data-html="true" title="Impression sur toile matte 410g, type <em>Canvas</em>, puis montée sur châssis en bois de 1.5&quot; d&apos;épais.<br/>Livraisons gratuites en Amérique du Nord.<br/>">
-        <span id="bouton2"></span>$ &middot; Toile montée
-      </button>     
+    <a role="button" class="btn btn-secondary btn-sm" id="button_pictorem"
+        data-toggle="tooltip" data-placement="bottom" data-html="true" title="Livraisons gratuites en Amérique du Nord." href="https://www.pictorem.com/41025/Feuilles%20Croquantes.html">
+        Commander chez Pictorem
+      </a>  
   </div>
 </div>
 </div>
