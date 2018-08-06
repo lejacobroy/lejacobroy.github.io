@@ -1,4 +1,7 @@
       //unveil
+      $(document).ready(function() {
+  $('[data-toggle="tooltip"]').tooltip()
+});
 $(document).ready(function() {
     $("img").unveil(10, function() {
       $(this).on(function() {
