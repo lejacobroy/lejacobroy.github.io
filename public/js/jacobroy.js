@@ -1,8 +1,6 @@
       //unveil
-      $(document).ready(function() {
-  $('[data-toggle="tooltip"]').tooltip()
-});
 $(document).ready(function() {
+   $('[data-toggle="tooltip"]').tooltip()
     $("img").unveil(10, function() {
       $(this).on(function() {
         this.style.opacity = 1;
